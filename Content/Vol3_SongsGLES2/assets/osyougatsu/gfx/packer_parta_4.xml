@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="packer_parta_4.pvr.ccz" type="pvrccz" width="1360" height="968" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:a8ebfc93a946618a28eb40ca58af3099$ -->
+    <textureregion id="0" src="A3-6A_10-iPhone-koma.png" x="1145" y="575" width="200" height="213" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="213"/>
+    <textureregion id="1" src="A3-6A_11-iPhone-koma.png" x="1043" y="778" width="188" height="189" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="188" srcheight="189"/>
+    <textureregion id="2" src="A3-6B_10-iPhone-koma.png" x="645" y="348" width="263" height="208" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="263" srcheight="208"/>
+    <textureregion id="3" src="A3-6B_11-iPhone-koma.png" x="911" y="372" width="229" height="231" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="229" srcheight="231"/>
+    <textureregion id="4" src="A3-6C_10-iPhone-koma.png" x="1145" y="372" width="200" height="213" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="213"/>
+    <textureregion id="5" src="A3-6C_11-iPhone-koma.png" x="645" y="771" width="203" height="195" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="203" srcheight="195"/>
+    <textureregion id="6" src="A3-6D_10-iPhone-koma.png" x="645" y="559" width="209" height="214" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="209" srcheight="214"/>
+    <textureregion id="7" src="A3-6D_11-iPhone-koma.png" x="851" y="771" width="195" height="189" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="195" srcheight="189"/>
+    <textureregion id="8" src="a3_6e_3_1_iphone_present.png" x="1015" y="2" width="343" height="367" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="343" srcheight="367"/>
+    <textureregion id="9" src="a3_6e_3_2_iphone_present.png" x="645" y="2" width="343" height="367" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="343" srcheight="367"/>
+    <textureregion id="10" src="a3_7_iphone_haikei.png" x="2" y="2" width="960" height="640" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+</texture>

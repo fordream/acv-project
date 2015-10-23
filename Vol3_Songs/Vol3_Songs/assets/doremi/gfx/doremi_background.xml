@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="doremi_background.pvr.ccz" type="pvrccz" width="1934" height="966" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:64cb0d2ea7ecb090c5c6c0f0a7f8f868$ -->
+    <textureregion id="0" src="a17_09_1_iphone_sora.png" x="1291" y="3" width="960" height="640" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="1" src="a17_09_2_iphone_sora.png" x="647" y="3" width="960" height="640" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="2" src="a17_10_iphone_haikei.png" x="3" y="3" width="960" height="640" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+</texture>

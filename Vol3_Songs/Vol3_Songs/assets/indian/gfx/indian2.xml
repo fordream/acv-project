@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="indian2.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:027fff81023e12cacaefbe8a2cd7354e$ -->
+    <textureregion id="0" src="a8_18_1_iphone_duck.png" x="683" y="653" width="107" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="190"/>
+    <textureregion id="1" src="a8_18_2_iphone_duck.png" x="570" y="653" width="107" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="190"/>
+    <textureregion id="2" src="a8_18_3_iphone_duck.png" x="457" y="653" width="107" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="190"/>
+    <textureregion id="3" src="a8_18_4_iphone_duck.png" x="344" y="653" width="107" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="190"/>
+    <textureregion id="4" src="a8_18_5_iphone_duck.png" x="231" y="653" width="107" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="190"/>
+    <textureregion id="5" src="a8_18_6_iphone_duck.png" x="118" y="653" width="107" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="190"/>
+    <textureregion id="6" src="a8_18_7_iphone_duck.png" x="5" y="653" width="107" height="190" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="190"/>
+    <textureregion id="7" src="a8_19_1_iphone_leftcroud.png" x="115" y="960" width="120" height="49" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="120" srcheight="49"/>
+    <textureregion id="8" src="a8_19_2_iphone_rightcroud.png" x="5" y="960" width="104" height="56" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="104" srcheight="56"/>
+    <textureregion id="9" src="a8_20_1_iphone_haikei.png" x="973" y="5" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="10" src="a8_20_2_iphone_haikei.png" x="5" y="5" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="11" src="a8_21_1_iphone_yubi.png" x="457" y="849" width="112" height="83" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="112" srcheight="83"/>
+    <textureregion id="12" src="a8_21_2_iphone_yubi.png" x="338" y="849" width="113" height="84" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="113" srcheight="84"/>
+    <textureregion id="13" src="a8_indian_1_iphone.png" x="116" y="849" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+    <textureregion id="14" src="a8_indian_2_iphone.png" x="5" y="849" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+    <textureregion id="15" src="a8_indian_3_iphone.png" x="227" y="849" width="105" height="104" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="104"/>
+</texture>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ERROR CODE -->
+    <!-- không giải nén được file đã download về -->
+    <string name="error001">zipファイルの解凍に失敗しました。時間をおいて再度お試しいただき、同様のエラーが出るようであればサポートまでお問い合わせをお願いいたします。(お問い合わせコード:001)</string>
+    <!-- không download được file -->
+    <string name="error002">ダウンロードに失敗しました。ネットワーク通信環境をご確認いただいた上で、時間をおいて再度お試しいただき、同様のエラーが出るようであればサポートまでお問い合わせをお願いいたします。(お問い合わせコード:002)</string>
+    <!-- md5 bị sai -->
+    <string name="error004">ダウンロード中にエラーが発生しました。時間をおいてお試しいただき、同様のエラーが発生する場合は、サポートまでお問合わせをお願いいたします。(お問い合わせコード:004)</string>
+    <!-- địa chỉ server download bị sai -->
+    <string name="error005">ダウンロード先に問題があります。お手数ではございますが、サポートまでお問い合わせをお願いいたします。(お問い合わせコード:005)</string>
+    <!-- ứng dụng không kết nối được với google play -->
+    <string name="error007">取得できるデータがありません。サポートまでお問い合わせください。(お問い合わせコード:007)</string>
+
+    <!-- 1. check dung lượng của bộ nhớ trong trước khi download gói main, nếu không đủ dung lượng tổi thiểu thì hiển thị alert báo lỗi -->
+    <string name="error_android_001">端末本体の空き容量が不足しており、初期設定が完了できませんでした。\n不要なファイル、アプリを消すなど端末の空き容量を増やした上で再度「初期設定」を行って下さい</string>
+    <!-- 2. khi download bài hát. Trong trường hợp lưu bài hát trong SD thì check dung lượng SD, nếu dung lượng không đủ thì hiển thị alert -->
+    <string name="error_android_002">SDカードの空き容量が不足しており、ダウンロードが完了できませんでした。\n不要なファイル、アプリを消すなどSDカードの空き容量を増やした上で再度ダウンロードを行って下さい</string>
+    <!-- 2. khi download bài hát .trong trường hợp lưu bài hát trong bộ nhớ trong, nếu dung lượng bộ nhớ trong không đủ thì hiển thị alert -->
+    <string name="error_android_003">端末本体の空き容量が不足しており、ダウンロードが完了できませんでした。\n不要なファイル、アプリを消すなど端末の空き容量を増やした上で再度ダウンロードを行って下さい</string>
+    <!-- trong máy chưa setting tài khoản -->
+    <string name="error_android_004">アラートタイトル：マーケットに接続できません\n内容：Google決済サービスに接続できません。本アプリを継続して利用できますが、現在、購入することが出来ません。</string>
+
+</resources>

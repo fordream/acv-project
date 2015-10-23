@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="mushinokoe5.pvr.ccz" type="pvrccz" width="966" height="1148" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:64d550d806dbb01d9e86724541c9e595$ -->
+    <textureregion id="0" src="a1_04_1_2_iphone_haikei_hiru.png" x="2" y="2" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="1" src="a1_05_1_iphone_mushikago.png" x="2" y="647" width="517" height="391" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="517" srcheight="391"/>
+    <textureregion id="2" src="a1_05_2_iphone_ami.png" x="522" y="647" width="178" height="72" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="178" srcheight="72"/>
+    <textureregion id="3" src="a1_mushinokoe_1_iphone.png" x="703" y="647" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+    <textureregion id="4" src="a1_mushinokoe_2_iphone.png" x="811" y="647" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+    <textureregion id="5" src="a1_mushinokoe_3_iphone.png" x="2" y="1041" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+</texture>

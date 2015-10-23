@@ -1,0 +1,251 @@
+/* ----- HTML再定義 ----------------------------------------------- */
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+	font-weight: normal;
+	font-style: normal;
+	font-family: "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", "MS P Gothic", "Osaka", Verdana, Arial, Helvetica, sans-serif;
+	zoom: 1;
+}
+
+body {
+	color: #333333;
+	text-align: center;
+	font-size: 90%;
+	line-height: 150%;
+	margin: 10px;
+}
+
+p {
+	margin: 10px;
+}
+
+em {
+	font-weight: bold;
+	margin: 0 2px;
+}
+
+small {
+	font-size: 80%;
+}
+
+big {
+	font-size: 150%;
+	font-weight: bold;
+	color: #ff3366;
+}
+
+hr {
+	display: none;
+}
+
+img {
+	border: none;
+	width: 98%;
+}
+
+ul:after {
+	clear: both;
+	display: block;
+	font: 1px/0px serif;
+	content: ".";
+	height: 0;
+	visibility: hidden;
+}
+
+ul,ol {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.section dl,.section ul {
+	margin: 10px;
+}
+
+/* ----- [link] --------------------------------------------------- */
+a {
+	outline: none;
+	text-decoration: none;
+}
+
+/* ----- [layout] ------------------------------------------------- */
+#container {
+	margin: 0 auto;
+	text-align: left;
+}
+
+#index #container {
+	width: 100%;
+	overflow: hidden;
+}
+
+#container #contents {
+	width: 77%;
+	float: right;
+}
+
+#container #contents iframe {
+	width: 100%;
+	height: 650px;
+	float: right;
+	border: none;
+}
+
+.section {
+	margin: 10px 0 30px;
+	padding-right: 10px;
+}
+
+.section .date {
+	text-align: left;
+	margin: 5px;
+	color: #666666;
+}
+
+.section p.left {
+	text-align: left;
+}
+
+.section p.center {
+	text-align: center;
+}
+
+.section p.right {
+	text-align: right;
+}
+
+#container #navigation {
+	width: 23%;
+	float: left;
+}
+
+#container #navigation ul li {
+	margin: 5px 0;
+}
+
+#news {
+	background: #ffffff;
+	padding-left: 10px;
+	width: 74%;
+	position: absolute;
+	z-index: 1;
+	top: 11px;
+	bottom: 10px;
+	overflow: auto;
+}
+
+#facebook {
+	background: #ffffff;
+	padding-left: 10px;
+	width: 74%;
+	position: absolute;
+	z-index: 1;
+	top: 10px;
+	bottom: 10px;
+	overflow: auto;
+}
+
+#inquiry {
+	background: #ffffff;
+	padding-left: 10px;
+	width: 74%;
+	position: absolute;
+	z-index: 1;
+	top: 10px;
+	bottom: 10px;
+	overflow: auto;
+}
+
+h2 {
+	padding: 0 0 0 2%;
+	width: 90%;
+	color: #ffffff;
+	height: 35px;
+	line-height: 36px;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+#news_div {
+	padding-right: 0;
+	color: #ffffff;
+	width: 100%;
+	height: 35px;
+	line-height: 36px;
+	font-weight: bold;
+	font-size: 120%;
+	background: url("./images/h2_news_right.png") no-repeat top right;
+}
+
+#facebook_div {
+	padding: 0;
+	color: #ffffff;
+	width: 100%;
+	height: 35px;
+	line-height: 36px;
+	font-weight: bold;
+	font-size: 120%;
+	background: url("./images/h2_facebook_right.png") no-repeat top right;
+}
+
+#inquiry_div {
+	padding: 0;
+	color: #ffffff;
+	width: 100%;
+	height: 35px;
+	line-height: 36px;
+	font-weight: bold;
+	font-size: 120%;
+	background: url("./images/h2_inquiry_right.png") no-repeat top right;
+}
+
+#news h2 {
+	background: url("./images/h2_news_left.png") no-repeat top left;
+}
+
+#facebook h2 {
+	background: url("./images/h2_facebook_left.png") no-repeat top left;
+}
+
+#inquiry h2 {
+	background: url("./images/h2_inquiry_left.png") no-repeat top left;
+}
+
+h3 {
+	padding: 0 0 0 4%;
+	width: 98%;
+	height: 35px;
+	line-height: 36px;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+#inquiry h3 {
+	background: #ffffff url("./images/h3_inquiry.png") no-repeat center left;
+}
+
+a.blank {
+	text-align: center;
+	display: block;
+	background: #ffffff url("./images/link_blank.png") no-repeat top center;
+	color: #ffffff;
+	height: 42px;
+	line-height: 42px;
+	margin: 10px 0;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+a.mail {
+	text-align: center;
+	display: block;
+	background: #ffffff url("./images/link_mail.png") no-repeat top center;
+	color: #ffffff;
+	height: 42px;
+	line-height: 42px;
+	margin: 10px 0;
+	font-weight: bold;
+	font-size: 120%;
+}

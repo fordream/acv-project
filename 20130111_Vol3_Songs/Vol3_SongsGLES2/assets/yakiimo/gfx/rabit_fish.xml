@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="rabit_fish.pvr.ccz" type="pvrccz" width="883" height="931" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:0549cb3226d3b480ba33cc1c29971500$ -->
+    <textureregion id="0" src="a2_5b_2_iphone_usagi.png" x="526" y="526" width="259" height="307" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="307"/>
+    <textureregion id="1" src="a2_5c_2_iphone_usagi.png" x="526" y="264" width="259" height="307" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="307"/>
+    <textureregion id="2" src="a2_5d_2_iphone_usagi.png" x="264" y="574" width="259" height="307" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="307"/>
+    <textureregion id="3" src="a2_5e_2_iphone_usagi.png" x="264" y="264" width="259" height="307" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="307"/>
+    <textureregion id="4" src="a2_5f_2_1_iphone_usagi.png" x="574" y="2" width="259" height="307" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="307"/>
+    <textureregion id="5" src="a2_5f_2_2_iphone_usagi.png" x="264" y="2" width="259" height="307" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="307"/>
+    <textureregion id="6" src="a2_5g_2_iphone_usagi.png" x="2" y="622" width="259" height="307" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="307"/>
+    <textureregion id="7" src="a2_5h_2_iphone_usagi.png" x="2" y="312" width="259" height="307" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="307"/>
+    <textureregion id="8" src="a2_5i_2_iphone_usagi.png" x="2" y="2" width="259" height="307" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="307"/>
+</texture>

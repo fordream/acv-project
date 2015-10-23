@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3UsagiKamePacker2.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:b4159d3aef9dbcd5cf18269b7e191687$ -->
+    <textureregion id="0" src="a2_21_iphone_desk.png" x="3" y="1719" width="435" height="212" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="435" srcheight="212"/>
+    <textureregion id="1" src="a2_22_iphone_haikei.png" x="3" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="2" src="a2_23_1_iphone_usagi.png" x="512" y="1183" width="505" height="532" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="505" srcheight="532"/>
+    <textureregion id="3" src="a2_23_2_iphone_usagi.png" x="3" y="1183" width="505" height="532" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="505" srcheight="532"/>
+    <textureregion id="4" src="a2_24_1_iphone_kame.png" x="512" y="647" width="505" height="532" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="505" srcheight="532"/>
+    <textureregion id="5" src="a2_24_2_iphone_kame.png" x="3" y="647" width="505" height="532" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="505" srcheight="532"/>
+    <textureregion id="6" src="a2_usagi_kame_1_iphone.png" x="217" y="1935" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+    <textureregion id="7" src="a2_usagi_kame_2_iphone.png" x="110" y="1935" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+    <textureregion id="8" src="a2_usagi_kame_3_iphone.png" x="3" y="1935" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+</texture>

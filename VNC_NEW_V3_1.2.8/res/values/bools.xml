@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="debug_version">true</bool>
+
+    <!-- Use publickey ACV and not use push -->
+    <!-- <bool name="test">false</bool> -->
+
+</resources>

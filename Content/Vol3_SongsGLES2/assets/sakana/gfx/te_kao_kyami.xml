@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="te_kao_kyami.pvr.ccz" type="pvrccz" width="1902" height="1002" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:fd4d7c939d14ffea64fa8a3eb4e605a2$ -->
+    <textureregion id="0" src="a15_15_1_iphone_te.png" x="1428" y="3" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="1" src="a15_15_2_iphone_te.png" x="1053" y="528" width="521" height="471" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="2" src="a15_15_3_iphone_te.png" x="953" y="3" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="3" src="a15_15_4_iphone_kao.png" x="528" y="528" width="521" height="471" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="4" src="a15_15_5_iphone_kao.png" x="478" y="3" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="5" src="a15_15_6_iphone_kao.png" x="3" y="528" width="521" height="471" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="6" src="a15_15_8_iphone_kyami.png" x="3" y="3" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+</texture>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="yukainamakiba2.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:670247c46e391be27438968967650473$ -->
+    <textureregion id="0" src="a12_14_1_iphone_wara.png" x="975" y="114" width="314" height="372" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="314" srcheight="372"/>
+    <textureregion id="1" src="a12_15_1_iphone_lake.png" x="975" y="5" width="1060" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1060" srcheight="103"/>
+    <textureregion id="2" src="a12_16_iphone_umakoya.png" x="5" y="655" width="402" height="179" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="402" srcheight="179"/>
+    <textureregion id="3" src="a12_18_1_iphone_haikei.png" x="5" y="5" width="964" height="644" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="964" srcheight="644"/>
+    <textureregion id="4" src="a12_18_2_iphone_haikei.png" x="5" y="840" width="534" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="534" srcheight="62"/>
+</texture>

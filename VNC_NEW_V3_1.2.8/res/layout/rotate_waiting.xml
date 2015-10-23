@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/imageRotate"
+    android:layout_width="350dp"
+    android:layout_height="100dp"
+    android:background="@drawable/loading_1"
+    android:weightSum="1" >
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="25dp"
+        android:src="@drawable/loading_2" >
+    </ImageView>
+
+</RelativeLayout>

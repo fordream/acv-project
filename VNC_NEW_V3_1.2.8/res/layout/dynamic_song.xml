@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:id="@+id/dynamic_layout"
+        android:layout_width="960px"
+        android:layout_height="640px" >
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/control_lyric"
+        android:layout_width="97px"
+        android:layout_height="97px" />
+
+    <LinearLayout
+        android:id="@+id/id_dinamic_song"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="guchokipa27.pvr.ccz" type="pvrccz" width="897" height="950" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:c6f93039ae23ede9ed029918edd53e79$ -->
+    <textureregion id="0" src="a1_4_iphone_k.png" x="2" y="2" width="126" height="175" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="126" srcheight="175"/>
+    <textureregion id="1" src="a1_5_iphone_g.png" x="131" y="2" width="135" height="111" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="135" srcheight="111"/>
+    <textureregion id="2" src="a1_5and6_2_3_iphone_medama.png" x="269" y="2" width="493" height="198" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="493" srcheight="198"/>
+    <textureregion id="3" src="a1_5and6_2_4_iphone_medama.png" x="2" y="203" width="344" height="243" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="344" srcheight="243"/>
+    <textureregion id="4" src="a1_5and6_2_5_iphone_medama.png" x="349" y="203" width="546" height="595" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="546" srcheight="595"/>
+    <textureregion id="5" src="a1_6_iphone_p.png" x="2" y="801" width="145" height="147" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="145" srcheight="147"/>
+    <textureregion id="6" src="a1_gkp_1_iphone.png" x="150" y="801" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+    <textureregion id="7" src="a1_gkp_2_iphone.png" x="258" y="801" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+    <textureregion id="8" src="a1_gkp_3_iphone.png" x="366" y="801" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+</texture>

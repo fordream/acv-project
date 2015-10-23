@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="bear_potato.pvr.ccz" type="pvrccz" width="867" height="1911" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:178b01255f4e9e296ef44e4e4f79d1ff$ -->
+    <textureregion id="0" src="a2_7b_3_iphone_kuma.png" x="350" y="1046" width="345" height="430" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="430"/>
+    <textureregion id="1" src="a2_7c_3_iphone_kuma.png" x="2" y="1479" width="345" height="430" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="430"/>
+    <textureregion id="2" src="a2_7d_3_iphone_kuma.png" x="2" y="1046" width="345" height="430" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="430"/>
+    <textureregion id="3" src="a2_7e_3_iphone_kuma.png" x="435" y="698" width="345" height="430" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="430"/>
+    <textureregion id="4" src="a2_7f_3_1_iphone_kuma.png" x="2" y="698" width="345" height="430" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="430"/>
+    <textureregion id="5" src="a2_7f_3_2_iphone_kuma.png" x="435" y="350" width="345" height="430" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="430"/>
+    <textureregion id="6" src="a2_7g_3_iphone_kuma.png" x="2" y="350" width="345" height="430" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="430"/>
+    <textureregion id="7" src="a2_7h_3_iphone_kuma.png" x="435" y="2" width="345" height="430" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="430"/>
+    <textureregion id="8" src="a2_7i_3_iphone_kuma.png" x="2" y="2" width="345" height="430" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="430"/>
+</texture>

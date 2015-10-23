@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3ItoumakiPacker3.pvr.ccz" type="pvrccz" width="2048" height="2048" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:791bd7e855c57aeaae0988c82891f0ab$ -->
+    <textureregion id="0" src="a2_15_1_iphone_curtain.png" x="647" y="647" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="1" src="a2_15_2_iphone_curtain.png" x="3" y="647" width="960" height="640" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="2" src="a2_15_3_iphone_curtain.png" x="967" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="3" src="a2_16_2_iphone_haikei.png" x="3" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+</texture>

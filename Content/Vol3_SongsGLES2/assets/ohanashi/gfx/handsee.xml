@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="handsee.pvr.ccz" type="pvrccz" width="1943" height="1226" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:7a532967670953ea2e124e11f44763ca$ -->
+    <textureregion id="0" src="a19_08_1_1_iphone_janken.png" x="1297" y="615" width="643" height="608" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="643" srcheight="608"/>
+    <textureregion id="1" src="a19_08_1_2_iphone_janken.png" x="650" y="615" width="643" height="608" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="643" srcheight="608"/>
+    <textureregion id="2" src="a19_08_1_3_iphone_janken.png" x="3" y="615" width="643" height="608" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="643" srcheight="608"/>
+    <textureregion id="3" src="a19_08_2_1_iphone_rendou.png" x="1297" y="3" width="643" height="608" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="643" srcheight="608"/>
+    <textureregion id="4" src="a19_08_2_2_iphone_rendou.png" x="650" y="3" width="643" height="608" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="643" srcheight="608"/>
+    <textureregion id="5" src="a19_08_2_3_iphone_rendou.png" x="3" y="3" width="643" height="608" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="643" srcheight="608"/>
+</texture>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="fire.pvr.ccz" type="pvrccz" width="879" height="1303" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:bf483246d48e1db60b66212f4418133c$ -->
+    <textureregion id="0" src="a2_9_4_iphone_fire.png" x="441" y="870" width="431" height="436" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="431" srcheight="436"/>
+    <textureregion id="1" src="a2_9_5_iphone_fire.png" x="2" y="870" width="431" height="436" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="431" srcheight="436"/>
+    <textureregion id="2" src="a2_9_6_iphone_fire.png" x="441" y="436" width="431" height="436" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="431" srcheight="436"/>
+    <textureregion id="3" src="a2_9a_1_iphone_fire.png" x="2" y="436" width="431" height="436" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="431" srcheight="436"/>
+    <textureregion id="4" src="a2_9a_2_iphone_fire.png" x="441" y="2" width="431" height="436" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="431" srcheight="436"/>
+    <textureregion id="5" src="a2_9a_3_iphone_fire.png" x="2" y="2" width="431" height="436" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="431" srcheight="436"/>
+</texture>

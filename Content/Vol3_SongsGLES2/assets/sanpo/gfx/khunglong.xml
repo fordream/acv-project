@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="khunglong.pvr.ccz" type="pvrccz" width="1646" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:b813c6b7fdc77557e4cd08521b5b6884$ -->
+    <textureregion id="0" src="a3_10_1_iphone_ki_temae.png" x="1297" y="2" width="332" height="552" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="332" srcheight="552"/>
+    <textureregion id="1" src="a3_28_1_iphone_ki_center.png" x="1297" y="557" width="347" height="322" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="347" srcheight="322"/>
+    <textureregion id="2" src="a3_32_1_1_iphone_prakiozauls.png" x="2" y="684" width="1292" height="338" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1292" srcheight="338"/>
+    <textureregion id="3" src="a3_32_1_2_iphone_prakiozauls.png" x="2" y="343" width="1292" height="338" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1292" srcheight="338"/>
+    <textureregion id="4" src="a3_32_2_1_iphone_prakiozauls.png" x="2" y="2" width="1292" height="338" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1292" srcheight="338"/>
+</texture>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="santa8.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:b2cc6a804ab0185f759fad860b39499d$ -->
+    <textureregion id="0" src="a1_11_1_iphone_snow.png" x="3" y="1295" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="1" src="a1_11_2_iphone_snow.png" x="3" y="649" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="2" src="a1_12_iphone_haikei.png" x="3" y="3" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+</texture>

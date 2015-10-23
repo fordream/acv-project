@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="yuki2.pvr.ccz" type="pvrccz" width="962" height="1503" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:7bc649f4d0612006aa8fddec4ba7e625$ -->
+    <textureregion id="0" src="a10_11_1_01_iphone4.png" x="1" y="1" width="58" height="45" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="45"/>
+    <textureregion id="1" src="a10_11_1_02_iphone4.png" x="61" y="1" width="57" height="45" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="57" srcheight="45"/>
+    <textureregion id="2" src="a10_11_1_03_iphone4.png" x="120" y="1" width="57" height="45" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="57" srcheight="45"/>
+    <textureregion id="3" src="a10_11_1_04_iphone4.png" x="179" y="1" width="58" height="45" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="45"/>
+    <textureregion id="4" src="a10_11_1_05_iphone4.png" x="239" y="1" width="58" height="43" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="43"/>
+    <textureregion id="5" src="a10_11_1_06_iphone4.png" x="299" y="1" width="57" height="43" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="57" srcheight="43"/>
+    <textureregion id="6" src="a10_11_1_07_iphone4.png" x="358" y="1" width="57" height="43" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="57" srcheight="43"/>
+    <textureregion id="7" src="a10_11_1_08_iphone4.png" x="417" y="1" width="58" height="43" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="43"/>
+    <textureregion id="8" src="a10_11_1_09_iphone4.png" x="477" y="1" width="58" height="39" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="39"/>
+    <textureregion id="9" src="a10_11_1_10_iphone4.png" x="537" y="1" width="57" height="39" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="57" srcheight="39"/>
+    <textureregion id="10" src="a10_11_1_11_iphone4.png" x="596" y="1" width="57" height="39" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="57" srcheight="39"/>
+    <textureregion id="11" src="a10_11_1_12_iphone4.png" x="655" y="1" width="58" height="39" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="39"/>
+    <textureregion id="12" src="a10_11_1_13_iphone4.png" x="715" y="1" width="58" height="43" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="43"/>
+    <textureregion id="13" src="a10_11_1_14_iphone4.png" x="775" y="1" width="57" height="43" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="57" srcheight="43"/>
+    <textureregion id="14" src="a10_11_1_15_iphone4.png" x="834" y="1" width="57" height="43" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="57" srcheight="43"/>
+    <textureregion id="15" src="a10_11_1_16_iphone4.png" x="893" y="1" width="58" height="43" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="43"/>
+    <textureregion id="16" src="a10_11_1_iphone4_smoke.png" x="1" y="48" width="230" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="230" srcheight="170"/>
+    <textureregion id="17" src="a10_11_2_iphone4_cat.png" x="233" y="48" width="230" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="230" srcheight="170"/>
+    <textureregion id="18" src="a10_11_3_iphone4_cat.png" x="465" y="48" width="83" height="66" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="83" srcheight="66"/>
+    <textureregion id="19" src="a10_12_1_iphone4_haikei.png" x="1" y="220" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="20" src="a10_12_2_iphone4_haikei.png" x="1" y="862" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+</texture>

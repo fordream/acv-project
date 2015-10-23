@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3MomotaroPacker2.pvr.ccz" type="pvrccz" width="2048" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:f8fa1d8d9a0bbdc8c009bee20485d416$ -->
+    <textureregion id="0" src="a21_08_1_iphone_momotaro.png" x="967" y="1182" width="468" height="531" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="468" srcheight="531"/>
+    <textureregion id="1" src="a21_08_2_iphone_momotaro.png" x="1439" y="647" width="468" height="531" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="468" srcheight="531"/>
+    <textureregion id="2" src="a21_08_3_iphone_momotaro.png" x="967" y="647" width="468" height="531" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="468" srcheight="531"/>
+    <textureregion id="3" src="a21_08_4_iphone_momotaro.png" x="1931" y="3" width="93" height="91" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="93" srcheight="91"/>
+    <textureregion id="4" src="a21_14_2_iphone_onigashima.png" x="3" y="1291" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="5" src="a21_14_3_iphone_onigashima.png" x="3" y="647" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="6" src="a21_14_4_iphone_onigashima.png" x="967" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="7" src="a21_19_iphone_haikei.png" x="3" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+</texture>

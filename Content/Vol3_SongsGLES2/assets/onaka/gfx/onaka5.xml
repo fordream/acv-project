@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="onaka5.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:451988dd33db25e12c815da6d4fc6106$ -->
+    <textureregion id="0" src="onaka_7c_2_iphone_cake.png" x="631" y="631" width="330" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="1" src="onaka_7c_3_1_iphone_cake.png" x="317" y="631" width="330" height="310" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="2" src="onaka_7c_3_2_iphone_cake.png" x="651" y="317" width="330" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="3" src="onaka_7d_1_iphone_curry.png" x="317" y="317" width="330" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="4" src="onaka_7d_2_iphone_curry.png" x="3" y="651" width="330" height="310" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="5" src="onaka_7d_3_1_iphone_curry.png" x="3" y="317" width="330" height="310" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="6" src="onaka_7d_3_2_iphone_curry.png" x="671" y="3" width="330" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="7" src="onaka_7e_1_iphone_pizza.png" x="337" y="3" width="330" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="8" src="onaka_7e_2_iphone_pizza.png" x="3" y="3" width="330" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+</texture>

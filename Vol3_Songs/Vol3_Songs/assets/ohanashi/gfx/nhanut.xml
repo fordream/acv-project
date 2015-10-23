@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="nhanut.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:b7f47c2f834cc8beefe9d4164cadea91$ -->
+    <textureregion id="0" src="a19_09_iphone_tenohira.png" x="3" y="3" width="643" height="608" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="643" srcheight="608"/>
+    <textureregion id="1" src="a19_10_1_iphone_baby.png" x="615" y="348" width="248" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="248" srcheight="285"/>
+    <textureregion id="2" src="a19_10_2_1_iphone_baby.png" x="1191" y="3" width="247" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="247" srcheight="285"/>
+    <textureregion id="3" src="a19_10_2_2_iphone_baby.png" x="1371" y="926" width="53" height="85" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="53" srcheight="85"/>
+    <textureregion id="4" src="a19_10_2_3_iphone_baby.png" x="3" y="995" width="60" height="24" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="60" srcheight="24"/>
+    <textureregion id="5" src="a19_10_2_4_iphone_baby.png" x="867" y="982" width="29" height="62" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="29" srcheight="62"/>
+    <textureregion id="6" src="a19_10_3_iphone_baby.png" x="1693" y="3" width="248" height="284" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="248" srcheight="284"/>
+    <textureregion id="7" src="a19_10_4_iphone_baby.png" x="1693" y="255" width="247" height="284" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="247" srcheight="284"/>
+    <textureregion id="8" src="a19_9a_4_iphone_default.png" x="903" y="3" width="284" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="284" srcheight="341"/>
+    <textureregion id="9" src="a19_9a_5_iphone_default.png" x="1155" y="348" width="248" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="248" srcheight="285"/>
+    <textureregion id="10" src="a19_9b_4_iphone_default.png" x="867" y="348" width="284" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="284" srcheight="341"/>
+    <textureregion id="11" src="a19_9b_5_iphone_default.png" x="1442" y="3" width="247" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="247" srcheight="285"/>
+    <textureregion id="12" src="a19_9c_4_iphone_default.png" x="615" y="3" width="284" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="284" srcheight="341"/>
+    <textureregion id="13" src="a19_9c_5_iphone_default.png" x="1119" y="693" width="248" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="248" srcheight="285"/>
+    <textureregion id="14" src="a19_9d_4_iphone_default.png" x="579" y="650" width="284" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="284" srcheight="341"/>
+    <textureregion id="15" src="a19_9d_5_iphone_default.png" x="1407" y="292" width="247" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="247" srcheight="285"/>
+    <textureregion id="16" src="a19_9e_4_1_iphone_onakanaderu.png" x="291" y="650" width="284" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="284" srcheight="341"/>
+    <textureregion id="17" src="a19_9e_4_2_iphone_onakanaderu.png" x="3" y="650" width="284" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="284" srcheight="341"/>
+    <textureregion id="18" src="a19_9e_5_1_iphone_onakanaderu.png" x="867" y="693" width="248" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="248" srcheight="285"/>
+    <textureregion id="19" src="a19_9e_5_2_iphone_onakanaderu.png" x="1371" y="637" width="247" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="247" srcheight="285"/>
+</texture>

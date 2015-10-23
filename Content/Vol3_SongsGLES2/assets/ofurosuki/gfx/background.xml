@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="background.pvr.ccz" type="pvrccz" width="2048" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:7958f064a38f0b953827f061fe1f9fab$ -->
+    <textureregion id="0" src="a6_11_1_iphone.png" x="3" y="3" width="1283" height="1034" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1283" srcheight="1034"/>
+</texture>

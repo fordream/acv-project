@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="kodomo_11_12.pvr.ccz" type="pvrccz" width="933" height="1019" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:b686eda838d7cee6944b024530b4c78e$ -->
+    <textureregion id="0" src="a14_11a_1_iphone_kodomo.png" x="548" y="873" width="143" height="235" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="235"/>
+    <textureregion id="1" src="a14_11b_1_iphone_kodomo.png" x="456" y="634" width="143" height="235" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="235"/>
+    <textureregion id="2" src="a14_11c_1_iphone_kodomo.png" x="309" y="873" width="143" height="235" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="235"/>
+    <textureregion id="3" src="a14_11c_2_iphone_kodomo.png" x="309" y="634" width="143" height="235" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="235"/>
+    <textureregion id="4" src="a14_11d_1_iphone_kodomo.png" x="787" y="395" width="143" height="235" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="235"/>
+    <textureregion id="5" src="a14_11e_1_iphone_kodomo.png" x="548" y="303" width="143" height="235" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="235"/>
+    <textureregion id="6" src="a14_11f_1_iphone_kodomo.png" x="309" y="303" width="143" height="235" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="235"/>
+    <textureregion id="7" src="a14_11g_1_iphone_kodomo.png" x="787" y="156" width="143" height="235" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="235"/>
+    <textureregion id="8" src="a14_11h_1_iphone_kodomo.png" x="548" y="156" width="143" height="235" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="235"/>
+    <textureregion id="9" src="a14_11i_1_iphone_kodomo.png" x="309" y="156" width="143" height="235" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="235"/>
+    <textureregion id="10" src="a14_12a_1_iphone_kodomo.png" x="156" y="646" width="149" height="241" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="241"/>
+    <textureregion id="11" src="a14_12b_1_iphone_kodomo.png" x="156" y="401" width="149" height="241" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="241"/>
+    <textureregion id="12" src="a14_12c_1_iphone_kodomo.png" x="156" y="156" width="149" height="241" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="241"/>
+    <textureregion id="13" src="a14_12c_2_iphone_kodomo.png" x="646" y="3" width="149" height="241" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="241"/>
+    <textureregion id="14" src="a14_12d_1_iphone_kodomo.png" x="401" y="3" width="149" height="241" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="241"/>
+    <textureregion id="15" src="a14_12e_1_iphone_kodomo.png" x="156" y="3" width="149" height="241" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="241"/>
+    <textureregion id="16" src="a14_12f_1_iphone_kodomo.png" x="3" y="738" width="149" height="241" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="241"/>
+    <textureregion id="17" src="a14_12g_1_iphone_kodomo.png" x="3" y="493" width="149" height="241" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="241"/>
+    <textureregion id="18" src="a14_12h_1_iphone_kodomo.png" x="3" y="248" width="149" height="241" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="241"/>
+    <textureregion id="19" src="a14_12i_1_iphone_kodomo.png" x="3" y="3" width="149" height="241" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="241"/>
+</texture>

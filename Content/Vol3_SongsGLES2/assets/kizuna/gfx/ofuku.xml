@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="ofuku.pvr.ccz" type="pvrccz" width="1370" height="930" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:38cf3a1425c72e7ea017fe62eb3f327a$ -->
+    <textureregion id="0" src="a4_5_4_1_iphone_ofuku.png" x="915" y="467" width="460" height="452" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="460" srcheight="452"/>
+    <textureregion id="1" src="a4_5_4_2_1_iphone_ofuku.png" x="915" y="3" width="460" height="452" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="460" srcheight="452"/>
+    <textureregion id="2" src="a4_5_4_3_1_iphone_ofuku.png" x="459" y="467" width="460" height="452" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="460" srcheight="452"/>
+    <textureregion id="3" src="a4_5_4_4_iphone_ofuku.png" x="459" y="3" width="460" height="452" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="460" srcheight="452"/>
+    <textureregion id="4" src="a4_5_4_5_iphone_ofuku.png" x="3" y="467" width="460" height="452" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="460" srcheight="452"/>
+    <textureregion id="5" src="a4_5_4_6_iphone_ofuku.png" x="3" y="3" width="460" height="452" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="460" srcheight="452"/>
+</texture>

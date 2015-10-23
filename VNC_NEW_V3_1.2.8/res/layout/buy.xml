@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/buy_display"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/awesomepager"
+        android:layout_width="960px"
+        android:layout_height="640px" />
+
+    <ImageView
+        android:id="@+id/slider"
+        android:layout_width="194px"
+        android:layout_height="640px"
+        android:background="@drawable/sideber_cat_iphone" />
+
+    <ImageView
+        android:id="@+id/vol1"
+        android:layout_width="194px"
+        android:layout_height="125px" />
+
+    <ImageView
+        android:id="@+id/vol2"
+        android:layout_width="194px"
+        android:layout_height="125px" />
+
+    <ImageView
+        android:id="@+id/tankyoku"
+        android:layout_width="194px"
+        android:layout_height="72px" />
+
+    <ImageView
+        android:id="@+id/info"
+        android:layout_width="960px"
+        android:layout_height="640px" />
+
+    <ImageView
+        android:id="@+id/ok_info"
+        android:layout_width="183px"
+        android:layout_height="67px"
+        android:clickable="false" />
+
+    <ImageView
+        android:id="@+id/dl_btn"
+        android:layout_width="183px"
+        android:layout_height="67px"
+        android:background="@drawable/re_dl"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/cancel_info"
+        android:layout_width="158px"
+        android:layout_height="55px" />
+
+    <ImageView
+        android:id="@+id/ok_download"
+        android:layout_width="183px"
+        android:layout_height="67px"
+        android:background="@drawable/buy_ok"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/loading"
+        android:layout_width="400px"
+        android:layout_height="400px" />
+
+    <ImageView
+        android:id="@+id/close_x_btn"
+        android:layout_width="62px"
+        android:layout_height="69px" />
+
+    <TextView
+        android:id="@+id/help_text"
+        android:layout_width="200px"
+        android:layout_height="40px" />
+
+    <com.xing.joy.common.LoadingPriceBar
+        android:id="@+id/background_price_1"
+        android:layout_width="627px"
+        android:layout_height="78px"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/background_price_2"
+        android:layout_width="627px"
+        android:layout_height="100px"
+        android:visibility="invisible" />
+
+    <com.xing.joy.common.DownloadProgessBar
+        android:id="@+id/download_bar"
+        android:layout_width="631px"
+        android:layout_height="188px"
+        android:visibility="invisible" >
+    </com.xing.joy.common.DownloadProgessBar>
+
+    <ImageView
+        android:id="@+id/canceldownload"
+        android:layout_width="120px"
+        android:layout_height="37px"
+        android:background="@drawable/download_cancel"
+        android:visibility="invisible" />
+
+</RelativeLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3YamagoyaPacker1.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:24aa0af220c0892f12a5a55dabc84b36$ -->
+    <textureregion id="0" src="a18_04_10_iphone_jisan.png" x="593" y="609" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="1" src="a18_04_11_iphone_jisan.png" x="3" y="776" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="2" src="a18_04_12_iphone_jisan.png" x="298" y="609" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="3" src="a18_04_13_iphone_jisan.png" x="593" y="306" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="4" src="a18_04_14_iphone_jisan.png" x="3" y="473" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="5" src="a18_04_15_iphone_jisan.png" x="298" y="306" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="6" src="a18_04_16_iphone_jisan.png" x="604" y="3" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="7" src="a18_04_17_iphone_jisan.png" x="3" y="170" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="8" src="a18_04_18_iphone_jisan.png" x="309" y="3" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="9" src="a18_04_19_iphone_kamihubuki.png" x="3" y="3" width="302" height="163" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="302" srcheight="163"/>
+    <textureregion id="10" src="a18_04_1_iphone_jisan.png" x="593" y="1518" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="11" src="a18_04_2_iphone_jisan.png" x="298" y="1518" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="12" src="a18_04_3_iphone_jisan.png" x="593" y="1215" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="13" src="a18_04_4_iphone_jisan.png" x="298" y="1215" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="14" src="a18_04_5_iphone_jisan.png" x="3" y="1685" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="15" src="a18_04_6_iphone_jisan.png" x="3" y="1382" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="16" src="a18_04_7_iphone_jisan.png" x="593" y="912" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="17" src="a18_04_8_iphone_jisan.png" x="3" y="1079" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="18" src="a18_04_9_iphone_jisan.png" x="298" y="912" width="291" height="299" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="291" srcheight="299"/>
+    <textureregion id="19" src="a18_05_1_iphone_ryoushi.png" x="888" y="342" width="77" height="109" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="77" srcheight="109"/>
+    <textureregion id="20" src="a18_05_2_iphone_ryoushi.png" x="899" y="229" width="77" height="109" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="77" srcheight="109"/>
+    <textureregion id="21" src="a18_06_1_iphone_ryoushi.png" x="899" y="116" width="77" height="109" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="77" srcheight="109"/>
+    <textureregion id="22" src="a18_06_2_iphone_ryoushi.png" x="899" y="3" width="77" height="109" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="77" srcheight="109"/>
+    <textureregion id="23" src="a18_cirle.png" x="969" y="342" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+</texture>

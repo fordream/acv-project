@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="yuki1005.pvr.ccz" type="pvrccz" width="2009" height="874" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:5d2ee69d176e74956c64a7cd5e287245$ -->
+    <textureregion id="0" src="a6_4_1_iphone_smoke.png" x="2" y="2" width="1001" height="866" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1001" srcheight="866"/>
+    <textureregion id="1" src="a6_4_2_iphone_smoke.png" x="1006" y="2" width="1001" height="870" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1001" srcheight="870"/>
+</texture>

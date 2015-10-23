@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="gfxHeader.pvr.ccz" type="pvrccz" width="223" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:53a52dcf88010e711a27467932333435$ -->
+    <textureregion id="0" src="a4_6_1_iphone_1.png" x="1" y="1" width="516" height="221" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="516" srcheight="221"/>
+    <textureregion id="1" src="a4_6_1_iphone_2.png" x="1" y="519" width="504" height="221" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="504" srcheight="221"/>
+</texture>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="omotya3.pvr.ccz" type="pvrccz" width="2048" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:188032e43b9832f3d7ef980c871f7533$ -->
+    <textureregion id="0" src="a4_03_4_iphone4_star_big.png" x="3" y="309" width="816" height="787" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="816" srcheight="787"/>
+    <textureregion id="1" src="temp_walk.png" x="3" y="3" width="1282" height="302" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1282" srcheight="302"/>
+</texture>

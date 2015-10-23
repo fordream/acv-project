@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with http://www.physicseditor.de -->
+<bodydef version="1.0">
+    <bodies numBodies="9">
+
+        <body name="a3_5_1_iphone_dai" dynamic="false" numFixtures="1">
+
+            <fixture
+                density="2"
+                friction="1.02"
+                restitution="0.8"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="12"
+                >
+
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-572.0000" y="-210.0000" />
+
+                    <vertex x="-448.0000" y="-337.0000" />
+
+                    <vertex x="-445.0000" y="-313.0000" />
+
+                    <vertex x="-565.0000" y="-176.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-538.0000" y="5.0000" />
+
+                    <vertex x="-561.0000" y="100.0000" />
+
+                    <vertex x="-572.0000" y="-207.0000" />
+
+                    <vertex x="-549.0000" y="-172.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-367.0000" y="132.0000" />
+
+                    <vertex x="-561.0000" y="100.0000" />
+
+                    <vertex x="-538.0000" y="5.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-367.0000" y="132.0000" />
+
+                    <vertex x="-33.0000" y="290.0000" />
+
+                    <vertex x="-561.0000" y="100.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-27.0000" y="188.0000" />
+
+                    <vertex x="-33.0000" y="290.0000" />
+
+                    <vertex x="-367.0000" y="132.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="384.0000" y="132.0000" />
+
+                    <vertex x="547.0000" y="137.0000" />
+
+                    <vertex x="-33.0000" y="290.0000" />
+
+                    <vertex x="-27.0000" y="188.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="497.0000" y="50.0000" />
+
+                    <vertex x="547.0000" y="137.0000" />
+
+                    <vertex x="384.0000" y="132.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="497.0000" y="50.0000" />
+
+                    <vertex x="550.0000" y="-147.0000" />
+
+                    <vertex x="569.0000" y="-104.0000" />
+
+                    <vertex x="547.0000" y="137.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="550.0000" y="-147.0000" />
+
+                    <vertex x="573.0000" y="-335.0000" />
+
+                    <vertex x="569.0000" y="-104.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="416.0000" y="-321.0000" />
+
+                    <vertex x="573.0000" y="-335.0000" />
+
+                    <vertex x="550.0000" y="-147.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="5">
+
+                    <vertex x="416.0000" y="-321.0000" />
+
+                    <vertex x="-52.0000" y="-374.0000" />
+
+                    <vertex x="-209.0000" y="-402.0000" />
+
+                    <vertex x="91.0000" y="-419.0000" />
+
+                    <vertex x="573.0000" y="-335.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-445.0000" y="-313.0000" />
+
+                    <vertex x="-448.0000" y="-337.0000" />
+
+                    <vertex x="-209.0000" y="-402.0000" />
+
+                    <vertex x="-52.0000" y="-374.0000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+        <body name="a3_6a_1_iphone_koma" dynamic="true" numFixtures="1">
+
+            <fixture
+                density="50"
+                friction="0.1"
+                restitution="0"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="6"
+                >
+
+
+                <polygon numVertexes="3">
+
+                    <vertex x="155.0000" y="153.0000" />
+
+                    <vertex x="170.0000" y="152.0000" />
+
+                    <vertex x="163.0000" y="170.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="5">
+
+                    <vertex x="263.0000" y="68.0000" />
+
+                    <vertex x="150.0000" y="-24.0000" />
+
+                    <vertex x="169.0000" y="-25.0000" />
+
+                    <vertex x="239.0000" y="-8.0000" />
+
+                    <vertex x="263.0000" y="20.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="8">
+
+                    <vertex x="94.0000" y="-12.0000" />
+
+                    <vertex x="150.0000" y="-24.0000" />
+
+                    <vertex x="263.0000" y="68.0000" />
+
+                    <vertex x="197.0000" y="138.0000" />
+
+                    <vertex x="155.0000" y="153.0000" />
+
+                    <vertex x="67.0000" y="79.0000" />
+
+                    <vertex x="62.0000" y="54.0000" />
+
+                    <vertex x="72.0000" y="4.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="67.0000" y="79.0000" />
+
+                    <vertex x="155.0000" y="153.0000" />
+
+                    <vertex x="109.0000" y="133.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="197.0000" y="138.0000" />
+
+                    <vertex x="263.0000" y="68.0000" />
+
+                    <vertex x="248.0000" y="101.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="155.0000" y="153.0000" />
+
+                    <vertex x="197.0000" y="138.0000" />
+
+                    <vertex x="170.0000" y="152.0000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+        <body name="a3_6b_1_iphone_koma" dynamic="true" numFixtures="1">
+
+            <fixture
+                density="2"
+                friction="0.1"
+                restitution="0"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="4"
+                >
+
+
+                <polygon numVertexes="4">
+
+                    <vertex x="141.0000" y="171.0000" />
+
+                    <vertex x="156.0000" y="168.0000" />
+
+                    <vertex x="154.0000" y="184.0000" />
+
+                    <vertex x="145.0000" y="186.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="7">
+
+                    <vertex x="247.0000" y="137.0000" />
+
+                    <vertex x="156.0000" y="168.0000" />
+
+                    <vertex x="141.0000" y="171.0000" />
+
+                    <vertex x="201.0000" y="-16.0000" />
+
+                    <vertex x="250.0000" y="2.0000" />
+
+                    <vertex x="274.0000" y="24.0000" />
+
+                    <vertex x="281.0000" y="96.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="8">
+
+                    <vertex x="17.0000" y="71.0000" />
+
+                    <vertex x="32.0000" y="14.0000" />
+
+                    <vertex x="72.0000" y="-9.0000" />
+
+                    <vertex x="132.0000" y="-20.0000" />
+
+                    <vertex x="201.0000" y="-16.0000" />
+
+                    <vertex x="141.0000" y="171.0000" />
+
+                    <vertex x="56.0000" y="142.0000" />
+
+                    <vertex x="28.0000" y="122.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="32.0000" y="14.0000" />
+
+                    <vertex x="17.0000" y="71.0000" />
+
+                    <vertex x="17.0000" y="36.0000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+        <body name="a3_6c_1_iphone_koma" dynamic="true" numFixtures="1">
+
+            <fixture
+                density="2"
+                friction="0.1"
+                restitution="0"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="4"
+                >
+
+
+                <polygon numVertexes="6">
+
+                    <vertex x="156.0000" y="155.0000" />
+
+                    <vertex x="116.0000" y="-21.0000" />
+
+                    <vertex x="156.0000" y="-26.0000" />
+
+                    <vertex x="170.0000" y="-26.0000" />
+
+                    <vertex x="174.0000" y="156.0000" />
+
+                    <vertex x="164.0000" y="170.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="69.0000" y="6.0000" />
+
+                    <vertex x="116.0000" y="-21.0000" />
+
+                    <vertex x="156.0000" y="155.0000" />
+
+                    <vertex x="67.0000" y="104.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="5">
+
+                    <vertex x="174.0000" y="156.0000" />
+
+                    <vertex x="170.0000" y="-26.0000" />
+
+                    <vertex x="242.0000" y="-8.0000" />
+
+                    <vertex x="263.0000" y="33.0000" />
+
+                    <vertex x="243.0000" y="121.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="263.0000" y="33.0000" />
+
+                    <vertex x="242.0000" y="-8.0000" />
+
+                    <vertex x="263.0000" y="16.0000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+        <body name="a3_6d_1_iphone_koma" dynamic="true" numFixtures="1">
+
+            <fixture
+                density="2"
+                friction="0.1"
+                restitution="0"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="2"
+                >
+
+
+                <polygon numVertexes="8">
+
+                    <vertex x="63.5000" y="47.0000" />
+
+                    <vertex x="98.5000" y="19.0000" />
+
+                    <vertex x="151.5000" y="7.0000" />
+
+                    <vertex x="166.5000" y="8.0000" />
+
+                    <vertex x="123.5000" y="151.0000" />
+
+                    <vertex x="71.5000" y="118.0000" />
+
+                    <vertex x="58.5000" y="104.0000" />
+
+                    <vertex x="48.5000" y="73.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="7">
+
+                    <vertex x="262.5000" y="95.0000" />
+
+                    <vertex x="239.5000" y="123.0000" />
+
+                    <vertex x="161.5000" y="160.0000" />
+
+                    <vertex x="123.5000" y="151.0000" />
+
+                    <vertex x="166.5000" y="8.0000" />
+
+                    <vertex x="228.5000" y="22.0000" />
+
+                    <vertex x="265.5000" y="61.0000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+        <body name="a3_6e_1_1_iphone_present" dynamic="true" numFixtures="1">
+
+            <fixture
+                density="2"
+                friction="0.1"
+                restitution="0"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="11"
+                >
+
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-16.5000" y="117.5000" />
+
+                    <vertex x="12.5000" y="108.5000" />
+
+                    <vertex x="17.5000" y="116.5000" />
+
+                    <vertex x="9.5000" y="155.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-34.5000" y="59.5000" />
+
+                    <vertex x="-71.5000" y="68.5000" />
+
+                    <vertex x="-71.5000" y="46.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="6">
+
+                    <vertex x="16.5000" y="-149.5000" />
+
+                    <vertex x="12.5000" y="108.5000" />
+
+                    <vertex x="-34.5000" y="59.5000" />
+
+                    <vertex x="-92.5000" y="-39.5000" />
+
+                    <vertex x="-83.5000" y="-90.5000" />
+
+                    <vertex x="-37.5000" y="-155.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="17.5000" y="116.5000" />
+
+                    <vertex x="82.5000" y="4.5000" />
+
+                    <vertex x="104.5000" y="40.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="7">
+
+                    <vertex x="82.5000" y="4.5000" />
+
+                    <vertex x="17.5000" y="116.5000" />
+
+                    <vertex x="12.5000" y="108.5000" />
+
+                    <vertex x="16.5000" y="-149.5000" />
+
+                    <vertex x="17.5000" y="-165.5000" />
+
+                    <vertex x="84.5000" y="-95.5000" />
+
+                    <vertex x="101.5000" y="-34.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-92.5000" y="-39.5000" />
+
+                    <vertex x="-34.5000" y="59.5000" />
+
+                    <vertex x="-83.5000" y="13.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-34.5000" y="59.5000" />
+
+                    <vertex x="-68.5000" y="76.5000" />
+
+                    <vertex x="-89.5000" y="83.5000" />
+
+                    <vertex x="-71.5000" y="68.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-71.5000" y="104.5000" />
+
+                    <vertex x="-73.5000" y="97.5000" />
+
+                    <vertex x="-27.5000" y="113.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-89.5000" y="83.5000" />
+
+                    <vertex x="-73.5000" y="97.5000" />
+
+                    <vertex x="-71.5000" y="104.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-89.5000" y="83.5000" />
+
+                    <vertex x="-68.5000" y="76.5000" />
+
+                    <vertex x="-73.5000" y="97.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-34.5000" y="59.5000" />
+
+                    <vertex x="12.5000" y="108.5000" />
+
+                    <vertex x="-68.5000" y="76.5000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+        <body name="a3_6e_2_1_iphone_present" dynamic="true" numFixtures="1">
+
+            <fixture
+                density="2"
+                friction="0.1"
+                restitution="0"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="7"
+                >
+
+
+                <polygon numVertexes="4">
+
+                    <vertex x="71.5000" y="-3.5000" />
+
+                    <vertex x="26.5000" y="34.5000" />
+
+                    <vertex x="42.5000" y="-3.5000" />
+
+                    <vertex x="54.5000" y="-22.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="7">
+
+                    <vertex x="79.5000" y="126.5000" />
+
+                    <vertex x="55.5000" y="141.5000" />
+
+                    <vertex x="1.5000" y="155.5000" />
+
+                    <vertex x="-35.5000" y="43.5000" />
+
+                    <vertex x="-15.5000" y="29.5000" />
+
+                    <vertex x="26.5000" y="34.5000" />
+
+                    <vertex x="92.5000" y="49.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="6">
+
+                    <vertex x="-35.5000" y="43.5000" />
+
+                    <vertex x="1.5000" y="155.5000" />
+
+                    <vertex x="-36.5000" y="140.5000" />
+
+                    <vertex x="-58.5000" y="114.5000" />
+
+                    <vertex x="-74.5000" y="76.5000" />
+
+                    <vertex x="-65.5000" y="44.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-26.5000" y="13.5000" />
+
+                    <vertex x="-44.5000" y="-9.5000" />
+
+                    <vertex x="-29.5000" y="-15.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="7">
+
+                    <vertex x="37.5000" y="-41.5000" />
+
+                    <vertex x="32.5000" y="5.5000" />
+
+                    <vertex x="26.5000" y="34.5000" />
+
+                    <vertex x="-15.5000" y="29.5000" />
+
+                    <vertex x="-26.5000" y="13.5000" />
+
+                    <vertex x="-17.5000" y="-46.5000" />
+
+                    <vertex x="16.5000" y="-62.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="26.5000" y="34.5000" />
+
+                    <vertex x="32.5000" y="5.5000" />
+
+                    <vertex x="42.5000" y="-3.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-26.5000" y="13.5000" />
+
+                    <vertex x="-15.5000" y="29.5000" />
+
+                    <vertex x="-44.5000" y="-9.5000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+        <body name="a3_6e_3_1_iphone_present" dynamic="true" numFixtures="1">
+
+            <fixture
+                density="2"
+                friction="0.1"
+                restitution="0"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="7"
+                >
+
+
+                <polygon numVertexes="5">
+
+                    <vertex x="-6.5000" y="-101.5000" />
+
+                    <vertex x="36.5000" y="-109.5000" />
+
+                    <vertex x="124.5000" y="15.5000" />
+
+                    <vertex x="-53.5000" y="48.5000" />
+
+                    <vertex x="-85.5000" y="32.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-29.5000" y="135.5000" />
+
+                    <vertex x="28.5000" y="122.5000" />
+
+                    <vertex x="50.5000" y="122.5000" />
+
+                    <vertex x="14.5000" y="150.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="124.5000" y="15.5000" />
+
+                    <vertex x="36.5000" y="-109.5000" />
+
+                    <vertex x="103.5000" y="-84.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-6.5000" y="-101.5000" />
+
+                    <vertex x="-62.5000" y="-8.5000" />
+
+                    <vertex x="-61.5000" y="-53.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="5">
+
+                    <vertex x="-35.5000" y="94.5000" />
+
+                    <vertex x="124.5000" y="15.5000" />
+
+                    <vertex x="103.5000" y="36.5000" />
+
+                    <vertex x="-29.5000" y="135.5000" />
+
+                    <vertex x="-38.5000" y="116.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-53.5000" y="48.5000" />
+
+                    <vertex x="124.5000" y="15.5000" />
+
+                    <vertex x="-35.5000" y="94.5000" />
+
+                    <vertex x="-50.5000" y="75.5000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-29.5000" y="135.5000" />
+
+                    <vertex x="103.5000" y="36.5000" />
+
+                    <vertex x="72.5000" y="76.5000" />
+
+                    <vertex x="28.5000" y="122.5000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+        <body name="a3_4_4_iphone_shishi" dynamic="false" numFixtures="1">
+
+            <fixture
+                density="2"
+                friction="0"
+                restitution="0.3"
+                filter_categoryBits="1"
+                filter_groupIndex="0"
+                filter_maskBits="65535"
+                isSensor="false"
+                type="POLYGON"
+                numPolygons="9"
+                >
+
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-4.0000" y="120.0000" />
+
+                    <vertex x="20.0000" y="114.0000" />
+
+                    <vertex x="10.0000" y="156.0000" />
+
+                    <vertex x="-23.0000" y="161.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="5">
+
+                    <vertex x="87.0000" y="120.0000" />
+
+                    <vertex x="178.0000" y="-43.0000" />
+
+                    <vertex x="178.0000" y="114.0000" />
+
+                    <vertex x="133.0000" y="158.0000" />
+
+                    <vertex x="68.0000" y="161.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-101.0000" y="147.0000" />
+
+                    <vertex x="-70.0000" y="120.0000" />
+
+                    <vertex x="-41.0000" y="114.0000" />
+
+                    <vertex x="-58.0000" y="155.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="4">
+
+                    <vertex x="-144.0000" y="-56.0000" />
+
+                    <vertex x="-128.0000" y="-1.0000" />
+
+                    <vertex x="-151.0000" y="16.0000" />
+
+                    <vertex x="-184.0000" y="-35.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-70.0000" y="120.0000" />
+
+                    <vertex x="-101.0000" y="147.0000" />
+
+                    <vertex x="-98.0000" y="122.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-128.0000" y="-1.0000" />
+
+                    <vertex x="-84.0000" y="60.0000" />
+
+                    <vertex x="-129.0000" y="60.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="8">
+
+                    <vertex x="87.0000" y="120.0000" />
+
+                    <vertex x="20.0000" y="114.0000" />
+
+                    <vertex x="-128.0000" y="-1.0000" />
+
+                    <vertex x="-144.0000" y="-56.0000" />
+
+                    <vertex x="-135.0000" y="-103.0000" />
+
+                    <vertex x="-93.0000" y="-143.0000" />
+
+                    <vertex x="119.0000" y="-115.0000" />
+
+                    <vertex x="178.0000" y="-43.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="3">
+
+                    <vertex x="-84.0000" y="60.0000" />
+
+                    <vertex x="-41.0000" y="114.0000" />
+
+                    <vertex x="-70.0000" y="120.0000" />
+
+                </polygon>
+
+                <polygon numVertexes="5">
+
+                    <vertex x="-84.0000" y="60.0000" />
+
+                    <vertex x="-128.0000" y="-1.0000" />
+
+                    <vertex x="20.0000" y="114.0000" />
+
+                    <vertex x="-4.0000" y="120.0000" />
+
+                    <vertex x="-41.0000" y="114.0000" />
+
+                </polygon>
+
+
+            </fixture>
+
+        </body>
+
+    </bodies>
+    <metadata>
+        <format>1</format>
+        <ptm_ratio>32</ptm_ratio>
+    </metadata>
+</bodydef>

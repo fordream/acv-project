@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="packer_partb_6.pvr.ccz" type="pvrccz" width="1321" height="945" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:3762173ab50fca36ced1053a48f86e23$ -->
+    <textureregion id="0" src="a3_11_1_iphone_kakejiku.png" x="632" y="789" width="154" height="627" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="154" srcheight="627"/>
+    <textureregion id="1" src="a3_11_2_iphone_kakejiku.png" x="1165" y="2" width="154" height="627" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="154" srcheight="627"/>
+    <textureregion id="2" src="a3_11_3_iphone_kakejiku.png" x="1008" y="2" width="154" height="627" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="154" srcheight="627"/>
+    <textureregion id="3" src="a3_11_4_iphone_kakejiku.png" x="632" y="632" width="154" height="627" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="154" srcheight="627"/>
+    <textureregion id="4" src="a3_11_5_iphone_kakejiku.png" x="2" y="789" width="154" height="627" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="154" srcheight="627"/>
+    <textureregion id="5" src="a3_11_6_iphone_kakejiku.png" x="2" y="632" width="154" height="627" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="154" srcheight="627"/>
+    <textureregion id="6" src="a3_11_7_iphone_kakejiku.png" x="505" y="2" width="500" height="627" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="500" srcheight="627"/>
+    <textureregion id="7" src="a3_11_8_iphone_kakejiku.png" x="2" y="2" width="500" height="627" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="500" srcheight="627"/>
+</texture>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="miniItemII.pvr.ccz" type="pvrccz" width="1422" height="992" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:fa121d524cf1d93e20b18bb8b12771a1$ -->
+    <textureregion id="0" src="a4_1_6_1_iphone_clearwindow.png" x="3" y="3" width="960" height="960" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="960"/>
+    <textureregion id="1" src="a4_4_2_4_4_iphone_haburashi.png" x="967" y="441" width="273" height="182" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="273" srcheight="182"/>
+    <textureregion id="2" src="a4_4_2_9_4_iphone_wash.png" x="1153" y="441" width="266" height="271" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="271"/>
+    <textureregion id="3" src="a4_4_2_9_5_iphone_wash.png" x="967" y="718" width="266" height="271" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="271"/>
+    <textureregion id="4" src="a4_5_iphone_hikari.png" x="967" y="3" width="434" height="334" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="434" srcheight="334"/>
+</texture>

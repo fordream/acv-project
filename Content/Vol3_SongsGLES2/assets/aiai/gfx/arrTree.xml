@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="arrTree.pvr.ccz" type="pvrccz" width="1930" height="1934" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:eed57613ca58d070fda7f1b779e23f6e$ -->
+    <textureregion id="0" src="a1_18_1_iphone_haikei.png" x="3" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="1" src="a1_18_2_iphone_haikei.png" x="967" y="1291" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="2" src="a1_18_3_iphone_haikei.png" x="3" y="1291" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="3" src="a1_18_4_iphone_haikei.png" x="967" y="647" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="4" src="a1_18_5_iphone_haikei.png" x="3" y="647" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="5" src="a1_18_6_iphone_haikei.png" x="967" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+</texture>

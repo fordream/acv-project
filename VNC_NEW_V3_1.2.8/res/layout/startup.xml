@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/startup_display"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <!-- android:background="@drawable/adr_splash" -->
+
+    <ImageView
+        android:id="@+id/getActionBar"
+        android:layout_width="960px"
+        android:layout_height="640px"
+        android:clickable="false" />
+    <!-- android:background="@drawable/adr_splash" -->
+<!-- android:background="@drawable/adr_splash_fixoutofmemory" -->
+    <ImageView
+        android:id="@+id/flashscreen"
+        android:layout_width="960px"
+        android:layout_height="640px"
+        
+        android:clickable="false" />
+
+</RelativeLayout>

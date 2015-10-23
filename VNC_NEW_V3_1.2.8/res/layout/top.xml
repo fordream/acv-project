@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/top_display"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:animationCache="false" >
+
+    <org.andengine.opengl.view.RenderSurfaceView
+        android:id="@+id/xmllayoutexample_rendersurfaceview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerInParent="true"
+        android:gravity="center" />
+
+    <ImageView
+        android:id="@+id/top_note"
+        android:layout_width="352px"
+        android:layout_height="215px" />
+
+    <ImageView
+        android:id="@+id/top_link"
+        android:layout_width="282px"
+        android:layout_height="315px" />
+
+    <ImageView
+        android:id="@+id/top_link_button"
+        android:layout_width="180px"
+        android:layout_height="250px" />
+
+    <ImageView
+        android:id="@+id/redownload"
+        android:layout_width="307px"
+        android:layout_height="129px" />
+
+    <com.xing.joy.common.DownloadProgessBar
+        android:id="@+id/download_bar"
+        android:layout_width="631px"
+        android:layout_height="188px"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/canceldownload"
+        android:layout_width="120px"
+        android:layout_height="37px"
+        android:background="@drawable/download_cancel"
+        android:visibility="invisible" />
+
+</RelativeLayout>

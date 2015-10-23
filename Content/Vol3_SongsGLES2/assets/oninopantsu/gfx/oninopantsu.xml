@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="oninopantsu.pvr.ccz" type="pvrccz" width="2048" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:acc8eada568a2aebe81936a70141b596$ -->
+    <textureregion id="0" src="a3_02_iphone3g_usagi.png" x="331" y="1084" width="159" height="279" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="159" srcheight="279"/>
+    <textureregion id="1" src="a3_03_iphone3g_kuma.png" x="518" y="1647" width="160" height="222" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="160" srcheight="222"/>
+    <textureregion id="2" src="a3_04_iphone3g_tora.png" x="331" y="1367" width="211" height="276" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="211" srcheight="276"/>
+    <textureregion id="3" src="a3_05_iphone3g_sutoraipupantu.png" x="1935" y="3" width="106" height="87" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="87"/>
+    <textureregion id="4" src="a3_06_iphone3g_centerpants.png" x="389" y="1886" width="127" height="107" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="127" srcheight="107"/>
+    <textureregion id="5" src="a3_07_iphone3g_mizutama.png" x="3" y="1954" width="118" height="89" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="118" srcheight="89"/>
+    <textureregion id="6" src="a3_08_1_iphone3g_akaoni_actin.png" x="331" y="649" width="324" height="431" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="324" srcheight="431"/>
+    <textureregion id="7" src="a3_08_2_iphone3g_aooni_action.png" x="3" y="1519" width="324" height="431" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="324" srcheight="431"/>
+    <textureregion id="8" src="a3_09_iphone3g_e00011_akaoni_pantu.png" x="546" y="1323" width="204" height="104" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="204" srcheight="104"/>
+    <textureregion id="9" src="a3_10_iphone3g_akaoni.png" x="3" y="1084" width="324" height="431" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="324" srcheight="431"/>
+    <textureregion id="10" src="a3_11_iphone3g_e00011_aooni_pantu.png" x="520" y="1873" width="204" height="104" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="204" srcheight="104"/>
+    <textureregion id="11" src="a3_12_iphone3g_aooni.png" x="3" y="649" width="324" height="431" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="324" srcheight="431"/>
+    <textureregion id="12" src="a3_13_1_iphone3g_kaminarigumo1.png" x="494" y="1084" width="183" height="235" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="183" srcheight="235"/>
+    <textureregion id="13" src="a3_13_iphone3g_kaminarigumo.png" x="331" y="1647" width="183" height="235" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="183" srcheight="235"/>
+    <textureregion id="14" src="a3_14_iphone3g_kumo.png" x="125" y="1954" width="260" height="68" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="260" srcheight="68"/>
+    <textureregion id="15" src="a3_15_iphone3g_tori.png" x="1935" y="420" width="101" height="69" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="101" srcheight="69"/>
+    <textureregion id="16" src="a3_16_iphone3g_haikei_oninopantu.png" x="969" y="3" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="17" src="a3_17_iphone3g_yama.png" x="3" y="3" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="18" src="a3_21_iphone3g_e0009_dendendaiko.png" x="1935" y="203" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+    <textureregion id="19" src="a3_22_iphone3g_e00010_cymbals.png" x="1935" y="94" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+    <textureregion id="20" src="a3_23_iphone3g_question.png" x="1935" y="312" width="105" height="104" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="104"/>
+</texture>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="yukirinrin_boya.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:51d1ed329bea2a75b345b41417999af9$ -->
+    <textureregion id="0" src="a2_11_5_1_iphone_boya.png" x="276" y="703" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="1" src="a2_11_5_2_iphone_boya.png" x="3" y="703" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="2" src="a2_11_5_3_iphone_boya.png" x="549" y="353" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="3" src="a2_11_5_4_iphone_boya.png" x="276" y="353" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="4" src="a2_11_5_5_iphone_boya.png" x="3" y="353" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="5" src="a2_11_5_6_iphone_boya.png" x="549" y="3" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="6" src="a2_11_5_7_iphone_boya.png" x="276" y="3" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="7" src="a2_11_5_8_iphone_boya.png" x="3" y="3" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+</texture>

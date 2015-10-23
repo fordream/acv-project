@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="anpanmanmachi3.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:e08474f0f656d4297757a6989fe620f4$ -->
+    <textureregion id="0" src="a3_36_iphone_earth.png" x="3" y="3" width="914" height="900" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="914" srcheight="900"/>
+    <textureregion id="1" src="a3_37_iphone_haikei.png" x="921" y="3" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+</texture>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="umi3.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:fb1594cb5ab7efe0c3d6777ee6d44c6f$ -->
+    <textureregion id="0" src="a3_04_1_iphone_shark.png" x="969" y="666" width="624" height="335" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="624" srcheight="335"/>
+    <textureregion id="1" src="a3_26_1_iphone_bigweed.png" x="975" y="5" width="958" height="267" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="958" srcheight="267"/>
+    <textureregion id="2" src="a3_26_2_iphone_bigweed.png" x="5" y="655" width="958" height="267" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="958" srcheight="267"/>
+    <textureregion id="3" src="a3_29_iphone_backrock.png" x="975" y="278" width="964" height="184" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="964" srcheight="184"/>
+    <textureregion id="4" src="a3_30_iphone_frontrock.png" x="975" y="468" width="815" height="192" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="815" srcheight="192"/>
+    <textureregion id="5" src="a3_31_iphone_light.png" x="5" y="5" width="964" height="644" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="964" srcheight="644"/>
+</texture>

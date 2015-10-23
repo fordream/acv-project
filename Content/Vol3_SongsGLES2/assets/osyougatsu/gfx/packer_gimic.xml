@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="packer_gimic.pvr.ccz" type="pvrccz" width="213" height="213" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:1977ba48c1dc396fda44e86c613121c9$ -->
+    <textureregion id="0" src="a3_abc_1_iphone_wadaiko.png" x="108" y="2" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+    <textureregion id="1" src="a3_abc_2_iphone_koto.png" x="2" y="108" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+    <textureregion id="2" src="a3_abc_3_iphone_chikichin.png" x="2" y="2" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+</texture>

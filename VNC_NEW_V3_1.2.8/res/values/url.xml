@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- new api http://157.7.162.27 -->
+    <!-- Server test http://192.168.2.2s2/ -->
+    <!-- http://202.237.149.235 -->
+    <!--  -->
+    <!--  -->
+    <!--  -->
+    <!-- REAL SERVER  SERVER -->
+    <string name="server_real">http://app.utaehon.jp/</string> 
+    <string name="url_log_password"></string>
+    <string name="url_log_device"></string>
+    <string name="cs_font">e122094adb4572c62a924f8d62c643a4</string>
+
+    <string name="email_c2dm">utaehon.push@gmail.com</string>
+    <string name="url_user">xing</string>
+    <string name="url_password">w2At6rm9</string>
+    <string name="url_package_download">vol3gles2/</string>
+    <string name="url_package_hd_download">vol3gles2hd/</string>
+    <string name="url_song_free_download">vol3gles2/</string>
+    <string name="url_song_free_hd_download">vol3gles2hd/</string>
+    <string name="url_top_free_download">vol3general/</string>
+    <string name="url_push_server">gcm/public/index.php/registration</string>
+    <string name="url_get_price">vol3general/getprice.php</string>    <!--  -->
+    <!--  -->
+    <!--  -->
+    <!-- TEST  SERVER -->
+    <!-- 
+    <string name="server_real">http://pgcafe.org/</string>
+    <string name="url_log_password"></string>
+    <string name="url_log_device"></string>
+    <string name="cs_font">e122094adb4572c62a924f8d62c643a4</string>
+    <string name="email_c2dm">utaehon.push@gmail.com</string>
+    <string name="url_user">xing</string>
+    <string name="url_password">w2At6rm9</string>
+    <string name="url_package_download">vol3gles2_vnc/</string>
+    <string name="url_package_hd_download">vol3gles2hd_vnc/</string>
+    <string name="url_song_free_download">vol3gles2_vnc/</string>
+    <string name="url_song_free_hd_download">vol3gles2hd_vnc/</string>
+    <string name="url_top_free_download">vol3general_vnc/</string>
+    <string name="url_push_server">gcm/public/index.php/registration</string>
+    <string name="url_get_price">vol3general/getprice.php</string>
+     -->
+</resources>

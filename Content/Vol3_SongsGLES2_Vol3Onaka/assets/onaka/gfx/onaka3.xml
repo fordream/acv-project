@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="onaka3.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:afbfad9094edc968192503531fb404aa$ -->
+    <textureregion id="0" src="onaka_4g_iphone_boy.png" x="2" y="2" width="403" height="567" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="403" srcheight="567"/>
+    <textureregion id="1" src="onaka_5_1_iphone_inonaka.png" x="877" y="673" width="126" height="182" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="126" srcheight="182"/>
+    <textureregion id="2" src="onaka_5_2_iphone_inonaka.png" x="749" y="673" width="126" height="182" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="126" srcheight="182"/>
+    <textureregion id="3" src="onaka_5a_iphone_inonaka.png" x="362" y="571" width="35" height="33" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="35" srcheight="33"/>
+    <textureregion id="4" src="onaka_5b_iphone_inonaka.png" x="915" y="337" width="29" height="22" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="29" srcheight="22"/>
+    <textureregion id="5" src="onaka_6_1_1_iphone_toire.png" x="749" y="857" width="158" height="120" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="158" srcheight="120"/>
+    <textureregion id="6" src="onaka_6_1_iphone_toire.png" x="362" y="655" width="385" height="291" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="385" srcheight="291"/>
+    <textureregion id="7" src="onaka_6_2_1_iphone_toire.png" x="208" y="931" width="36" height="24" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="36" srcheight="24"/>
+    <textureregion id="8" src="onaka_6_2_iphone_toire.png" x="407" y="362" width="385" height="291" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="385" srcheight="291"/>
+    <textureregion id="9" src="onaka_7_1_iphone_houtyou.png" x="2" y="931" width="204" height="83" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="204" srcheight="83"/>
+    <textureregion id="10" src="onaka_7_2_iphone_huta.png" x="767" y="2" width="333" height="249" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="249"/>
+    <textureregion id="11" src="onaka_7_3_iphone_sara.png" x="794" y="337" width="334" height="119" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="334" srcheight="119"/>
+    <textureregion id="12" src="onaka_7_4_iphone_smoke.png" x="407" y="2" width="358" height="358" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="358" srcheight="358"/>
+    <textureregion id="13" src="onaka_7_5_iphone_smoke.png" x="2" y="571" width="358" height="358" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="358" srcheight="358"/>
+</texture>

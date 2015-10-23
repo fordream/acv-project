@@ -1,0 +1,61 @@
+1.bỏ permission lấy thông tin của các ứng dụng đang chạy (giống bản android-us)
+	    <!-- <uses-permission android:name="android.permission.GET_TASKS" />-->
+   		<!-- <uses-permission android:name="android.permission.GET_ACCOUNTS" />-->
+   		
+   		* Thay đổi các file:
+   		
+   			- Thêm CommonUtilities.ACTIVITY_TOP = this; vào hàm onCreate của  CoreActivity, CoreGameActivity
+   			- Sửa file CommonUtilities:
+   				+ Thêm biến static : public static Activity ACTIVITY_TOP;
+   				+ Sửa hàm  : checkApplicationRunning
+   				public static boolean checkApplicationRunning(Context context) {
+						if (ACTIVITY_TOP != null) {
+							if (ACTIVITY_TOP.isTaskRoot()) {
+								return true;
+							}
+						}
+				
+						return false;
+				}
+
+				
+2.bỏ permission lấy device ID
+		- Không bỏ được vì push cần
+
+		
+3.sửa lỗi 2 shortcut
+		- Sửa với các máy mới cài đặt.
+		-  Sử dụng hàm public void autoCreateShortCut() của class ShortCutUtils.
+
+
+4. thêm logic hiển thị các alert báo lỗi 001,002,…. Giống bản android-us
+		- Thêm file vào resource : error.xml vào value
+		- Thêm class ZDialogUtils.java để quản lý các message
+		
+		- Top.class thay thế 
+			alertInformation(getString(R.string.download_failed));
+		Bằng :
+			new ZDialogUtils(Top.this) {
+				public void onClick(DialogInterface dialog,int which) {
+					super.onClick(dialog, which);
+							try {
+								if (downloadBar != null) {
+									downloadBar.setVisibility(View.INVISIBLE);
+									imgCancel.setVisibility(View.INVISIBLE);
+								}
+								isTouchRedownload = true;
+							} catch (Exception e) {
+							}
+				};
+			}.onCreateDialog(ZDialogUtils.DIALOG_ERROR_002);
+	
+	
+		- Sửa file Download.java
+		- Sửa file Unzip.java
+		- MemoryUtils thêm method
+			public long avaiableInternalStoreMemorySize() {
+				StatFs stat = new StatFs(Environment.getDataDirectory().getPath());
+				long bytesAvailable = (long) stat.getFreeBlocks()
+						* (long) stat.getBlockSize();
+				return (bytesAvailable / 1048576);
+			}

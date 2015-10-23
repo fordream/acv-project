@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="otemajin.pvr.ccz" type="pvrccz" width="1259" height="978" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:1035def26a25c93d7ad27f8ec70a955f$ -->
+    <textureregion id="0" src="a4_5_3_1_iphone_otemajin.png" x="841" y="491" width="415" height="484" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="415" srcheight="484"/>
+    <textureregion id="1" src="a4_5_3_2_iphone_otemajin.png" x="841" y="3" width="415" height="484" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="415" srcheight="484"/>
+    <textureregion id="2" src="a4_5_3_3_iphone_otemajin.png" x="422" y="491" width="415" height="484" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="415" srcheight="484"/>
+    <textureregion id="3" src="a4_5_3_4_iphone_otemajin.png" x="422" y="3" width="415" height="484" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="415" srcheight="484"/>
+    <textureregion id="4" src="a4_5_3_5_iphone_otemajin.png" x="3" y="491" width="415" height="484" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="415" srcheight="484"/>
+    <textureregion id="5" src="a4_5_3_6_iphone_otemajin.png" x="3" y="3" width="415" height="484" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="415" srcheight="484"/>
+</texture>

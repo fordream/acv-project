@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3SabosanPacker1.pvr.ccz" type="pvrccz" width="2048" height="2048" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:417162de51b60f3c8fb927281ba3aaa9$ -->
+    <textureregion id="0" src="A2-11-iPhone.png" x="1054" y="647" width="861" height="239" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="861" srcheight="239"/>
+    <textureregion id="1" src="A2-12-iPhone.png" x="3" y="489" width="1008" height="417" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1008" srcheight="417"/>
+    <textureregion id="2" src="A2-13_1-iPhone.png" x="1015" y="489" width="87" height="37" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="87" srcheight="37"/>
+    <textureregion id="3" src="A2-13_2-iPhone.png" x="1015" y="580" width="68" height="35" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="68" srcheight="35"/>
+    <textureregion id="4" src="A2-14_1-iPhone.png" x="1595" y="1121" width="173" height="175" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="173" srcheight="175"/>
+    <textureregion id="5" src="A2-14_2-iPhone.png" x="1416" y="1121" width="173" height="175" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="173" srcheight="175"/>
+    <textureregion id="6" src="A2-14_3-iPhone.png" x="966" y="1189" width="173" height="175" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="173" srcheight="175"/>
+    <textureregion id="7" src="A2-15_1_1-iPhone.png" x="660" y="910" width="227" height="247" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="247"/>
+    <textureregion id="8" src="A2-15_1_2-iPhone.png" x="409" y="910" width="227" height="247" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="247"/>
+    <textureregion id="9" src="A2-15_2_1-iPhone.png" x="3" y="1136" width="227" height="247" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="247"/>
+    <textureregion id="10" src="A2-15_2_2-iPhone.png" x="1775" y="905" width="227" height="247" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="247"/>
+    <textureregion id="11" src="A2-15_3_1-iPhone.png" x="1524" y="890" width="227" height="247" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="247"/>
+    <textureregion id="12" src="A2-15_3_2-iPhone.png" x="1273" y="890" width="227" height="247" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="247"/>
+    <textureregion id="13" src="A2-16_1-iPhone.png" x="1015" y="652" width="80" height="26" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="26"/>
+    <textureregion id="14" src="A2-16_2-iPhone.png" x="911" y="1098" width="184" height="51" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="184" srcheight="51"/>
+    <textureregion id="15" src="A2-16_3-iPhone.png" x="911" y="910" width="184" height="51" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="184" srcheight="51"/>
+    <textureregion id="16" src="A2-17-iPhone.png" x="1058" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="17" src="A2-2_1-iPhone.png" x="1015" y="890" width="254" height="92" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="254" srcheight="92"/>
+    <textureregion id="18" src="A2-2_2-iPhone.png" x="1919" y="647" width="254" height="92" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="254" srcheight="92"/>
+    <textureregion id="19" src="A2-2_3-iPhone.png" x="3" y="3" width="1051" height="262" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1051" srcheight="262"/>
+    <textureregion id="20" src="A2-3_1-iPhone.png" x="1191" y="1121" width="221" height="199" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="221" srcheight="199"/>
+    <textureregion id="21" src="A2-3_2-iPhone.png" x="966" y="986" width="221" height="199" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="221" srcheight="199"/>
+    <textureregion id="22" src="A2-3_3-iPhone.png" x="206" y="910" width="221" height="199" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="221" srcheight="199"/>
+    <textureregion id="23" src="A2-3_4-iPhone.png" x="3" y="910" width="221" height="199" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="221" srcheight="199"/>
+    <textureregion id="24" src="A2-4-iPhone.png" x="3" y="269" width="1035" height="216" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1035" srcheight="216"/>
+</texture>

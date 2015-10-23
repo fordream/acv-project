@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="normal.pvr.ccz" type="pvrccz" width="1013" height="1009" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:fdb19d8ae8b34d846c9d3beef64a0b8f$ -->
+    <textureregion id="0" src="a2_4_iphone_girl.png" x="718" y="318" width="293" height="313" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="293" srcheight="313"/>
+    <textureregion id="1" src="a2_4a_iphone_girl.png" x="718" y="2" width="293" height="313" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="293" srcheight="313"/>
+    <textureregion id="2" src="a2_5_iphone_usagi.png" x="350" y="700" width="259" height="307" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="307"/>
+    <textureregion id="3" src="a2_5a_iphone_usagi.png" x="350" y="438" width="259" height="307" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="259" srcheight="307"/>
+    <textureregion id="4" src="a2_6_iphone_boy.png" x="350" y="220" width="215" height="365" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="215" srcheight="365"/>
+    <textureregion id="5" src="a2_6a_iphone_boy.png" x="350" y="2" width="215" height="365" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="215" srcheight="365"/>
+    <textureregion id="6" src="a2_7_iphone_kuma.png" x="2" y="435" width="345" height="430" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="430"/>
+    <textureregion id="7" src="a2_7a_iphone_kuma.png" x="2" y="2" width="345" height="430" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="345" srcheight="430"/>
+</texture>

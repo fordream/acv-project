@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="packer_parta_tab_2.pvr.ccz" type="pvrccz" width="1154" height="688" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:8ea96ce3d226a86cff298d57953195d3$ -->
+    <textureregion id="0" src="a3_5_2_1_iphone_dai.png" x="2" y="2" width="1150" height="684" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1150" srcheight="684"/>
+</texture>

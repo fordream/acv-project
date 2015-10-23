@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3BunbunbunPacker2.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:8672cb4725332f794f7979d691f811f1$ -->
+    <textureregion id="0" src="a20_04_1_1_iphone_bee.png" x="600" y="828" width="195" height="177" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="195" srcheight="177"/>
+    <textureregion id="1" src="a20_04_1_iphone_bee.png" x="600" y="647" width="195" height="177" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="195" srcheight="177"/>
+    <textureregion id="2" src="a20_04_2_1_iphone_bee.png" x="401" y="828" width="195" height="177" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="195" srcheight="177"/>
+    <textureregion id="3" src="a20_04_2_iphone_bee.png" x="401" y="647" width="195" height="177" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="195" srcheight="177"/>
+    <textureregion id="4" src="a20_04_3_1_iphone_bee.png" x="202" y="828" width="195" height="177" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="195" srcheight="177"/>
+    <textureregion id="5" src="a20_04_3_iphone_bee.png" x="202" y="647" width="195" height="177" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="195" srcheight="177"/>
+    <textureregion id="6" src="a20_04_4_1_iphone_bee.png" x="3" y="828" width="195" height="177" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="195" srcheight="177"/>
+    <textureregion id="7" src="a20_04_4_iphone_bee.png" x="3" y="647" width="195" height="177" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="195" srcheight="177"/>
+    <textureregion id="8" src="a20_13_9_iphone_hana.png" x="799" y="647" width="89" height="146" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="89" srcheight="146"/>
+    <textureregion id="9" src="a20_15_iphone_haikei.png" x="3" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+</texture>

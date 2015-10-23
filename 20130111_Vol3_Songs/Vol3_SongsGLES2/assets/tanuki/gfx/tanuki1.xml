@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="tanuki1.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:0f19ac8bedfb79a6938636d5e7645f9a$ -->
+    <textureregion id="0" src="a5_01_iphone4_e00143_tikitin.png" x="940" y="852" width="107" height="107" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="107"/>
+    <textureregion id="1" src="a5_02_iphone4_e00144_mokugyo2.png" x="827" y="852" width="107" height="107" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="107"/>
+    <textureregion id="2" src="a5_03_1_iphone4_dai.png" x="1703" y="5" width="204" height="181" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="204" srcheight="181"/>
+    <textureregion id="3" src="a5_03_2_iphone4_dai.png" x="1448" y="269" width="204" height="181" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="204" srcheight="181"/>
+    <textureregion id="4" src="a5_03_3_iphone4_dai.png" x="1238" y="269" width="204" height="181" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="204" srcheight="181"/>
+    <textureregion id="5" src="a5_03_iphone4_question.png" x="1053" y="852" width="107" height="106" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="106"/>
+    <textureregion id="6" src="a5_05_1_iphone4_mama.png" x="1165" y="514" width="332" height="332" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="332" srcheight="332"/>
+    <textureregion id="7" src="a5_05_2_iphone4_mama_action.png" x="827" y="514" width="332" height="332" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="332" srcheight="332"/>
+    <textureregion id="8" src="a5_06_1_iphone4_papa.png" x="5" y="5" width="405" height="503" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="405" srcheight="503"/>
+    <textureregion id="9" src="a5_06_2_iphone4_papa_smoke1.png" x="827" y="5" width="405" height="503" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="405" srcheight="503"/>
+    <textureregion id="10" src="a5_06_3_iphone4_papa_action.png" x="416" y="514" width="405" height="503" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="405" srcheight="503"/>
+    <textureregion id="11" src="a5_06_4_iphone4_papa_smoke2.png" x="416" y="5" width="405" height="503" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="405" srcheight="503"/>
+    <textureregion id="12" src="a5_07_iphone4_papa_ani.png" x="5" y="514" width="405" height="503" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="405" srcheight="503"/>
+    <textureregion id="13" src="a5_08_1_iphone4_ani.png" x="1836" y="444" width="172" height="246" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="172" srcheight="246"/>
+    <textureregion id="14" src="a5_08_2_iphone4_ani.png" x="1658" y="444" width="172" height="246" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="172" srcheight="246"/>
+    <textureregion id="15" src="a5_08_3_iphone4_ani.png" x="1703" y="192" width="172" height="246" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="172" srcheight="246"/>
+    <textureregion id="16" src="a5_09_1_iphone4_otouto.png" x="1548" y="5" width="149" height="258" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="258"/>
+    <textureregion id="17" src="a5_09_2_iphone4_otouto.png" x="1393" y="5" width="149" height="258" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="258"/>
+    <textureregion id="18" src="a5_09_3_iphone4_otouto.png" x="1238" y="5" width="149" height="258" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="258"/>
+    <textureregion id="19" src="a5_10_1_iphone4_plate.png" x="1166" y="852" width="112" height="85" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="112" srcheight="85"/>
+    <textureregion id="20" src="a5_10_2_iphone4_dango.png" x="827" y="965" width="33" height="31" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="33" srcheight="31"/>
+    <textureregion id="21" src="a5_12_1_iphone4_cloud_left.png" x="1284" y="852" width="178" height="82" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="178" srcheight="82"/>
+    <textureregion id="22" src="a5_12_2_iphone4_cloud_right.png" x="1284" y="852" width="178" height="82" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="178" srcheight="82"/>
+</texture>

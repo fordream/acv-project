@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="guchokipa28.pvr.ccz" type="pvrccz" width="1053" height="707" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:8cb980dbc869988e15eea4beb9c99db7$ -->
+    <textureregion id="0" src="a1_7_6_iphone_piero.png" x="2" y="2" width="523" height="703" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="523" srcheight="703"/>
+    <textureregion id="1" src="a1_7_7_iphone_piero.png" x="528" y="2" width="523" height="703" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="523" srcheight="703"/>
+</texture>

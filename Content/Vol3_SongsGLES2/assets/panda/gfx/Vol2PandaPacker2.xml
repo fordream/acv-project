@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol2PandaPacker2.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:7a99980ec9226d2cbf43b7281606f59e$ -->
+    <textureregion id="0" src="a8_06_1_iphone4_house.png" x="3" y="1291" width="350" height="401" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="350" srcheight="401"/>
+    <textureregion id="1" src="a8_06_2_iphone4_smoke1.png" x="3" y="1696" width="308" height="252" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="308" srcheight="252"/>
+    <textureregion id="2" src="a8_06_3_iphone4_smoke1.png" x="315" y="1696" width="308" height="252" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="308" srcheight="252"/>
+    <textureregion id="3" src="a8_08_iphone4_haikei.png" x="3" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="4" src="a8_iphone4_vol2_panda.png" x="3" y="647" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+</texture>

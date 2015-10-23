@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="packer_partb_5.pvr.ccz" type="pvrccz" width="1093" height="1011" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:f86c1f0a1f596018b0ffaa926bec60f7$ -->
+    <textureregion id="0" src="a3_13_iphone_yajirushi.png" x="984" y="380" width="250" height="103" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="250" srcheight="103"/>
+    <textureregion id="1" src="a3_9a_1_iphone_nasu.png" x="824" y="654" width="251" height="271" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="251" srcheight="271"/>
+    <textureregion id="2" src="a3_9a_2_iphone_nasu.png" x="730" y="380" width="251" height="271" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="251" srcheight="271"/>
+    <textureregion id="3" src="a3_9a_3_iphone_nasu.png" x="550" y="758" width="251" height="271" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="251" srcheight="271"/>
+    <textureregion id="4" src="a3_9a_4_iphone_nasu.png" x="276" y="758" width="251" height="271" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="251" srcheight="271"/>
+    <textureregion id="5" src="a3_9a_5_iphone_nasu.png" x="2" y="758" width="251" height="271" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="251" srcheight="271"/>
+    <textureregion id="6" src="a3_9b_1_iphone_tori.png" x="730" y="2" width="375" height="361" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="375" srcheight="361"/>
+    <textureregion id="7" src="a3_9b_2_iphone_tori.png" x="366" y="380" width="375" height="361" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="375" srcheight="361"/>
+    <textureregion id="8" src="a3_9b_3_iphone_tori.png" x="366" y="2" width="375" height="361" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="375" srcheight="361"/>
+    <textureregion id="9" src="a3_9b_4_iphone_tori.png" x="2" y="380" width="375" height="361" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="375" srcheight="361"/>
+    <textureregion id="10" src="a3_9b_5_iphone_tori.png" x="2" y="2" width="375" height="361" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="375" srcheight="361"/>
+</texture>

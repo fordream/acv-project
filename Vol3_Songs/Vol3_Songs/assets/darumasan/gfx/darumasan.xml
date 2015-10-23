@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="darumasan.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:6d09a4d241f5ad73d54d46789a6b92fa$ -->
+    <textureregion id="0" src="a3_00_iphone3g_haikei_darumasan.png" x="5" y="5" width="964" height="644" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="964" srcheight="644"/>
+    <textureregion id="1" src="a3_01_iphone3g_e00015_door_right.png" x="655" y="456" width="445" height="322" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="445" srcheight="322"/>
+    <textureregion id="2" src="a3_02_iphone3g_e00015_door_left.png" x="655" y="456" width="445" height="322" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="445" srcheight="322"/>
+    <textureregion id="3" src="a3_03_1_iphone3g_right_before.png" x="1396" y="664" width="279" height="328" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="279" srcheight="328"/>
+    <textureregion id="4" src="a3_03_2_iphone3g_center_before.png" x="1268" y="330" width="279" height="328" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="279" srcheight="328"/>
+    <textureregion id="5" src="a3_03_3_iphone3g_left_before.png" x="1396" y="5" width="279" height="328" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="279" srcheight="328"/>
+    <textureregion id="6" src="a3_04_iphone3g_e00014_ninja.png" x="983" y="673" width="122" height="224" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="122" srcheight="224"/>
+    <textureregion id="7" src="a3_05_iphone3g_e00015_opendoor_right.png" x="655" y="5" width="445" height="322" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="445" srcheight="322"/>
+    <textureregion id="8" src="a3_06_iphone3g_e00015_opendoor_left.png" x="655" y="5" width="445" height="322" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="445" srcheight="322"/>
+    <textureregion id="9" src="a3_07_1_iphone3g_right_after.png" x="1111" y="673" width="279" height="328" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="279" srcheight="328"/>
+    <textureregion id="10" src="a3_07_2_iphone3g_center_after.png" x="983" y="339" width="279" height="328" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="279" srcheight="328"/>
+    <textureregion id="11" src="a3_07_3_iphone3g_left_after.png" x="983" y="5" width="279" height="328" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="279" srcheight="328"/>
+    <textureregion id="12" src="a3_08_iphone3g_syuriken.png" x="993" y="903" width="49" height="76" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="49" srcheight="76"/>
+    <textureregion id="13" src="a3_09_iphone3g_hasira.png" x="1268" y="5" width="89" height="319" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="89" srcheight="319"/>
+    <textureregion id="14" src="a3_10_iphone3g_e00012_yo.png" x="768" y="907" width="107" height="107" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="107"/>
+    <textureregion id="15" src="a3_11_iphone3g_e00013_pon.png" x="655" y="907" width="107" height="107" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="107"/>
+    <textureregion id="16" src="a3_12_iphone3g_question.png" x="881" y="907" width="107" height="106" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="106"/>
+    <textureregion id="17" src="a3_13_iphone3g_tree.png" x="148" y="975" width="24" height="137" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="24" srcheight="137"/>
+    <textureregion id="18" src="a3_13_iphone3g_tree90.png" x="5" y="975" width="137" height="24" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="137" srcheight="24"/>
+</texture>

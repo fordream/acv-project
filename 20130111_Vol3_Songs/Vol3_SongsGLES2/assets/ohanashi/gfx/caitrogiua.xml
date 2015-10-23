@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="caitrogiua.pvr.ccz" type="pvrccz" width="2023" height="981" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:b179763b157d063a5f3bc2559386b770$ -->
+    <textureregion id="0" src="a19_9a_1_iphone_default.png" x="1793" y="3" width="227" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="341"/>
+    <textureregion id="1" src="a19_9a_2_iphone_default.png" x="1329" y="348" width="285" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="285" srcheight="285"/>
+    <textureregion id="2" src="a19_9a_3_iphone_default.png" x="579" y="348" width="284" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="284" srcheight="341"/>
+    <textureregion id="3" src="a19_9b_1_iphone_default.png" x="1448" y="3" width="227" height="341" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="341"/>
+    <textureregion id="4" src="a19_9b_2_iphone_default.png" x="1159" y="693" width="285" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="285" srcheight="285"/>
+    <textureregion id="5" src="a19_9b_3_iphone_default.png" x="579" y="3" width="284" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="284" srcheight="341"/>
+    <textureregion id="6" src="a19_9c_1_iphone_default.png" x="1098" y="348" width="227" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="341"/>
+    <textureregion id="7" src="a19_9c_2_iphone_default.png" x="870" y="693" width="285" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="285" srcheight="285"/>
+    <textureregion id="8" src="a19_9c_3_iphone_default.png" x="291" y="348" width="284" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="284" srcheight="341"/>
+    <textureregion id="9" src="a19_9d_1_iphone_default.png" x="1098" y="3" width="227" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="341"/>
+    <textureregion id="10" src="a19_9d_2_iphone_default.png" x="581" y="693" width="285" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="285" srcheight="285"/>
+    <textureregion id="11" src="a19_9d_3_iphone_default.png" x="291" y="3" width="284" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="284" srcheight="341"/>
+    <textureregion id="12" src="a19_9e_1_1_iphone_onakanaderu.png" x="867" y="348" width="227" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="341"/>
+    <textureregion id="13" src="a19_9e_1_2_iphone_onakanaderu.png" x="867" y="3" width="227" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="341"/>
+    <textureregion id="14" src="a19_9e_2_1_iphone_onakanaderu.png" x="292" y="693" width="285" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="285" srcheight="285"/>
+    <textureregion id="15" src="a19_9e_2_2_iphone_onakanaderu.png" x="3" y="693" width="285" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="285" srcheight="285"/>
+    <textureregion id="16" src="a19_9e_3_1_iphone_onakanaderu.png" x="3" y="348" width="284" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="284" srcheight="341"/>
+    <textureregion id="17" src="a19_9e_3_2_iphone_onakanaderu.png" x="3" y="3" width="284" height="341" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="284" srcheight="341"/>
+</texture>

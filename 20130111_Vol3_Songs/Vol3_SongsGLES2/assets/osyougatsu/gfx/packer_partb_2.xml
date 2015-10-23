@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="packer_partb_2.pvr.ccz" type="pvrccz" width="1720" height="976" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:04b914317009ab864ef203dc2dfa5c8e$ -->
+    <textureregion id="0" src="a3_8a_1_iphone_fusuma.png" x="1208" y="2" width="570" height="399" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="570" srcheight="399"/>
+    <textureregion id="1" src="a3_8a_2_iphone_fusuma.png" x="1148" y="575" width="570" height="399" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="570" srcheight="399"/>
+    <textureregion id="2" src="a3_8a_3_iphone_fusuma.png" x="806" y="2" width="570" height="399" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="570" srcheight="399"/>
+    <textureregion id="3" src="a3_8a_4_iphone_fusuma.png" x="1208" y="2" width="570" height="399" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="570" srcheight="399"/>
+    <textureregion id="4" src="a3_8a_5_iphone_fusuma.png" x="575" y="575" width="570" height="399" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="570" srcheight="399"/>
+    <textureregion id="5" src="a3_8a_6_iphone_fusuma.png" x="404" y="2" width="570" height="399" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="570" srcheight="399"/>
+    <textureregion id="6" src="a3_8a_7_iphone_fusuma.png" x="2" y="575" width="570" height="399" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="570" srcheight="399"/>
+    <textureregion id="7" src="a3_8a_8_iphone_fusuma.png" x="2" y="2" width="570" height="399" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="570" srcheight="399"/>
+</texture>

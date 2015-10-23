@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="tanuki2.pvr.ccz" type="pvrccz" width="2048" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:5f5aac599b444a536c04bf26cc14030d$ -->
+    <textureregion id="0" src="a5_04_1_iphone4_rabbit.png" x="398" y="854" width="387" height="274" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="387" srcheight="274"/>
+    <textureregion id="1" src="a5_04_2_iphone4_rabbit.png" x="5" y="854" width="387" height="274" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="387" srcheight="274"/>
+    <textureregion id="2" src="a5_04_3_iphone4_rabbit.png" x="5" y="1134" width="387" height="274" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="387" srcheight="274"/>
+    <textureregion id="3" src="a5_11_1_iphone4_susuki.png" x="975" y="838" width="961" height="177" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="961" srcheight="177"/>
+    <textureregion id="4" src="a5_11_2_iphone4_susuki.png" x="975" y="655" width="961" height="177" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="961" srcheight="177"/>
+    <textureregion id="5" src="a5_13_1_iphone4_haikei.png" x="975" y="5" width="964" height="644" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="964" srcheight="644"/>
+    <textureregion id="6" src="a5_13_2_iphone4_haikei_yama.png" x="5" y="5" width="964" height="644" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="964" srcheight="644"/>
+    <textureregion id="7" src="a5_13_3_iphone4_haikei_jimen.png" x="5" y="655" width="964" height="193" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="964" srcheight="193"/>
+</texture>

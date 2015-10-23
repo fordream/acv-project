@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="nodobaikin.pvr.ccz" type="pvrccz" width="1991" height="982" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:4060bc2965c51859911ca451a37e3f4e$ -->
+    <textureregion id="0" src="a4_5_8_1_iphone_nodobaikin.png" x="967" y="493" width="478" height="486" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="486"/>
+    <textureregion id="1" src="a4_5_8_2_iphone_nodobaikin.png" x="967" y="3" width="478" height="486" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="486"/>
+    <textureregion id="2" src="a4_5_8_3_1_iphone_nodobaikin.png" x="485" y="493" width="478" height="486" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="486"/>
+    <textureregion id="3" src="a4_5_8_3_2_iphone_nodobaikin.png" x="1449" y="3" width="131" height="131" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="131" srcheight="131"/>
+    <textureregion id="4" src="a4_5_8_3_3_iphone_nodobaikin.png" x="1807" y="3" width="102" height="102" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="102"/>
+    <textureregion id="5" src="a4_5_8_3_4_iphone_nodobaikin.png" x="1584" y="3" width="113" height="113" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="113" srcheight="113"/>
+    <textureregion id="6" src="a4_5_8_3_5_iphone_nodobaikin.png" x="1913" y="3" width="75" height="75" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="75" srcheight="75"/>
+    <textureregion id="7" src="a4_5_8_3_6_iphone_nodobaikin.png" x="1701" y="3" width="102" height="102" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="102" srcheight="102"/>
+    <textureregion id="8" src="a4_5_8_4_iphone_nodobaikin.png" x="485" y="3" width="478" height="486" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="486"/>
+    <textureregion id="9" src="a4_5_8_5_iphone_nodobaikin.png" x="3" y="493" width="478" height="486" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="486"/>
+    <textureregion id="10" src="a4_5_8_6_iphone_nodobaikin.png" x="3" y="3" width="478" height="486" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="486"/>
+</texture>

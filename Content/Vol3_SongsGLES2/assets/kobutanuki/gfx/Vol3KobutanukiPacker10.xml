@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3KobutanukiPacker10.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:2a5d0238b7ed05e94089c07b510cd8e7$ -->
+    <textureregion id="0" src="a13_04_1_iphone_curtain.png" x="478" y="1205" width="688" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="688" srcheight="471"/>
+    <textureregion id="1" src="a13_04_2_iphone_curtain.png" x="3" y="1205" width="688" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="688" srcheight="471"/>
+    <textureregion id="2" src="a13_6a_4_1_iphone_neko.png" x="3" y="604" width="654" height="597" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="654" srcheight="597"/>
+    <textureregion id="3" src="a13_6a_4_2_iphone_neko.png" x="3" y="3" width="654" height="597" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="654" srcheight="597"/>
+</texture>

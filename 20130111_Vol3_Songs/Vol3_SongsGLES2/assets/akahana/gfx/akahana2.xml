@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="akahana2.pvr.ccz" type="pvrccz" width="1674" height="1700" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:f31b65ec5aaee1f5d0ad80a1394aa006$ -->
+    <textureregion id="0" src="a82_7_1_iphone.png" x="3" y="569" width="832" height="562" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="832" srcheight="562"/>
+    <textureregion id="1" src="a82_7_2_iphone.png" x="839" y="3" width="832" height="562" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="832" srcheight="562"/>
+    <textureregion id="2" src="a82_7_3_iphone.png" x="3" y="3" width="832" height="562" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="832" srcheight="562"/>
+    <textureregion id="3" src="a82_7_4_iphone.png" x="3" y="1135" width="832" height="562" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="832" srcheight="562"/>
+</texture>

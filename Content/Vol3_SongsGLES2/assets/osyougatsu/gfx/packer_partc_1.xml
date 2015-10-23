@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="packer_partc_1.pvr.ccz" type="pvrccz" width="1378" height="994" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:b0b52eeb28d2b2a14e7e79bc4e07077f$ -->
+    <textureregion id="0" src="A3-15A_1_2-iPhone-himo.png" x="962" y="185" width="333" height="180" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="180"/>
+    <textureregion id="1" src="A3-15A_2_2-iPhone-himo.png" x="626" y="185" width="333" height="180" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="180"/>
+    <textureregion id="2" src="A3-15A_3_2-iPhone-himo.png" x="290" y="166" width="333" height="180" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="180"/>
+    <textureregion id="3" src="A3-15A_4_2-iPhone-himo.png" x="913" y="2" width="333" height="180" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="180"/>
+    <textureregion id="4" src="A3-15B_1_2-iPhone-himo.png" x="2" y="80" width="285" height="184" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="285" srcheight="184"/>
+    <textureregion id="5" src="A3-15B_1_6-iPhone-tako2.png" x="920" y="681" width="311" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="311" srcheight="456"/>
+    <textureregion id="6" src="A3-15B_1_7-iPhone-tako2.png" x="461" y="681" width="311" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="311" srcheight="456"/>
+    <textureregion id="7" src="A3-15B_1_8-iPhone-tako2.png" x="2" y="662" width="311" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="311" srcheight="456"/>
+    <textureregion id="8" src="A3-15B_2_2-iPhone-himo.png" x="611" y="2" width="299" height="161" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="299" srcheight="161"/>
+    <textureregion id="9" src="A3-15B_2_6-iPhone-tako2.png" x="920" y="368" width="310" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="10" src="A3-15B_2_7-iPhone-tako2.png" x="461" y="368" width="310" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="11" src="A3-15B_2_8-iPhone-tako2.png" x="2" y="349" width="310" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="12" src="A3-15_2-iPhone-himo.png" x="2" y="2" width="304" height="75" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="304" srcheight="75"/>
+    <textureregion id="13" src="A3-16_2-iPhone-himo.png" x="309" y="2" width="299" height="160" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="299" srcheight="160"/>
+</texture>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="packer_partb_7.pvr.ccz" type="pvrccz" width="1909" height="974" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:9c9f9b6ab02aba0682a2c157a47c3abe$ -->
+    <textureregion id="0" src="a3_9c_1_iphone_fujisan.png" x="1164" y="514" width="333" height="317" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="317"/>
+    <textureregion id="1" src="a3_9c_2_iphone_fujisan.png" x="513" y="592" width="374" height="312" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="374" srcheight="312"/>
+    <textureregion id="2" src="a3_9c_3_iphone_fujisan.png" x="1590" y="2" width="374" height="312" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="374" srcheight="312"/>
+    <textureregion id="3" src="a3_9c_4_iphone_fujisan.png" x="1590" y="379" width="333" height="317" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="317"/>
+    <textureregion id="4" src="a3_9c_5_iphone_fujisan.png" x="828" y="514" width="333" height="317" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="317"/>
+    <textureregion id="5" src="a3_9c_6_iphone_fujisan.png" x="2" y="592" width="380" height="508" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="380" srcheight="508"/>
+    <textureregion id="6" src="a3_9c_7_iphone_fujisan.png" x="1258" y="2" width="329" height="508" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="329" srcheight="508"/>
+    <textureregion id="7" src="a3_9c_8_iphone_fujisan.png" x="758" y="2" width="497" height="509" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="497" srcheight="509"/>
+    <textureregion id="8" src="a3_9c_9_iphone_fujisan.png" x="2" y="2" width="753" height="587" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="753" srcheight="587"/>
+</texture>

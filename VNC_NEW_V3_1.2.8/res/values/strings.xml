@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- version 1.2.6 add new -->
+    <string name="version_credit_125">バージョン：1.2.5</string>
+    <string name="version_credit_126_none_version">バージョン：</string>
+    <!--  -->
+
+    <string name="outOfMemory">メモリエラーが発生して、アプリの再起動を行います。</string>
+    <string name="_uta">_うた</string>
+    <string name="_douga">_手あそび</string>
+    <string name="_karaokie">_からおけ</string>
+    <string name="base64EncodedPublicKeys">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj+8SBlsNOX+txgAq4iRG0r6nNma+QZqT1sslcAphubsXziH5vOQuoKWggaO+tssVovxhjTgS2ps+zVyu0nkY5UOH3axjuHG4Tsvxe9cGoUEvs2ISzmHQQg72EAjfgIvlR8XyZZa1Y1qNRwXCyS0vRkb6fUX3EVpzQ2FquFmsZpdwcVzybl2wFzOCgEQ1/gF19cq+wLZBGRxhUdtN1RA8Kjo4eobRVPLlE+WqvmwzbtnttNbL1Ee6hvsq1mrTFMC4esNVI9oaec9ryliT9P2B0eogYMD5sgq9ugwVyu4aheEp0EzZ29VI096XrJrBwg2cQDnY895X3HZhS5PSAW7uOQIDAQAB</string>
+    <!-- <string name="base64EncodedPublicKey_TEST">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs/3rhDUdza4/WPxUba305oQCf6dQaYCKi3B4qMJarLsdSakSqVy7QWJQsgNRsf3laQmq04yFSrN+oF2xmcUcHU7z+pJCvilV72OMjIwa+9A2duezVf3Xd/CKq/5CmxrE+B0g8D5HFhQTHsH1UpiKRKT5Igopx3aGczMiwCSyRVDWHRlTuiHXW69ikVjujziYZvncjFTyQISo1KUWjV2dmf3n8PH7rF6G0ZBvEAAJBLGhdxMm7WOQKqv0/ZpMcQJKdKQkAJYW+Hvh3qndhcxWn79Z2CESlyGkWxw0ggMlP7w5FbgJuXDMLc/pX+4dKlBXfNd0n1/W0BXARwzwjSbYEwIDAQAB</string> -->
+    <!-- Dialog -->
+    <string name="button1">閉じる</string>
+    <string name="button2">アップデート</string>
+    <string name="app_name">うたえほん＋</string>
+
+    <!-- Application message -->
+    <string name="allow_push">プッシュメッセージを受け取りますか？
+\n※はいを選択すると「タッチ！うごくうたえほん＋」の新曲、お得なキャンペーン 情報等を受け取れます。 </string>
+    <string name="note_update_version">新しいバージョンが公開されたので、GooglePlayからインストールしてください。</string>
+    <string name="note_update_title">【楽曲パック更新のお知らせ】</string>
+    <string name="note_update_content">新しい楽曲パックが追加されました。更新する場合は「はい」を押してください。
+\n更新した楽曲は「曲をついか」の画面からご確認いただけます。</string>
+    <string name="note_update_webview_content">新しい情報が追加されました。更新する場合は「はい」を押してください。</string>
+    <string name="error_load_resource_title">SDカードからデータをロードできませんでした。</string>
+    <string name="error_load_resource_content">再度ダウンロードしてください。</string>
+    <string name="error_load_resource_helper">エクシングのサポートセンターへお問い合わせください</string>
+    <string name="error_load_resource_url_helper">http://sumahomama.com/utaehon/contact</string>
+    <string name="no_sdcard">SDカードがないため、曲パックがダウンロードできません </string>
+    <string name="download_failed">ダウンロード時にエラーが発生しました。時間をおいて再度お試しください。</string>
+    <string name="server_failed">ただいまネットワークが大変混み合っております。お手数ですが、時間を置いて再度お試しください。</string>
+    <string name="load_price_failed">価格の取得に失敗しました。インターネットの接続を確認の上再度お試しください。</string>
+    <string name="karaoke_loading">ロード中です。暫くお待ちください…</string>
+    <string name="network_error_title">インターネットに接続できません。</string>
+    <string name="show_note_version">今後このお知らせを表示しない</string>
+    <string name="loading">ちょっとまってね！！</string>
+    <string name="page">ページ</string>
+    <string name="btn_yes">はい</string>
+    <string name="btn_no">いいえ</string>
+    <string name="note_single_is_purchased">こちらの曲パックには単曲でご購入済みの曲が入っており重複購入になるため パック購入できません。</string>
+    <string name="note_package_is_purchased">※こちらの曲はすでにパックでご購入済みです。重複購入になるため購入できません。</string>
+
+    <!-- In-app Billing -->
+    <string name="billing_not_supported_title">曲パックの購入はできません。</string>
+    <string name="billing_not_supported_message">マーケットでのお支払機能を使用できません。購入できませんが、アプリは使用することができます。</string>
+    <string name="cannot_connect_title">マーケットに接続できません。</string>
+    <string name="cannot_connect_message">Google決済サービスに接続できません。本アプリを継続して使用できますが、現在、購入することができません。</string>
+    <string name="purchased_db_name">purchased_db</string>
+    <string name="restoring_transactions">購入情報を再設定しています。</string>
+    <string name="learn_more">さらに詳しく</string>
+    <string name="billing_not_response">Google playからの応答がありません。時間をおいて再度お試し下さい。</string>
+    <string name="help_url" formatted="false">http://market.android.com/support/bin/answer.py?answer=1050566&amp;hl=%lang%&amp;dl=%region%</string>
+
+    <!-- Download Progress -->
+    <string name="dlp_text_left">0 / 0 MB</string>
+    <string name="dlp_text_right">0%</string>
+    <string name="dlp_sdc_not_avai">SDカードがありません。</string>
+    <string name="dlp_sdc_not_enuf">SDカードの空き容量が不足しています。</string>
+    <string name="dlp_dl_failed">ダウンロード時にエラーが発生しました。</string>
+    <string name="dlp_dl_completed">ダウンロード完了</string>
+    <string name="dlp_unzip">解凍中...</string>
+    <!--
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_wait">WaitActivity</string>
+    -->
+
+</resources>

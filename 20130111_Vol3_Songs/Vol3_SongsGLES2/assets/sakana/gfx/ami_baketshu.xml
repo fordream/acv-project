@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="ami_baketshu.pvr.ccz" type="pvrccz" width="902" height="734" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:bf7b447025a0a8d0e517886de1c6ca93$ -->
+    <textureregion id="0" src="a15_14_6_1_iphone_ami.png" x="385" y="3" width="378" height="198" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="378" srcheight="198"/>
+    <textureregion id="1" src="a15_14_6_2_iphone_ami.png" x="3" y="3" width="378" height="198" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="378" srcheight="198"/>
+    <textureregion id="2" src="a15_14_7_1_iphone_baketsu.png" x="3" y="470" width="446" height="261" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="446" srcheight="261"/>
+    <textureregion id="3" src="a15_14_7_2_iphone_baketsu.png" x="453" y="205" width="446" height="261" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="446" srcheight="261"/>
+    <textureregion id="4" src="a15_14_7_3_iphone_baketsu.png" x="3" y="205" width="446" height="261" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="446" srcheight="261"/>
+</texture>

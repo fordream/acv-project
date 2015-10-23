@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture
+    file="top_background.pvr.ccz"
+    height="2048"
+    magfilter="linear"
+    minfilter="linear"
+    pixelformat="RGBA_8888"
+    premultiplyalpha="false"
+    type="pvrccz"
+    version="1"
+    width="1024"
+    wraps="clamp"
+    wrapt="clamp" >
+
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:05fa1c61dc175607938d5d1707f5ead8$ -->
+
+    <textureregion
+        id="0"
+        height="640"
+        rotated="false"
+        src="top_00_iphone_top_back.png"
+        srcheight="640"
+        srcwidth="960"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="960"
+        x="3"
+        y="3" />
+
+    <textureregion
+        id="1"
+        height="298"
+        rotated="false"
+        src="top_18_iphone_jimen.png"
+        srcheight="298"
+        srcwidth="960"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="960"
+        x="3"
+        y="997" />
+
+    <textureregion
+        id="2"
+        height="120"
+        rotated="false"
+        src="top_20_1_iphone_lake.png"
+        srcheight="120"
+        srcwidth="960"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="960"
+        x="3"
+        y="1423" />
+
+    <textureregion
+        id="3"
+        height="120"
+        rotated="false"
+        src="top_20_2_iphone_lake.png"
+        srcheight="120"
+        srcwidth="960"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="960"
+        x="3"
+        y="1299" />
+
+    <textureregion
+        id="4"
+        height="118"
+        rotated="false"
+        src="top_21_iphone_oka.png"
+        srcheight="118"
+        srcwidth="960"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="960"
+        x="3"
+        y="1547" />
+
+    <textureregion
+        id="5"
+        height="346"
+        rotated="false"
+        src="top_22_iphone_haikei.png"
+        srcheight="346"
+        srcwidth="960"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="960"
+        x="3"
+        y="647" />
+
+</texture>

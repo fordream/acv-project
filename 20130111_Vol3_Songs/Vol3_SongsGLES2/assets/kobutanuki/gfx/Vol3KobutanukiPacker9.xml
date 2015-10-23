@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3KobutanukiPacker9.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:8a9e464330c09fafbf8f9acec50d3274$ -->
+    <textureregion id="0" src="a13_6a_3_1_iphone_kitune.png" x="661" y="3" width="654" height="597" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="654" srcheight="597"/>
+    <textureregion id="1" src="a13_6a_3_2_iphone_kitune.png" x="3" y="3" width="654" height="597" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="654" srcheight="597"/>
+</texture>

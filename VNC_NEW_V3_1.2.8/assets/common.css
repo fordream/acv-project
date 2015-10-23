@@ -1,0 +1,74 @@
+/* ----- HTML�Ē�` ----------------------------------------------- */
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	padding: 10px;
+	background-color: transparent;
+	color: #ffffff;
+	font-size: 80%;
+	line-height: 150%;
+	width: 95% /*460px*/;
+}
+
+em {
+	font-weight: bold;
+}
+
+img {
+	border: none;
+}
+
+/* -- header ------------------------------------------------------ */
+#header {
+	text-align: center;
+}
+
+#header p {
+	margin: 0 0 10px;
+}
+
+/* -- table ------------------------------------------------------- */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin: 5px 0 5px 5px;
+}
+
+table tr th {
+	padding: 5px;
+	vertical-align: top;
+	text-align: left;
+}
+
+table tr td {
+	vertical-align: top;
+	padding: 5px;
+}
+
+/* ----- [link] --------------------------------------------------- */
+a {
+	color: #99ccff;
+	font-size: 80%;
+	text-decoration: none;
+}
+
+.scroll {
+	width: 310px;
+	height: 2000px;
+	overflow: auto;
+}
+/* ----- [dl] ----------------------------------------------------- */
+.jas {
+	text-align: center;
+}
+
+.jas dl {
+	width: 300px;
+	margin: 0 auto;
+}

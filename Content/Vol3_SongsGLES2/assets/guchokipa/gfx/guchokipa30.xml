@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="guchokipa30.pvr.ccz" type="pvrccz" width="966" height="646" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:76c9c3696980f0b300f87f72b76a904c$ -->
+    <textureregion id="0" src="a1_9_iphone_haikei.png" x="2" y="2" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+</texture>

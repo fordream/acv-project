@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="hoshi2.pvr.ccz" type="pvrccz" width="968" height="854" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:f3ccf23fefd4c06645183e18d957daef$ -->
+    <textureregion id="0" src="a77_1_2_1_iphone.png" x="3" y="642" width="962" height="209" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="209"/>
+    <textureregion id="1" src="a77_1_2_2_iphone.png" x="3" y="429" width="962" height="209" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="209"/>
+    <textureregion id="2" src="a77_1_2_3_iphone.png" x="3" y="216" width="962" height="209" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="209"/>
+    <textureregion id="3" src="a77_1_2_4_iphone.png" x="3" y="3" width="962" height="209" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="209"/>
+</texture>

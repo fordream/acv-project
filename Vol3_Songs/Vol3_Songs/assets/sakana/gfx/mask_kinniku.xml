@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="mask_kinniku.pvr.ccz" type="pvrccz" width="1423" height="999" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:480d176d9086ad553bcd512a082a9e27$ -->
+    <textureregion id="0" src="a15_15c_1_iphone_mask.png" x="950" y="2" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="1" src="a15_15c_2_iphone_mask.png" x="526" y="526" width="521" height="471" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="2" src="a15_15c_3_iphone_mask.png" x="476" y="2" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="3" src="a15_15d_1_iphone_kinniku.png" x="2" y="526" width="521" height="471" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="4" src="a15_15d_2_iphone_kinniku.png" x="2" y="2" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+</texture>

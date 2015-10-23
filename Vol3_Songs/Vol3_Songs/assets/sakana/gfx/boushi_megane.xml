@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="boushi_megane.pvr.ccz" type="pvrccz" width="1577" height="1002" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:5e946a1df77b1d90a126811074b4a3cf$ -->
+    <textureregion id="0" src="a15_15a_1_iphone_boushi.png" x="1053" y="528" width="521" height="471" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="1" src="a15_15a_2_iphone_boushi.png" x="953" y="3" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="2" src="a15_15a_3_iphone_boushi.png" x="528" y="528" width="521" height="471" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="3" src="a15_15b_1_iphone_megane.png" x="478" y="3" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="4" src="a15_15b_2_iphone_megane.png" x="3" y="528" width="521" height="471" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="5" src="a15_15b_3_iphone_megane.png" x="3" y="3" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+</texture>

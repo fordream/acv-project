@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="totoro2.pvr.ccz" type="pvrccz" width="2048" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:c82d09ea260dc595c233083b0daad9a1$ -->
+    <textureregion id="0" src="a1_28_1_iphone_asa_sun.png" x="1935" y="96" width="89" height="89" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="89" srcheight="89"/>
+    <textureregion id="1" src="a1_28_2_iphone_asa_sun.png" x="1935" y="3" width="89" height="89" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="89" srcheight="89"/>
+    <textureregion id="2" src="a1_28_3_iphone_asa_kumo.png" x="1899" y="1295" width="124" height="64" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="64"/>
+    <textureregion id="3" src="a1_28_6_iphone_asa_haikei.png" x="3" y="1295" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="4" src="a1_29_1_iphone_yugata_sun.png" x="1694" y="1295" width="201" height="160" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="201" srcheight="160"/>
+    <textureregion id="5" src="a1_29_2_iphone_yugata_sun.png" x="1489" y="1295" width="201" height="160" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="201" srcheight="160"/>
+    <textureregion id="6" src="a1_29_3_1_iphone_yugata_bird.png" x="1987" y="577" width="48" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="35"/>
+    <textureregion id="7" src="a1_29_3_2_iphone_yugata_bird.png" x="1935" y="577" width="48" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="35"/>
+    <textureregion id="8" src="a1_29_4_1_iphone_yugata_bird.png" x="1987" y="538" width="48" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="35"/>
+    <textureregion id="9" src="a1_29_4_2_iphone_yugata_bird.png" x="1935" y="538" width="48" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="35"/>
+    <textureregion id="10" src="a1_29_5_1_iphone_yugata_bird.png" x="1987" y="499" width="48" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="35"/>
+    <textureregion id="11" src="a1_29_5_2_iphone_yugata_bird.png" x="1935" y="499" width="48" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="35"/>
+    <textureregion id="12" src="a1_29_6_1_iphone_yugata_bird.png" x="1987" y="460" width="48" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="35"/>
+    <textureregion id="13" src="a1_29_6_2_iphone_yugata_bird.png" x="1935" y="460" width="48" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="35"/>
+    <textureregion id="14" src="a1_29_7_1_iphone_yugata_bird.png" x="1987" y="421" width="48" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="35"/>
+    <textureregion id="15" src="a1_29_7_2_iphone_yugata_bird.png" x="1935" y="421" width="48" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="35"/>
+    <textureregion id="16" src="a1_29_8_iphone_yugata_haikei.png" x="3" y="649" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="17" src="a1_30_1_iphone_yoru_moon.png" x="1935" y="189" width="80" height="88" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="88"/>
+    <textureregion id="18" src="a1_30_2_iphone_yoru_star.png" x="1935" y="351" width="76" height="66" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="76" srcheight="66"/>
+    <textureregion id="19" src="a1_30_3_iphone_yoru_star.png" x="1935" y="281" width="76" height="66" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="76" srcheight="66"/>
+    <textureregion id="20" src="a1_30_4_iphone_yoru_star.png" x="746" y="1941" width="739" height="92" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="739" srcheight="92"/>
+    <textureregion id="21" src="a1_30_5_iphone_yoru_star.png" x="3" y="1941" width="739" height="92" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="739" srcheight="92"/>
+    <textureregion id="22" src="a1_30_6_iphone_yoru_haikei.png" x="969" y="3" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="23" src="a1_31_1_iphone_haikei.png" x="3" y="3" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="24" src="a1_31_2_iphone_hole.png" x="969" y="1459" width="160" height="155" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="160" srcheight="155"/>
+    <textureregion id="25" src="a1_32_iphone_iwai_haikei.png" x="969" y="649" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+</texture>

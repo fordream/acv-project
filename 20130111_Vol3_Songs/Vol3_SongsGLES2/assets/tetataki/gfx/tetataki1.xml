@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="tetataki1.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:72fe7de39fcca3e191c66a67e0894e36$ -->
+    <textureregion id="0" src="a1_18_1_iphone.png" x="445" y="3" width="438" height="634" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="438" srcheight="634"/>
+    <textureregion id="1" src="a1_18_2_iphone.png" x="3" y="3" width="438" height="634" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="438" srcheight="634"/>
+    <textureregion id="2" src="a1_19_1_iphone.png" x="504" y="641" width="497" height="371" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="497" srcheight="371"/>
+    <textureregion id="3" src="a1_19_2_iphone.png" x="3" y="641" width="497" height="371" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="497" srcheight="371"/>
+    <textureregion id="4" src="a1_20_1_iphone.png" x="1224" y="793" width="262" height="208" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="262" srcheight="208"/>
+    <textureregion id="5" src="a1_20_2_iphone.png" x="1224" y="581" width="262" height="208" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="262" srcheight="208"/>
+    <textureregion id="6" src="a1_20_3_iphone.png" x="1490" y="3" width="262" height="208" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="262" srcheight="208"/>
+    <textureregion id="7" src="a1_21_1_iphone.png" x="1005" y="581" width="215" height="284" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="215" srcheight="284"/>
+    <textureregion id="8" src="a1_22_1_iphone.png" x="887" y="292" width="396" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="396" srcheight="285"/>
+    <textureregion id="9" src="a1_22_2_iphone.png" x="887" y="3" width="396" height="285" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="396" srcheight="285"/>
+    <textureregion id="10" src="a3_tetataki_3_iphone.png" x="1005" y="869" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+</texture>

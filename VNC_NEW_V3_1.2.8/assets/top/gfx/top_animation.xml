@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture
+    file="top_animation.pvr.ccz"
+    height="1024"
+    magfilter="linear"
+    minfilter="linear"
+    pixelformat="RGBA_8888"
+    premultiplyalpha="false"
+    type="pvrccz"
+    version="1"
+    width="1024"
+    wraps="clamp"
+    wrapt="clamp" >
+
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:6a9685bac78819c6f6e931b7320e1c08$ -->
+
+    <textureregion
+        id="0"
+        height="216"
+        rotated="false"
+        src="top_02_iphone_karaoke_btm.png"
+        srcheight="216"
+        srcwidth="282"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="282"
+        x="3"
+        y="210" />
+
+    <textureregion
+        id="1"
+        height="216"
+        rotated="false"
+        src="top_03_iphone_uta_bt.png"
+        srcheight="216"
+        srcwidth="283"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="283"
+        x="701"
+        y="3" />
+
+    <textureregion
+        id="2"
+        height="106"
+        rotated="false"
+        src="top_04_adr_credit_bt.png"
+        srcheight="106"
+        srcwidth="187"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="187"
+        x="351"
+        y="568" />
+
+    <textureregion
+        id="3"
+        height="82"
+        rotated="false"
+        src="top_05_adr_help_bt.png"
+        srcheight="82"
+        srcwidth="140"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="140"
+        x="219"
+        y="477" />
+
+    <textureregion
+        id="4"
+        height="267"
+        rotated="false"
+        src="top_06_1_iphone4_bear.png"
+        srcheight="267"
+        srcwidth="212"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="212"
+        x="3"
+        y="701" />
+
+    <textureregion
+        id="5"
+        height="267"
+        rotated="false"
+        src="top_06_2_iphone4_bear.png"
+        srcheight="267"
+        srcwidth="212"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="212"
+        x="3"
+        y="430" />
+
+    <textureregion
+        id="6"
+        height="267"
+        rotated="false"
+        src="top_06_3_iphone4_bear.png"
+        srcheight="267"
+        srcwidth="212"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="212"
+        x="400"
+        y="297" />
+
+    <textureregion
+        id="7"
+        height="114"
+        rotated="false"
+        src="top_07_1_iphone4_fox.png"
+        srcheight="114"
+        srcwidth="128"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="128"
+        x="219"
+        y="869" />
+
+    <textureregion
+        id="8"
+        height="114"
+        rotated="false"
+        src="top_07_2_iphone4_fox.png"
+        srcheight="114"
+        srcwidth="128"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="128"
+        x="219"
+        y="563" />
+
+    <textureregion
+        id="9"
+        height="184"
+        rotated="false"
+        src="top_09_1_iphone4_deer.png"
+        srcheight="184"
+        srcwidth="187"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="187"
+        x="410"
+        y="678" />
+
+    <textureregion
+        id="10"
+        height="184"
+        rotated="false"
+        src="top_09_2_iphone4_deer.png"
+        srcheight="184"
+        srcwidth="187"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="187"
+        x="219"
+        y="681" />
+
+    <textureregion
+        id="11"
+        height="83"
+        rotated="false"
+        src="top_10_iphone4_rabbit.png"
+        srcheight="83"
+        srcwidth="46"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="46"
+        x="350"
+        y="242" />
+
+    <textureregion
+        id="12"
+        height="43"
+        rotated="false"
+        src="top_11_iphone_right_croud.png"
+        srcheight="43"
+        srcwidth="162"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="162"
+        x="219"
+        y="430" />
+
+    <textureregion
+        id="13"
+        height="28"
+        rotated="false"
+        src="top_12_iphone_left_croud.png"
+        srcheight="28"
+        srcwidth="110"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="110"
+        x="289"
+        y="210" />
+
+    <textureregion
+        id="14"
+        height="203"
+        rotated="false"
+        src="top_13_iphone_logo.png"
+        srcheight="203"
+        srcwidth="400"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="400"
+        x="3"
+        y="3" />
+
+    <textureregion
+        id="15"
+        height="216"
+        rotated="false"
+        src="top_14_iphone_douga.png"
+        srcheight="216"
+        srcwidth="282"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="282"
+        x="701"
+        y="223" />
+
+    <textureregion
+        id="16"
+        height="290"
+        rotated="false"
+        src="top_17_iphone_buy.png"
+        srcheight="290"
+        srcwidth="290"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="290"
+        x="407"
+        y="3" />
+
+    <textureregion
+        id="17"
+        height="39"
+        rotated="false"
+        src="top_19_iphone_swan.png"
+        srcheight="39"
+        srcwidth="57"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="57"
+        x="289"
+        y="285" />
+
+    <textureregion
+        id="18"
+        height="39"
+        rotated="false"
+        src="top_19_iphone_swan_right.png"
+        srcheight="39"
+        srcwidth="57"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="57"
+        x="289"
+        y="242" />
+
+</texture>

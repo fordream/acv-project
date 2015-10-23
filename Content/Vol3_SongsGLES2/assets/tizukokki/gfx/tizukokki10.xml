@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="tizukokki10.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:27838604b517ea224671b8854a9d06b1$ -->
+    <textureregion id="0" src="a83_4_1_iphone.png" x="58" y="929" width="538" height="89" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="538" srcheight="89"/>
+    <textureregion id="1" src="a83_4_2_1_iphone.png" x="3" y="3" width="754" height="558" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="754" srcheight="558"/>
+    <textureregion id="2" src="a83_4_2_2_iphone.png" x="3" y="565" width="370" height="51" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="370" srcheight="51"/>
+    <textureregion id="3" src="a83_4_2_3_iphone.png" x="177" y="565" width="360" height="115" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="360" srcheight="115"/>
+    <textureregion id="4" src="a83_4_2_4_iphone.png" x="58" y="565" width="360" height="115" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="360" srcheight="115"/>
+    <textureregion id="5" src="a83_4_2_5_iphone.png" x="761" y="3" width="235" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="235" srcheight="62"/>
+</texture>

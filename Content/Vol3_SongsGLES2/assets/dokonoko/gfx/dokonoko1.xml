@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="dokonoko1.pvr.ccz" type="pvrccz" width="512" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:326f41bde99c8bb31c9e3837932b4574$ -->
+    <textureregion id="0" src="a71_5_10_iphone.png" x="3" y="3" width="238" height="396" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="238" srcheight="396"/>
+    <textureregion id="1" src="a71_5_1_iphone.png" x="245" y="1603" width="238" height="396" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="238" srcheight="396"/>
+    <textureregion id="2" src="a71_5_2_iphone.png" x="245" y="1203" width="238" height="396" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="238" srcheight="396"/>
+    <textureregion id="3" src="a71_5_3_iphone.png" x="3" y="1603" width="238" height="396" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="238" srcheight="396"/>
+    <textureregion id="4" src="a71_5_4_iphone.png" x="245" y="803" width="238" height="396" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="238" srcheight="396"/>
+    <textureregion id="5" src="a71_5_5_iphone.png" x="3" y="1203" width="238" height="396" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="238" srcheight="396"/>
+    <textureregion id="6" src="a71_5_6_iphone.png" x="245" y="403" width="238" height="396" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="238" srcheight="396"/>
+    <textureregion id="7" src="a71_5_7_iphone.png" x="3" y="803" width="238" height="396" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="238" srcheight="396"/>
+    <textureregion id="8" src="a71_5_8_iphone.png" x="245" y="3" width="238" height="396" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="238" srcheight="396"/>
+    <textureregion id="9" src="a71_5_9_iphone.png" x="3" y="403" width="238" height="396" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="238" srcheight="396"/>
+</texture>

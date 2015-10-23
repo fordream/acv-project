@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="packer_partc_bg_10.pvr.ccz" type="pvrccz" width="1289" height="644" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:bd17fd382e0f75ad4deb61fbe4527f4a$ -->
+    <textureregion id="0" src="A3-12_2_3-iPhone-haikei.png" x="2" y="2" width="1285" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1285" srcheight="640"/>
+</texture>

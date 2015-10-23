@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="shiawase_happy45.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:74f3ab5194658679b8e9689dd2774dd7$ -->
+    <textureregion id="0" src="a16_14_4_iphone_happy.png" x="1007" y="3" width="1000" height="755" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1000" srcheight="755"/>
+    <textureregion id="1" src="a16_14_5_iphone_happy.png" x="3" y="3" width="1000" height="755" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1000" srcheight="755"/>
+</texture>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="kamome1.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:f052e767bce6a3c186919be874b0635c$ -->
+    <textureregion id="0" src="a4_01_adr_kamome_swim.png" x="640" y="499" width="139" height="79" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="139" srcheight="79"/>
+    <textureregion id="1" src="a4_02_adr_kamome_right.png" x="644" y="141" width="135" height="198" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="135" srcheight="198"/>
+    <textureregion id="2" src="a4_03_adr_kamome_open.png" x="783" y="268" width="227" height="261" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="261"/>
+    <textureregion id="3" src="a4_04_adr_kamome_center.png" x="783" y="3" width="227" height="261" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="261"/>
+    <textureregion id="4" src="a4_05_adr_e0005_kamome_action.png" x="3" y="229" width="247" height="318" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="247" srcheight="318"/>
+    <textureregion id="5" src="a4_06_adr_e0005_camome_left.png" x="393" y="141" width="247" height="318" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="247" srcheight="318"/>
+    <textureregion id="6" src="a4_07_adr_fish_jump.png" x="892" y="533" width="71" height="91" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="71" srcheight="91"/>
+    <textureregion id="7" src="a4_08_adr_whale_before.png" x="393" y="3" width="386" height="134" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="386" srcheight="134"/>
+    <textureregion id="8" src="a4_11_adr_kamome_right.png" x="892" y="628" width="63" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="63" srcheight="37"/>
+    <textureregion id="9" src="a4_12_adr_kamome_left.png" x="633" y="582" width="58" height="34" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="58" srcheight="34"/>
+    <textureregion id="10" src="a4_13_adr_ship.png" x="644" y="343" width="134" height="152" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="134" srcheight="152"/>
+    <textureregion id="11" src="a4_14_adr_ship_smoke.png" x="556" y="545" width="73" height="89" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="73" srcheight="89"/>
+    <textureregion id="12" src="a4_15_adr_sun1.png" x="254" y="229" width="125" height="168" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="125" srcheight="168"/>
+    <textureregion id="13" src="a4_16_adr_sun2.png" x="363" y="463" width="189" height="172" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="189" srcheight="172"/>
+    <textureregion id="14" src="a4_17_adr_kani_right.png" x="959" y="628" width="62" height="53" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="62" srcheight="53"/>
+    <textureregion id="15" src="a4_18_adr_kani_left.png" x="556" y="463" width="80" height="78" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="78"/>
+    <textureregion id="16" src="a4_19_adr_whale_tide.png" x="3" y="3" width="386" height="222" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="386" srcheight="222"/>
+    <textureregion id="17" src="a4_20_adr_e0004_trumpet.png" x="254" y="510" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+    <textureregion id="18" src="a4_21_adr_e00025_wave.png" x="254" y="401" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+    <textureregion id="19" src="a4_22_adr_question.png" x="783" y="533" width="105" height="104" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="104"/>
+</texture>

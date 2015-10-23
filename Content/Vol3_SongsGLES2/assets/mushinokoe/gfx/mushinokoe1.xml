@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="mushinokoe1.pvr.ccz" type="pvrccz" width="966" height="1936" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:633db54a6db0ae316fd3b305b09db8d0$ -->
+    <textureregion id="0" src="a1_04_1_1_iphone_haikei_hiru.png" x="2" y="2" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="1" src="a1_04_2_iphone_haikei_yoru.png" x="2" y="647" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="2" src="a1_04_3_iphone_haikei_asa.png" x="2" y="1292" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+</texture>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="packer_parta_3.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:d1967174dce0d482d73a2de89afc1bdd$ -->
+    <textureregion id="0" src="a3_4_4_iphone_shishi.png" x="333" y="589" width="396" height="328" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="396" srcheight="328"/>
+    <textureregion id="1" src="a3_4_5_iphone_shishi.png" x="2" y="589" width="396" height="328" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="396" srcheight="328"/>
+    <textureregion id="2" src="a3_6c_1_iphone_koma.png" x="664" y="589" width="584" height="374" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="584" srcheight="374"/>
+    <textureregion id="3" src="a3_6c_2_iphone_koma.png" x="379" y="2" width="584" height="374" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="584" srcheight="374"/>
+    <textureregion id="4" src="a3_6c_3_iphone_koma.png" x="2" y="2" width="584" height="374" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="584" srcheight="374"/>
+    <textureregion id="5" src="a3_6d_1_iphone_koma.png" x="1462" y="2" width="567" height="350" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="567" srcheight="350"/>
+    <textureregion id="6" src="a3_6d_2_iphone_koma.png" x="1109" y="2" width="567" height="350" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="567" srcheight="350"/>
+    <textureregion id="7" src="a3_6d_3_iphone_koma.png" x="756" y="2" width="567" height="350" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="567" srcheight="350"/>
+    <textureregion id="8" src="a3_6e_1_1_iphone_present.png" x="1631" y="355" width="343" height="367" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="343" srcheight="367"/>
+    <textureregion id="9" src="a3_6e_1_2_iphone_present.png" x="1251" y="572" width="343" height="367" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="343" srcheight="367"/>
+    <textureregion id="10" src="a3_8_1_iphone_yajirushi.png" x="1462" y="355" width="208" height="166" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="208" srcheight="166"/>
+</texture>

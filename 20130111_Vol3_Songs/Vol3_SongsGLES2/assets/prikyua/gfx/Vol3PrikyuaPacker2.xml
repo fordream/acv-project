@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3PrikyuaPacker2.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:d8b613cfc8fac7ea1343f0e7bb2480a6$ -->
+    <textureregion id="0" src="left_beauty_iphone.png" x="978" y="3" width="462" height="530" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="462" srcheight="530"/>
+    <textureregion id="1" src="left_happy_iphone.png" x="580" y="537" width="462" height="530" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="462" srcheight="530"/>
+    <textureregion id="2" src="left_march_iphone.png" x="512" y="3" width="462" height="530" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="462" srcheight="530"/>
+    <textureregion id="3" src="left_piece_iphone.png" x="46" y="537" width="462" height="530" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="462" srcheight="530"/>
+    <textureregion id="4" src="left_sunny_iphone.png" x="46" y="3" width="462" height="530" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="462" srcheight="530"/>
+    <textureregion id="5" src="line_iphone.png" x="3" y="3" width="39" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="39" srcheight="640"/>
+</texture>

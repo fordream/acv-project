@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="superman.pvr.ccz" type="pvrccz" width="1470" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:5a28f65362aecb3aa65b40aed58fd2f6$ -->
+    <textureregion id="0" src="a4_1_6_3_iphone_clearwindow.png" x="3" y="756" width="224" height="329" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="224" srcheight="329"/>
+    <textureregion id="1" src="a4_4_1_1_iphone_henshin.png" x="918" y="725" width="190" height="296" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="190" srcheight="296"/>
+    <textureregion id="2" src="a4_4_1_2_iphone_henshin.png" x="724" y="725" width="190" height="296" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="190" srcheight="296"/>
+    <textureregion id="3" src="a4_4_1_3_iphone_henshin.png" x="530" y="725" width="190" height="296" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="190" srcheight="296"/>
+    <textureregion id="4" src="a4_4_1_4_iphone_henshin.png" x="336" y="725" width="190" height="296" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="190" srcheight="296"/>
+    <textureregion id="5" src="a4_4_2_10_5_iphone_inukirei.png" x="257" y="3" width="357" height="287" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="357" srcheight="287"/>
+    <textureregion id="6" src="a4_4_2_11_4_iphone_gominet.png" x="3" y="395" width="357" height="287" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="357" srcheight="287"/>
+    <textureregion id="7" src="a4_4_2_2_iphone_herolose.png" x="1112" y="725" width="355" height="172" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="355" srcheight="172"/>
+    <textureregion id="8" src="a4_4_2_3_iphone_herowin.png" x="3" y="3" width="250" height="388" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="250" srcheight="388"/>
+    <textureregion id="9" src="a4_4_2_4_5_iphone_haburashi.png" x="1130" y="3" width="357" height="287" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="357" srcheight="287"/>
+    <textureregion id="10" src="a4_4_2_5_6_iphone_garagara.png" x="876" y="364" width="357" height="287" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="357" srcheight="287"/>
+    <textureregion id="11" src="a4_4_2_6_6_iphone_karada.png" x="839" y="3" width="357" height="287" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="357" srcheight="287"/>
+    <textureregion id="12" src="a4_4_2_7_6_iphone_otete.png" x="585" y="364" width="357" height="287" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="357" srcheight="287"/>
+    <textureregion id="13" src="a4_4_2_8_5_iphone_guruguru.png" x="548" y="3" width="357" height="287" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="357" srcheight="287"/>
+    <textureregion id="14" src="a4_4_2_9_6_iphone_wash.png" x="294" y="364" width="357" height="287" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="357" srcheight="287"/>
+</texture>

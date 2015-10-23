@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3KobutanukiPPacker1.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:05111aeaa7ee34bd5b3b5d8035517a5a$ -->
+    <textureregion id="0" src="a13_4b_1_1_iphone_kobuta.png" x="1449" y="367" width="478" height="360" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="360"/>
+    <textureregion id="1" src="a13_4b_1_2_iphone_kobuta.png" x="967" y="367" width="478" height="360" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="360"/>
+    <textureregion id="2" src="a13_4b_2_1_iphone_tanuki.png" x="1449" y="3" width="478" height="360" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="360"/>
+    <textureregion id="3" src="a13_4b_2_2_iphone_tanuki.png" x="967" y="3" width="478" height="360" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="360"/>
+    <textureregion id="4" src="a13_4b_3_1_iphone_kitune.png" x="485" y="367" width="478" height="360" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="360"/>
+    <textureregion id="5" src="a13_4b_3_2_iphone_kitune.png" x="485" y="3" width="478" height="360" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="360"/>
+    <textureregion id="6" src="a13_4b_4_1_iphone_neko.png" x="3" y="367" width="478" height="360" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="360"/>
+    <textureregion id="7" src="a13_4b_4_2_iphone_neko.png" x="3" y="3" width="478" height="360" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="478" srcheight="360"/>
+</texture>

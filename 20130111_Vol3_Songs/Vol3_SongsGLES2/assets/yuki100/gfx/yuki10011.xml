@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="yuki10011.pvr.ccz" type="pvrccz" width="1253" height="776" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:5c49a1f17edb68424922e2500653e60d$ -->
+    <textureregion id="0" src="a6_30_1_iphone_room.png" x="2" y="2" width="992" height="771" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="992" srcheight="771"/>
+    <textureregion id="1" src="a6_30_3_iphone_room.png" x="997" y="2" width="254" height="772" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="254" srcheight="772"/>
+</texture>

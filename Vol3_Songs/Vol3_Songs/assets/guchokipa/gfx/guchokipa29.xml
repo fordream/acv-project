@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="guchokipa29.pvr.ccz" type="pvrccz" width="786" height="1831" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:5dc4b4af4946f71792d315f161dadabe$ -->
+    <textureregion id="0" src="a1_8_1_iphone_kemuri.png" x="2" y="2" width="782" height="607" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="782" srcheight="607"/>
+    <textureregion id="1" src="a1_8_2_iphone_kemuri.png" x="2" y="612" width="782" height="607" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="782" srcheight="607"/>
+    <textureregion id="2" src="a1_8_3_iphone_kemuri.png" x="2" y="1222" width="782" height="607" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="782" srcheight="607"/>
+</texture>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/credit_display"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:animationCache="false" >
+
+    <!--
+        <WebView  xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:id="@+id/webview"
+		    android:layout_width="960px"
+		    android:layout_height="640px"/>
+	    
+	    <ImageView 
+			android:layout_width="97px"
+			android:layout_height="97px"
+			android:id="@+id/credit_back" 
+			android:background="@drawable/b1_01_1_adr_buck"
+			/>
+    -->
+
+</RelativeLayout>

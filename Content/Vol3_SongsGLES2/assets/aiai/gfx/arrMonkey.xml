@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="arrMonkey.pvr.ccz" type="pvrccz" width="1913" height="1848" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:8349b2591b997d7496e388ca9cec71b8$ -->
+    <textureregion id="0" src="a1_04_16_1_iphone_eat.png" x="1147" y="1147" width="633" height="568" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="1" src="a1_04_16_2_iphone_eat.png" x="575" y="1147" width="633" height="568" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="2" src="a1_06_iphone_laugh.png" x="640" y="3" width="633" height="568" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="3" src="a1_09_iphone_sleep.png" x="3" y="3" width="633" height="568" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="4" src="a1_13_iphone_jump.png" x="1212" y="575" width="633" height="568" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="5" src="a1_14_iphone_heart.png" x="575" y="575" width="633" height="568" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="6" src="a1_16_iphone_cry.png" x="3" y="1212" width="633" height="568" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="7" src="a1_17_iphone_angry.png" x="3" y="575" width="633" height="568" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="8" src="a1_19_iphone_monkey.png" x="1277" y="3" width="633" height="568" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+</texture>

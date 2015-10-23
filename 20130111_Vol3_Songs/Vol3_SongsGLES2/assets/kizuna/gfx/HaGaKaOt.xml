@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="HaGaKaOt.pvr.ccz" type="pvrccz" width="2034" height="980" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:daf1ef2492fa51ff6c1e86208815ddd2$ -->
+    <textureregion id="0" src="a4_4_2_4_1_iphone_haburashi.png" x="463" y="655" width="322" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="322" srcheight="456"/>
+    <textureregion id="1" src="a4_4_2_4_2_iphone_haburashi.png" x="3" y="655" width="322" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="322" srcheight="456"/>
+    <textureregion id="2" src="a4_4_2_4_3_iphone_haburashi.png" x="1709" y="463" width="322" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="322" srcheight="456"/>
+    <textureregion id="3" src="a4_4_2_5_1_iphone_garagara.png" x="1249" y="463" width="322" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="322" srcheight="456"/>
+    <textureregion id="4" src="a4_4_2_5_2_iphone_garagara.png" x="923" y="329" width="322" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="322" srcheight="456"/>
+    <textureregion id="5" src="a4_4_2_5_3_iphone_garagara.png" x="463" y="329" width="322" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="322" srcheight="456"/>
+    <textureregion id="6" src="a4_4_2_6_1_iphone_karada.png" x="3" y="329" width="322" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="322" srcheight="456"/>
+    <textureregion id="7" src="a4_4_2_6_2_iphone_karada.png" x="1709" y="3" width="322" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="322" srcheight="456"/>
+    <textureregion id="8" src="a4_4_2_6_3_iphone_karada.png" x="1383" y="3" width="322" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="322" srcheight="456"/>
+    <textureregion id="9" src="a4_4_2_7_1_iphone_otete.png" x="923" y="3" width="322" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="322" srcheight="456"/>
+    <textureregion id="10" src="a4_4_2_7_2_iphone_otete.png" x="463" y="3" width="322" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="322" srcheight="456"/>
+    <textureregion id="11" src="a4_4_2_7_3_iphone_otete.png" x="3" y="3" width="322" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="322" srcheight="456"/>
+</texture>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3KoinoboriPacker1.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:dded1e40a687d4d10f63a18bc2953f48$ -->
+    <textureregion id="0" src="a7_15_1_iphone_audience.png" x="967" y="417" width="683" height="410" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="683" srcheight="410"/>
+    <textureregion id="1" src="a7_15_2_iphone_audience.png" x="967" y="3" width="683" height="410" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="683" srcheight="410"/>
+    <textureregion id="2" src="a7_21_3_iphone_haikei.png" x="3" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+</texture>

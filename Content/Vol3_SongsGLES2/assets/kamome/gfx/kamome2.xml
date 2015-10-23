@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="kamome2.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:8869bdd703eddf635af2d07a06987a90$ -->
+    <textureregion id="0" src="a4_00_adr_haikei_kamome.png" x="3" y="3" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="1" src="a4_23_adr_haikei_before_kamome.png" x="969" y="3" width="962" height="395" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="395"/>
+</texture>

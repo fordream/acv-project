@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="onaka6.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:73078c53f62bcbee3d4d558134740df9$ -->
+    <textureregion id="0" src="onaka_7e_3_1_iphone_pizza.png" x="631" y="631" width="330" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="1" src="onaka_7e_3_2_iphone_pizza.png" x="631" y="317" width="330" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="2" src="onaka_7f_1_iphone_futomaki.png" x="631" y="3" width="330" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="3" src="onaka_7f_3_1_iphone_futomaki.png" x="317" y="576" width="330" height="310" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="4" src="onaka_7f_3_2_iphone_futomaki.png" x="3" y="576" width="330" height="310" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="330" srcheight="310"/>
+    <textureregion id="5" src="onaka_8_iphone_boy.png" x="3" y="3" width="405" height="569" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="405" srcheight="569"/>
+</texture>

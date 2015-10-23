@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="dokonoko2.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:3e7b924b564b524cb9c6c64d7a39fecc$ -->
+    <textureregion id="0" src="a74_1_1_iphone.png" x="3" y="3" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="1" src="a74_1_2_1_iphone.png" x="815" y="1762" width="207" height="148" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="207" srcheight="148"/>
+    <textureregion id="2" src="a74_1_2_2_iphone.png" x="815" y="1543" width="194" height="215" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="194" srcheight="215"/>
+    <textureregion id="3" src="a74_1_3_iphone.png" x="450" y="1543" width="361" height="430" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="361" srcheight="430"/>
+    <textureregion id="4" src="a74_2_1_1_iphone.png" x="450" y="1096" width="444" height="443" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="444" srcheight="443"/>
+    <textureregion id="5" src="a74_2_1_2_iphone.png" x="3" y="1544" width="444" height="443" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="444" srcheight="443"/>
+    <textureregion id="6" src="a74_2_1_3_iphone.png" x="3" y="1096" width="444" height="443" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="444" srcheight="443"/>
+    <textureregion id="7" src="a74_2_1_4_iphone.png" x="451" y="649" width="444" height="443" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="444" srcheight="443"/>
+    <textureregion id="8" src="a74_2_1_5_iphone.png" x="3" y="649" width="444" height="443" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="444" srcheight="443"/>
+</texture>

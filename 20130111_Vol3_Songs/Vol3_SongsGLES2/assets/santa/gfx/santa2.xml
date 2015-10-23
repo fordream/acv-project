@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="santa2.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:a5df14c0da4421fc45218056e02146bb$ -->
+    <textureregion id="0" src="a1_04_3_1_iphone_kodomo.png" x="3" y="1249" width="429" height="619" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="429" srcheight="619"/>
+    <textureregion id="1" src="a1_04_3_2_iphone_kodomo.png" x="436" y="626" width="429" height="619" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="429" srcheight="619"/>
+    <textureregion id="2" src="a1_04_3_3_iphone_kodomo.png" x="3" y="626" width="429" height="619" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="429" srcheight="619"/>
+    <textureregion id="3" src="a1_04_4_1_iphone_kodomo.png" x="436" y="3" width="429" height="619" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="429" srcheight="619"/>
+    <textureregion id="4" src="a1_04_4_2_iphone_kodomo.png" x="3" y="3" width="429" height="619" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="429" srcheight="619"/>
+    <textureregion id="5" src="a1_04_4_3_iphone_kodomo.png" x="436" y="1249" width="429" height="619" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="429" srcheight="619"/>
+</texture>

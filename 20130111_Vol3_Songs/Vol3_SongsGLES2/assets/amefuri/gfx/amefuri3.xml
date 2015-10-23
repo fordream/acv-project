@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="amefuri3.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:a36712cb0c3a7f8d55db8903cde12d8c$ -->
+    <textureregion id="0" src="a3_04_iphone3g_amefuri_haikei.png" x="3" y="3" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="1" src="human_temp.png" x="969" y="3" width="449" height="434" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="449" srcheight="434"/>
+</texture>

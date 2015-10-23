@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="onaka2.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:589075ac7259b2889c6a122749e88c44$ -->
+    <textureregion id="0" src="onaka_4d_1_iphone_boy.png" x="576" y="412" width="405" height="569" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="405" srcheight="569"/>
+    <textureregion id="1" src="onaka_4d_2_iphone_boy.png" x="412" y="3" width="405" height="569" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="405" srcheight="569"/>
+    <textureregion id="2" src="onaka_4e_iphone_boy.png" x="3" y="576" width="405" height="569" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="405" srcheight="569"/>
+    <textureregion id="3" src="onaka_4f_iphone_boy.png" x="3" y="3" width="405" height="569" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="405" srcheight="569"/>
+</texture>

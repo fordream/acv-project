@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="ojiro.pvr.ccz" type="pvrccz" width="1100" height="762" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:fc0fcb04c381c5abe5dc4edc4b49eb45$ -->
+    <textureregion id="0" src="a4_5_2_1_iphone_ojiro.png" x="735" y="383" width="376" height="362" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="376" srcheight="362"/>
+    <textureregion id="1" src="a4_5_2_2_iphone_ojiro.png" x="735" y="3" width="376" height="362" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="376" srcheight="362"/>
+    <textureregion id="2" src="a4_5_2_3_iphone_ojiro.png" x="369" y="383" width="376" height="362" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="376" srcheight="362"/>
+    <textureregion id="3" src="a4_5_2_4_iphone_ojiro.png" x="369" y="3" width="376" height="362" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="376" srcheight="362"/>
+    <textureregion id="4" src="a4_5_2_5_iphone_ojiro.png" x="3" y="383" width="376" height="362" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="376" srcheight="362"/>
+    <textureregion id="5" src="a4_5_2_6_iphone_ojiro.png" x="3" y="3" width="376" height="362" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="376" srcheight="362"/>
+</texture>

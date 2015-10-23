@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="ashitatenki1.pvr.ccz" type="pvrccz" width="2032" height="1019" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:802618c3f13ab12019e27f09714a43d4$ -->
+    <textureregion id="0" src="a76_1_2_iphone.png" x="647" y="734" width="283" height="283" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="283" srcheight="283"/>
+    <textureregion id="1" src="a76_2_1_iphone.png" x="1952" y="109" width="78" height="104" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="78" srcheight="104"/>
+    <textureregion id="2" src="a76_2_2_iphone.png" x="1952" y="2" width="78" height="104" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="78" srcheight="104"/>
+    <textureregion id="3" src="a76_3_6_3_iphone.png" x="2" y="967" width="11" height="11" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="11" srcheight="11"/>
+    <textureregion id="4" src="a76_3_7_3_iphone.png" x="1299" y="2" width="117" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="117" srcheight="103"/>
+    <textureregion id="5" src="a76_3_7_4_iphone.png" x="1433" y="2" width="117" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="117" srcheight="103"/>
+    <textureregion id="6" src="a76_4_4_1_iphone.png" x="1952" y="216" width="597" height="68" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="597" srcheight="68"/>
+    <textureregion id="7" src="a76_4_4_2_1_iphone.png" x="2" y="2" width="962" height="642" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="8" src="a76_4_4_2_2_iphone.png" x="647" y="2" width="729" height="405" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="729" srcheight="405"/>
+    <textureregion id="9" src="a76_4_4_2_3_iphone.png" x="1055" y="2" width="701" height="241" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="701" srcheight="241"/>
+    <textureregion id="10" src="a76_4_4_2_4_iphone.png" x="1273" y="706" width="263" height="337" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="263" srcheight="337"/>
+    <textureregion id="11" src="a76_4_4_2_5_iphone.png" x="933" y="734" width="263" height="337" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="263" srcheight="337"/>
+    <textureregion id="12" src="a76_4_4_2_6_iphone.png" x="1613" y="2" width="497" height="336" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="497" srcheight="336"/>
+    <textureregion id="13" src="a76_tenki_se3_ipad.png" x="1299" y="502" width="131" height="131" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="131" srcheight="131"/>
+    <textureregion id="14" src="a76_tenki_se3_iphone.png" x="1433" y="108" width="105" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="105"/>
+</texture>

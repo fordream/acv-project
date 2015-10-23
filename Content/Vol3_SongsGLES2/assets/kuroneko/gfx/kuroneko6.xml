@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="kuroneko6.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:d41e966e1667b952d0aeb548de321aa0$ -->
+    <textureregion id="0" src="a3_1_5_iphone.png" x="2" y="2" width="1056" height="708" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="1056" srcheight="708"/>
+</texture>

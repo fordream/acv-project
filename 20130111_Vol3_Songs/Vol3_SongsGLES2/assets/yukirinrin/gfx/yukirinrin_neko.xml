@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="yukirinrin_neko.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:abc98441ccc572289ebe6a6dc39a99e4$ -->
+    <textureregion id="0" src="a2_11_4_1_iphone_neko.png" x="276" y="703" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="1" src="a2_11_4_2_iphone_neko.png" x="3" y="703" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="2" src="a2_11_4_3_iphone_neko.png" x="549" y="353" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="3" src="a2_11_4_4_iphone_neko.png" x="276" y="353" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="4" src="a2_11_4_5_iphone_neko.png" x="3" y="353" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="5" src="a2_11_4_6_iphone_neko.png" x="549" y="3" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="6" src="a2_11_4_7_iphone_neko.png" x="276" y="3" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="7" src="a2_11_4_8_iphone_neko.png" x="3" y="3" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="8" src="a2_13_1_4_iphone_success.png" x="549" y="703" width="253" height="324" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="253" srcheight="324"/>
+</texture>

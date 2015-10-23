@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    id="selected"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/buy_bt_1_iphone"
+        android:duration="600">
+    </item>
+    <item
+        android:drawable="@drawable/buy_bt_2_iphone"
+        android:duration="600">
+    </item>
+    <item
+        android:drawable="@drawable/buy_bt_3_iphone"
+        android:duration="600">
+    </item>
+    <item
+        android:drawable="@drawable/buy_bt_4_iphone"
+        android:duration="600">
+    </item>
+    <item
+        android:drawable="@drawable/buy_bt_3_iphone"
+        android:duration="600">
+    </item>
+    <item
+        android:drawable="@drawable/buy_bt_2_iphone"
+        android:duration="600">
+    </item>
+
+</animation-list>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3PrikyuaPacker1.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:16104259cd94f4d00b4daa884a7b9cd4$ -->
+    <textureregion id="0" src="atari_iphone.png" x="324" y="1905" width="68" height="67" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="68" srcheight="67"/>
+    <textureregion id="1" src="background_iphone.png" x="3" y="647" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="2" src="base_iphone.png" x="3" y="1291" width="457" height="610" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="457" srcheight="610"/>
+    <textureregion id="3" src="complete_iphone.png" x="3" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="4" src="hikari_iphone.png" x="967" y="56" width="22" height="41" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="22" srcheight="41"/>
+    <textureregion id="5" src="hikari_last1_iphone.png" x="967" y="3" width="26" height="49" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="26" srcheight="49"/>
+    <textureregion id="6" src="hikari_last2_iphone.png" x="997" y="3" width="24" height="46" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="24" srcheight="46"/>
+    <textureregion id="7" src="hikari_last3_iphone.png" x="993" y="98" width="18" height="34" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="18" srcheight="34"/>
+    <textureregion id="8" src="hikari_last4_iphone.png" x="967" y="101" width="15" height="28" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="15" srcheight="28"/>
+    <textureregion id="9" src="hikari_last5_iphone.png" x="997" y="53" width="22" height="41" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="22" srcheight="41"/>
+    <textureregion id="10" src="prikyua_1_iphone.png" x="217" y="1905" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+    <textureregion id="11" src="prikyua_2_iphone.png" x="110" y="1905" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+    <textureregion id="12" src="prikyua_3_iphone.png" x="3" y="1905" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+</texture>

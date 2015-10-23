@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="packer_parta_2.pvr.ccz" type="pvrccz" width="1818" height="1010" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:717dabc93c138f72f1685be46830f78a$ -->
+    <textureregion id="0" src="a3_6a_1_iphone_koma.png" x="1221" y="1" width="584" height="374" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="584" srcheight="374"/>
+    <textureregion id="1" src="a3_6a_2_iphone_koma.png" x="753" y="377" width="584" height="374" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="584" srcheight="374"/>
+    <textureregion id="2" src="a3_6a_3_iphone_koma.png" x="635" y="1" width="584" height="374" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="584" srcheight="374"/>
+    <textureregion id="3" src="a3_6b_1_iphone_koma.png" x="377" y="377" width="632" height="374" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="632" srcheight="374"/>
+    <textureregion id="4" src="a3_6b_2_iphone_koma.png" x="1" y="377" width="632" height="374" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="632" srcheight="374"/>
+    <textureregion id="5" src="a3_6b_3_iphone_koma.png" x="1" y="1" width="632" height="374" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="632" srcheight="374"/>
+    <textureregion id="6" src="a3_6e_2_1_iphone_present.png" x="1474" y="377" width="343" height="367" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="343" srcheight="367"/>
+    <textureregion id="7" src="a3_6e_2_2_iphone_present.png" x="1129" y="377" width="343" height="367" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="343" srcheight="367"/>
+</texture>

@@ -1,0 +1,166 @@
+package jp.co.xing.utaehon03.resources;
+
+public class Vol3SabosanResource {
+	public interface Vol3SabosanPacker1 {
+		public static final int A2_11_IPHONE_ID = 0;
+		public static final int A2_12_IPHONE_ID = 1;
+		public static final int A2_13_1_IPHONE_ID = 2;
+		public static final int A2_13_2_IPHONE_ID = 3;
+		public static final int A2_14_1_IPHONE_ID = 4;
+		public static final int A2_14_2_IPHONE_ID = 5;
+		public static final int A2_14_3_IPHONE_ID = 6;
+		public static final int A2_15_1_1_IPHONE_ID = 7;
+		public static final int A2_15_1_2_IPHONE_ID = 8;
+		public static final int A2_15_2_1_IPHONE_ID = 9;
+		public static final int A2_15_2_2_IPHONE_ID = 10;
+		public static final int A2_15_3_1_IPHONE_ID = 11;
+		public static final int A2_15_3_2_IPHONE_ID = 12;
+		public static final int A2_16_1_IPHONE_ID = 13;
+		public static final int A2_16_2_IPHONE_ID = 14;
+		public static final int A2_16_3_IPHONE_ID = 15;
+		public static final int A2_17_IPHONE_ID = 16;
+		public static final int A2_2_1_IPHONE_ID = 17;
+		public static final int A2_2_2_IPHONE_ID = 18;
+		public static final int A2_2_3_IPHONE_ID = 19;
+		public static final int A2_3_1_IPHONE_ID = 20;
+		public static final int A2_3_2_IPHONE_ID = 21;
+		public static final int A2_3_3_IPHONE_ID = 22;
+		public static final int A2_3_4_IPHONE_ID = 23;
+		public static final int A2_4_IPHONE_ID = 24;
+	}
+
+	public interface Vol3SabosanPacker2 {
+		public static final int A2_1_1_IPHONE_ID = 0;
+		public static final int A2_1_2_IPHONE_ID = 1;
+		public static final int A2_5_1_IPHONE_ID = 2;
+		public static final int A2_5_2_IPHONE_ID = 3;
+		public static final int A2_5_3_IPHONE_ID = 4;
+		public static final int A2_5_4_IPHONE_ID = 5;
+		public static final int A2_5_5_IPHONE_ID = 6;
+		public static final int A2_5_6_IPHONE_ID = 7;
+		public static final int A2_5_7_1_IPHONE_ID = 8;
+		public static final int A2_5_7_2_IPHONE_ID = 9;
+		public static final int A2_5_7_3_IPHONE_ID = 10;
+		public static final int A2_5_7_4_IPHONE_ID = 11;
+		public static final int A2_5_7_5_IPHONE_ID = 12;
+		public static final int A2_6_1_IPHONE_ID = 13;
+		public static final int A2_6_2_IPHONE_ID = 14;
+		public static final int A2_6_3_IPHONE_ID = 15;
+		public static final int A2_6_4_IPHONE_ID = 16;
+		public static final int A2_6_5_IPHONE_ID = 17;
+		public static final int A2_6_6_IPHONE_ID = 18;
+		public static final int A2_6_7_1_IPHONE_ID = 19;
+		public static final int A2_6_7_2_IPHONE_ID = 20;
+		public static final int A2_6_7_3_IPHONE_ID = 21;
+		public static final int A2_6_7_4_IPHONE_ID = 22;
+		public static final int A2_6_7_5_IPHONE_ID = 23;
+	}
+
+	public interface Vol3SabosanPacker3 {
+		public static final int A2_7_1_IPHONE_ID = 0;
+		public static final int A2_7_2_IPHONE_ID = 1;
+		public static final int A2_7_3_IPHONE_ID = 2;
+		public static final int A2_7_4_IPHONE_ID = 3;
+		public static final int A2_7_5_IPHONE_ID = 4;
+		public static final int A2_7_6_IPHONE_ID = 5;
+		public static final int A2_7_7_1_IPHONE_ID = 6;
+		public static final int A2_7_7_2_IPHONE_ID = 7;
+		public static final int A2_7_7_3_IPHONE_ID = 8;
+		public static final int A2_7_7_4_IPHONE_ID = 9;
+		public static final int A2_7_7_5_IPHONE_ID = 10;
+		public static final int A2_8_1_IPHONE_ID = 11;
+		public static final int A2_8_2_IPHONE_ID = 12;
+		public static final int A2_8_3_IPHONE_ID = 13;
+		public static final int A2_8_4_IPHONE_ID = 14;
+		public static final int A2_8_5_IPHONE_ID = 15;
+		public static final int A2_8_6_IPHONE_ID = 16;
+		public static final int A2_8_7_1_IPHONE_ID = 17;
+		public static final int A2_8_7_2_IPHONE_ID = 18;
+		public static final int A2_8_7_3_IPHONE_ID = 19;
+		public static final int A2_8_7_4_IPHONE_ID = 20;
+		public static final int A2_8_7_5_IPHONE_ID = 21;
+		public static final int A2_8_8_1_IPHONE_ID = 22;
+		public static final int A2_8_8_2_IPHONE_ID = 23;
+		public static final int A2_8_8_3_IPHONE_ID = 24;
+		public static final int A2_8_8_4_IPHONE_ID = 25;
+		public static final int A2_8_8_5_IPHONE_ID = 26;
+		public static final int A2_8_9_IPHONE_ID = 27;
+	}
+
+	public interface Vol3SabosanPacker4 {
+		public static final int A2_10_1_IPHONE_ID = 0;
+		public static final int A2_10_2_IPHONE_ID = 1;
+		public static final int A2_10_3_IPHONE_ID = 2;
+		public static final int A2_10_4_IPHONE_ID = 3;
+		public static final int A2_10_5_IPHONE_ID = 4;
+		public static final int A2_10_6_IPHONE_ID = 5;
+		public static final int A2_10_7_1_IPHONE_ID = 6;
+		public static final int A2_10_7_2_IPHONE_ID = 7;
+		public static final int A2_10_7_3_IPHONE_ID = 8;
+		public static final int A2_10_7_4_IPHONE_ID = 9;
+		public static final int A2_10_7_5_IPHONE_ID = 10;
+		public static final int A2_10_8_1_IPHONE_ID = 11;
+		public static final int A2_10_8_2_IPHONE_ID = 12;
+		public static final int A2_10_8_3_IPHONE_ID = 13;
+		public static final int A2_10_8_4_IPHONE_ID = 14;
+		public static final int A2_10_8_5_IPHONE_ID = 15;
+		public static final int A2_10_9_IPHONE_ID = 16;
+		public static final int A2_9_1_IPHONE_ID = 17;
+		public static final int A2_9_2_IPHONE_ID = 18;
+		public static final int A2_9_3_IPHONE_ID = 19;
+		public static final int A2_9_4_IPHONE_ID = 20;
+		public static final int A2_9_5_IPHONE_ID = 21;
+		public static final int A2_9_6_IPHONE_ID = 22;
+		public static final int A2_9_7_1_IPHONE_ID = 23;
+		public static final int A2_9_7_2_IPHONE_ID = 24;
+		public static final int A2_9_7_3_IPHONE_ID = 25;
+		public static final int A2_9_7_4_IPHONE_ID = 26;
+		public static final int A2_9_7_5_IPHONE_ID = 27;
+		public static final int A2_9_8_1_IPHONE_ID = 28;
+		public static final int A2_9_8_2_IPHONE_ID = 29;
+		public static final int A2_9_8_3_IPHONE_ID = 30;
+		public static final int A2_9_8_4_IPHONE_ID = 31;
+		public static final int A2_9_8_5_IPHONE_ID = 32;
+		public static final int A2_9_9_IPHONE_ID = 33;
+	}
+
+	public static final String A1_10_HANA3 = "a1_10_hana3.ogg";
+	public static final String A1_10_ODORI6 = "a1_10_odori6.ogg";
+	public static final String A1_14_1_KUMOHARE = "a1_14_1_kumohare.ogg";
+	public static final String A1_14_1_WINK = "a1_14_1_wink.ogg";
+	public static final String A1_14_2_TAIYOUTAUCH = "a1_14_2_taiyoutauch.ogg";
+	public static final String A1_15_RAKUDAGAKU = "a1_15_rakudagaku.ogg";
+	public static final String A1_15__JUMP = "a1_15__jump.ogg";
+	public static final String A1_1_1_ZAZA = "a1_1_1_zaza.ogg";
+	public static final String A1_3_1_ZA1 = "a1_3_1_za1.ogg";
+	public static final String A1_3_2_ZA2 = "a1_3_2_za2.ogg";
+	public static final String A1_3_3_ZA3 = "a1_3_3_za3.ogg";
+	public static final String A1_3_4_ZA4 = "a1_3_4_za4.ogg";
+	public static final String A1_4_1_SABOSYUTUGEN = "a1_4_1_sabosyutugen.ogg";
+	public static final String A1_4_2_PYU = "a1_4_2_pyu.ogg";
+	public static final String A1_5_ODORI1 = "a1_5_odori1.ogg";
+	public static final String A1_6_ODORI2 = "a1_6_odori2.ogg";
+	public static final String A1_7_1TOGENUKE2 = "a1_7_1togenuke2.ogg";
+	public static final String A1_7_ODORI5 = "a1_7_odori5.ogg";
+	public static final String A1_8_HANA1 = "a1_8_hana1.ogg";
+	public static final String A1_8_ODORI3 = "a1_8_odori3.ogg";
+	public static final String A1_9_HANA2 = "a1_9_hana2.ogg";
+	public static final String A1_9_ODORI4 = "a1_9_odori4.ogg";
+	public static final String A1_BOY_SABO1 = "a1_boy_sabo1.ogg";
+	public static final String A1_BOY_SABO2 = "a1_boy_sabo2.ogg";
+	public static final String A1_BOY_SABO3 = "a1_boy_sabo3.ogg";
+	public static final String A1_BOY_SABO4 = "a1_boy_sabo4.ogg";
+	public static final String A1_BOY_SABO5 = "a1_boy_sabo5.ogg";
+	public static final String A1_BOY_SABO6 = "a1_boy_sabo6.ogg";
+	public static final String A1_BOY_SABO7 = "a1_boy_sabo7.ogg";
+	public static final String A1_BOY_SABO8 = "a1_boy_sabo8.ogg";
+	public static final String A1_BOY_SABO9 = "a1_boy_sabo9.ogg";
+	public static final String A1_BOY_SABO10 = "a1_boy_sabo10.ogg";
+	public static final String A1_GIRL_SABO1 = "a1_girl_sabo1.ogg";
+	public static final String A1_GIRL_SABO2 = "a1_girl_sabo2.ogg";
+	public static final String A1_GIRL_SABO3 = "a1_girl_sabo3.ogg";
+	public static final String A1_GIRL_SABO4 = "a1_girl_sabo4.ogg";
+	public static final String A1_GIRL_SABO5 = "a1_girl_sabo5.ogg";
+	public static final String A1_GIRL_SABO6 = "a1_girl_sabo6.ogg";
+	public static final String A1_GIRL_SABO7 = "a1_girl_sabo7.ogg";
+}

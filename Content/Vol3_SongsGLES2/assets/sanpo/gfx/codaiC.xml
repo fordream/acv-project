@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="codaiC.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:d57c55891c2787eaefc0366f622e96c1$ -->
+    <textureregion id="0" src="a3_31_2_1_iphone_trikeratps.png" x="3" y="435" width="570" height="212" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="570" srcheight="212"/>
+    <textureregion id="1" src="a3_31_2_2_iphone_trikeratps.png" x="3" y="219" width="570" height="212" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="570" srcheight="212"/>
+    <textureregion id="2" src="a3_31_2_3_iphone_trikeratps.png" x="3" y="3" width="570" height="212" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="570" srcheight="212"/>
+    <textureregion id="3" src="a3_31a_1_1_iphone_trikeratps.png" x="541" y="806" width="318" height="201" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="318" srcheight="201"/>
+    <textureregion id="4" src="a3_31a_1_2_iphone_trikeratps.png" x="219" y="806" width="318" height="201" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="318" srcheight="201"/>
+    <textureregion id="5" src="a3_31a_1_3_iphone_trikeratps.png" x="219" y="435" width="318" height="201" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="318" srcheight="201"/>
+    <textureregion id="6" src="a3_31a_1_4_iphone_trikeratps.png" x="577" y="373" width="318" height="201" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="318" srcheight="201"/>
+    <textureregion id="7" src="a3_31b_1_1_iphone_trikeratps.png" x="577" y="188" width="323" height="181" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="323" srcheight="181"/>
+    <textureregion id="8" src="a3_31b_1_2_iphone_trikeratps.png" x="577" y="3" width="323" height="181" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="323" srcheight="181"/>
+    <textureregion id="9" src="a3_32_2_2_iphone_prakiozauls_kidsa.png" x="937" y="806" width="166" height="70" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="70"/>
+    <textureregion id="10" src="a3_32_2_3_iphone_prakiozauls_kidsb.png" x="863" y="806" width="166" height="70" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="70"/>
+    <textureregion id="11" src="a3_34_1_1_iphone_pteranodon.png" x="219" y="640" width="228" height="79" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="228" srcheight="79"/>
+    <textureregion id="12" src="a3_34_1_2_iphone_pteranodon.png" x="899" y="574" width="228" height="79" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="228" srcheight="79"/>
+    <textureregion id="13" src="a3_34_2_1_iphone_pteranodon.png" x="904" y="342" width="228" height="79" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="228" srcheight="79"/>
+    <textureregion id="14" src="a3_34_2_2_iphone_pteranodon.png" x="904" y="110" width="228" height="79" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="228" srcheight="79"/>
+    <textureregion id="15" src="a3_warp_bt_iphone.png" x="904" y="3" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+</texture>

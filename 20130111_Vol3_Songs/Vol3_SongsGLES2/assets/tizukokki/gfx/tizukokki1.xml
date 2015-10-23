@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="tizukokki1.pvr.ccz" type="pvrccz" width="1016" height="2039" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:ac9210b16260afc8349faeea294026ed$ -->
+    <textureregion id="0" src="a83_1_1_iphone.png" x="3" y="3" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="1" src="a83_1_2_10_iphone.png" x="605" y="1929" width="106" height="86" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="2" src="a83_1_2_11_iphone.png" x="515" y="1929" width="106" height="86" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="3" src="a83_1_2_12_iphone.png" x="892" y="919" width="59" height="86" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="59" srcheight="86"/>
+    <textureregion id="4" src="a83_1_2_13_iphone.png" x="425" y="1929" width="106" height="86" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="5" src="a83_1_2_14_iphone.png" x="874" y="1119" width="106" height="86" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="6" src="a83_1_2_15_iphone.png" x="874" y="1009" width="106" height="86" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="7" src="a83_1_2_16_iphone.png" x="813" y="649" width="106" height="86" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="8" src="a83_1_2_1_iphone.png" x="906" y="1901" width="106" height="86" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="9" src="a83_1_2_2_iphone.png" x="906" y="1811" width="106" height="86" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="10" src="a83_1_2_3_iphone.png" x="906" y="1721" width="106" height="86" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="11" src="a83_1_2_4_iphone.png" x="906" y="1631" width="106" height="86" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="12" src="a83_1_2_5_iphone.png" x="816" y="1800" width="106" height="86" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="13" src="a83_1_2_6_iphone.png" x="785" y="1910" width="106" height="86" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="14" src="a83_1_2_7_iphone.png" x="726" y="1800" width="106" height="86" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="15" src="a83_1_2_8_iphone.png" x="695" y="1910" width="106" height="86" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="16" src="a83_1_2_9_iphone.png" x="636" y="1800" width="106" height="86" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="86"/>
+    <textureregion id="17" src="a83_2_2_10_iphone.png" x="3" y="649" width="266" height="41" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="41"/>
+    <textureregion id="18" src="a83_2_2_11_iphone.png" x="969" y="543" width="266" height="41" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="41"/>
+    <textureregion id="19" src="a83_2_2_12_iphone.png" x="969" y="273" width="266" height="41" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="41"/>
+    <textureregion id="20" src="a83_2_2_14_iphone.png" x="969" y="3" width="266" height="41" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="41"/>
+    <textureregion id="21" src="a83_2_2_1_iphone.png" x="3" y="739" width="266" height="41" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="41"/>
+    <textureregion id="22" src="a83_2_2_2_iphone.png" x="543" y="694" width="266" height="41" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="41"/>
+    <textureregion id="23" src="a83_2_2_3_iphone.png" x="273" y="694" width="266" height="41" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="41"/>
+    <textureregion id="24" src="a83_2_2_4_iphone.png" x="3" y="694" width="266" height="41" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="41"/>
+    <textureregion id="25" src="a83_2_2_5_iphone.png" x="968" y="813" width="266" height="41" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="41"/>
+    <textureregion id="26" src="a83_2_2_7_iphone.png" x="923" y="649" width="266" height="41" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="41"/>
+    <textureregion id="27" src="a83_2_2_8_iphone.png" x="543" y="649" width="266" height="41" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="41"/>
+    <textureregion id="28" src="a83_2_2_9_iphone.png" x="273" y="649" width="266" height="41" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="266" srcheight="41"/>
+    <textureregion id="29" src="a83_2_3_10_1_iphone.png" x="425" y="1249" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="30" src="a83_2_3_10_2_iphone.png" x="636" y="1120" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="31" src="a83_2_3_11_1_iphone.png" x="3" y="1190" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="32" src="a83_2_3_11_2_iphone.png" x="214" y="1145" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="33" src="a83_2_3_12_1_iphone.png" x="425" y="1079" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="34" src="a83_2_3_12_2_iphone.png" x="3" y="1020" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="35" src="a83_2_3_13_1_iphone.png" x="214" y="975" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="36" src="a83_2_3_13_2_iphone.png" x="663" y="950" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="37" src="a83_2_3_14_1_iphone.png" x="452" y="909" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="38" src="a83_2_3_14_2_iphone.png" x="3" y="850" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="39" src="a83_2_3_15_1_iphone.png" x="241" y="805" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="40" src="a83_2_3_15_2_iphone.png" x="722" y="739" width="166" height="207" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="41" src="a83_2_3_15_3_iphone.png" x="511" y="739" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="42" src="a83_2_3_1_1_iphone.png" x="3" y="1870" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="43" src="a83_2_3_1_2_iphone.png" x="214" y="1825" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="44" src="a83_2_3_2_1_iphone.png" x="425" y="1759" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="45" src="a83_2_3_2_2_iphone.png" x="636" y="1630" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="46" src="a83_2_3_3_1_iphone.png" x="3" y="1700" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="47" src="a83_2_3_3_2_iphone.png" x="214" y="1655" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="48" src="a83_2_3_4_1_iphone.png" x="425" y="1589" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="49" src="a83_2_3_4_2_iphone.png" x="636" y="1460" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="50" src="a83_2_3_5_1_iphone.png" x="847" y="1420" width="166" height="207" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="51" src="a83_2_3_5_2_iphone.png" x="3" y="1530" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="52" src="a83_2_3_7_1_iphone.png" x="214" y="1485" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="53" src="a83_2_3_7_2_iphone.png" x="425" y="1419" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="54" src="a83_2_3_8_1_iphone.png" x="636" y="1290" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="55" src="a83_2_3_8_2_iphone.png" x="847" y="1209" width="166" height="207" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="56" src="a83_2_3_9_1_iphone.png" x="3" y="1360" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="57" src="a83_2_3_9_2_iphone.png" x="214" y="1315" width="166" height="207" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="166" srcheight="207"/>
+    <textureregion id="58" src="a83_3_1_2_iphone.png" x="452" y="805" width="34" height="34" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="34" srcheight="34"/>
+    <textureregion id="59" src="a83_3_1_iphone.png" x="452" y="843" width="34" height="34" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="34" srcheight="34"/>
+    <textureregion id="60" src="a83_3_2_1_iphone1.png" x="273" y="739" width="234" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="234" srcheight="62"/>
+    <textureregion id="61" src="a83_3_2_iphone.png" x="3" y="784" width="234" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="234" srcheight="62"/>
+</texture>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="hato.pvr.ccz" type="pvrccz" width="2048" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:7b2c0e944b90998d8383b60b47c275e4$ -->
+    <textureregion id="0" src="a7_01_adr_e00160_gon.png" x="110" y="1872" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+    <textureregion id="1" src="a7_02_adr_e00189_viorin.png" x="3" y="1893" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+    <textureregion id="2" src="a7_03_1_adr_boy.png" x="1755" y="1120" width="258" height="297" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="258" srcheight="297"/>
+    <textureregion id="3" src="a7_03_2_adr_boy.png" x="1755" y="819" width="258" height="297" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="258" srcheight="297"/>
+    <textureregion id="4" src="a7_03_adr_question.png" x="217" y="1806" width="103" height="102" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="102"/>
+    <textureregion id="5" src="a7_04_1_1_adr_lamp_right.png" x="3" y="940" width="96" height="468" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="96" srcheight="468"/>
+    <textureregion id="6" src="a7_04_1_2_adr_lamp_right.png" x="3" y="1421" width="96" height="468" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="96" srcheight="468"/>
+    <textureregion id="7" src="a7_04_2_1_adr_lamp_left.png" x="103" y="940" width="96" height="447" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="96" srcheight="447"/>
+    <textureregion id="8" src="a7_04_2_2_adr_lamp_left.png" x="103" y="1421" width="96" height="447" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="96" srcheight="447"/>
+    <textureregion id="9" src="a7_05_1_adr_girl.png" x="203" y="1421" width="305" height="381" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="305" srcheight="381"/>
+    <textureregion id="10" src="a7_05_2_adr_bean.png" x="1446" y="759" width="305" height="381" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="305" srcheight="381"/>
+    <textureregion id="11" src="a7_05_3_adr_hato.png" x="1844" y="181" width="143" height="174" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="174"/>
+    <textureregion id="12" src="a7_05_4_adr_hato.png" x="1844" y="3" width="143" height="174" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="143" srcheight="174"/>
+    <textureregion id="13" src="a7_06_10_adr_ball.png" x="967" y="481" width="352" height="374" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="352" srcheight="374"/>
+    <textureregion id="14" src="a7_06_11_adr_ball_1.png" x="1488" y="381" width="352" height="374" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="352" srcheight="374"/>
+    <textureregion id="15" src="a7_06_12_adr_ball_2.png" x="1488" y="3" width="352" height="374" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="352" srcheight="374"/>
+    <textureregion id="16" src="a7_06_1_adr_door.png" x="967" y="3" width="517" height="474" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="517" srcheight="474"/>
+    <textureregion id="17" src="a7_06_2_a_adr_hato.png" x="1323" y="711" width="119" height="111" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="119" srcheight="111"/>
+    <textureregion id="18" src="a7_06_3_b_adr_hato.png" x="1323" y="596" width="119" height="111" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="119" srcheight="111"/>
+    <textureregion id="19" src="a7_06_4_c_adr_hato.png" x="1323" y="481" width="119" height="111" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="119" srcheight="111"/>
+    <textureregion id="20" src="a7_06_5_d_adr_hato.png" x="1844" y="704" width="119" height="111" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="119" srcheight="111"/>
+    <textureregion id="21" src="a7_06_6_e_adr_hato.png" x="1844" y="589" width="119" height="111" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="119" srcheight="111"/>
+    <textureregion id="22" src="a7_06_7_f_adr_hato.png" x="1323" y="826" width="119" height="110" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="119" srcheight="110"/>
+    <textureregion id="23" src="a7_06_8_g_adr_hato.png" x="1844" y="474" width="119" height="111" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="119" srcheight="111"/>
+    <textureregion id="24" src="a7_06_9_h_adr_hato.png" x="1844" y="359" width="119" height="111" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="119" srcheight="111"/>
+    <textureregion id="25" src="a7_07_adr_haikei.png" x="3" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+</texture>

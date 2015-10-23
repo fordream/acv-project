@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="umi2.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:e7d4c8955011fdc2f909b493626ba16d$ -->
+    <textureregion id="0" src="a3_23_1_iphone_haikei.png" x="655" y="5" width="964" height="644" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="964" srcheight="644"/>
+    <textureregion id="1" src="a3_23_2_iphone_haikei.png" x="5" y="5" width="964" height="644" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="964" srcheight="644"/>
+    <textureregion id="2" src="a3_23_3_iphone_haikei.png" x="1305" y="5" width="964" height="644" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="964" srcheight="644"/>
+</texture>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="otaro.pvr.ccz" type="pvrccz" width="1250" height="854" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:7cd3efc8c8b136fa5c58c4b70bf856a0$ -->
+    <textureregion id="0" src="a4_5_6_1_iphone_otaro.png" x="835" y="429" width="412" height="422" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="412" srcheight="422"/>
+    <textureregion id="1" src="a4_5_6_2_iphone_otaro.png" x="835" y="3" width="412" height="422" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="412" srcheight="422"/>
+    <textureregion id="2" src="a4_5_6_3_iphone_otaro.png" x="419" y="429" width="412" height="422" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="412" srcheight="422"/>
+    <textureregion id="3" src="a4_5_6_4_iphone_otaro.png" x="419" y="3" width="412" height="422" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="412" srcheight="422"/>
+    <textureregion id="4" src="a4_5_6_5_iphone_otaro.png" x="3" y="429" width="412" height="422" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="412" srcheight="422"/>
+    <textureregion id="5" src="a4_5_6_6_iphone_otaro.png" x="3" y="3" width="412" height="422" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="412" srcheight="422"/>
+</texture>

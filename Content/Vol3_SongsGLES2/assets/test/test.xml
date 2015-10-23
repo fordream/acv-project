@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="test.png" type="bitmap" width="1001" height="690" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:a67bb2fa354582a9b424361283b78457$ -->
+    <textureregion id="0" src="A2-2_1_0-iPhone-no.png" x="967" y="3" width="22" height="31" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="22" srcheight="31"/>
+    <textureregion id="1" src="A2-2_5-iPhone-regi.png" x="3" y="397" width="290" height="192" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="290" srcheight="192"/>
+    <textureregion id="2" src="A2-8-iPhone-table.png" x="3" y="3" width="960" height="390" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="390"/>
+</texture>

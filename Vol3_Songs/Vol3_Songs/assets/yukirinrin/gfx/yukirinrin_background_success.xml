@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="yukirinrin_background_success.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:15fdc5f65b0cf7894d824e5f10c92f0c$ -->
+    <textureregion id="0" src="a2_12_iphone_haikei.png" x="3" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="1" src="a2_13_2_1_iphone_left.png" x="1155" y="633" width="380" height="373" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="380" srcheight="373"/>
+    <textureregion id="2" src="a2_13_2_2_iphone_left.png" x="771" y="647" width="380" height="373" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="380" srcheight="373"/>
+    <textureregion id="3" src="a2_13_3_1_iphone_right.png" x="387" y="647" width="380" height="373" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="380" srcheight="373"/>
+    <textureregion id="4" src="a2_13_3_2_iphone_right.png" x="3" y="647" width="380" height="373" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="380" srcheight="373"/>
+    <textureregion id="5" src="a2_8_iphone_table.png" x="967" y="239" width="960" height="390" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="390"/>
+    <textureregion id="6" src="a2_9_iphone_success.png" x="1155" y="3" width="858" height="232" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="858" srcheight="232"/>
+</texture>

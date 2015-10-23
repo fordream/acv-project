@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="opai_shippo_hiepita.pvr.ccz" type="pvrccz" width="1902" height="1002" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:3f4e7e1147a82f9f9d643aa9e1c77547$ -->
+    <textureregion id="0" src="a15_15e_1_iphone_opai.png" x="1428" y="3" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="1" src="a15_15e_2_iphone_opai.png" x="1053" y="528" width="521" height="471" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="2" src="a15_15e_3_iphone_opai.png" x="953" y="3" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="3" src="a15_15f_1_iphone_shippo.png" x="528" y="528" width="521" height="471" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="4" src="a15_15f_2_iphone_shippo.png" x="478" y="3" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="5" src="a15_15f_3_iphone_shippo.png" x="3" y="528" width="521" height="471" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+    <textureregion id="6" src="a15_15g_iphone_hiepita.png" x="3" y="3" width="521" height="471" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="521" srcheight="471"/>
+</texture>

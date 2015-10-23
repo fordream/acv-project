@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/howto_play_display"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:animationCache="false" >
+
+    <ImageView
+        android:id="@+id/help_background"
+        android:layout_width="960px"
+        android:layout_height="640px"
+        android:background="@drawable/b1_03_adr_haikei_fixoutofmemory" />
+
+    <ImageView
+        android:id="@+id/help_image"
+        android:layout_width="960px"
+        android:layout_height="640px" />
+
+    <ImageView
+        android:id="@+id/help_left"
+        android:layout_width="79px"
+        android:layout_height="79px"
+        android:background="@drawable/b1_01_3_adr_left_fixoutofmemory"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/help_right"
+        android:layout_width="79px"
+        android:layout_height="79px"
+        android:background="@drawable/b1_01_2_adr_right_fixoutofmemory"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/help_text"
+        android:layout_width="140px"
+        android:layout_height="70px" />
+</RelativeLayout>

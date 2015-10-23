@@ -1,0 +1,10 @@
+- check version code
+- check version name
+- check server real
+
+//-------------------------------------------
+// release version 1.2.8
+//-------------------------------------------
+	-	change message when update web and content, (checkUpdate == 3) -> show message is web update.
+		+ change Top
+		s

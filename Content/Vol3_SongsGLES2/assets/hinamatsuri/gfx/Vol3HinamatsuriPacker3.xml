@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3HinamatsuriPacker3.pvr.ccz" type="pvrccz" width="2048" height="2048" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:8fb7bfc4a73a2867ac3ba901fdc5d564$ -->
+    <textureregion id="0" src="a3_16_1_iphone_sakura.png" x="935" y="1229" width="928" height="609" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="928" srcheight="609"/>
+    <textureregion id="1" src="a3_16_2_iphone_sakura.png" x="3" y="1260" width="928" height="609" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="928" srcheight="609"/>
+    <textureregion id="2" src="a3_16_3_iphone_sakura.png" x="3" y="647" width="928" height="609" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="928" srcheight="609"/>
+    <textureregion id="3" src="a3_16_4_iphone_sakura.png" x="967" y="616" width="928" height="609" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="928" srcheight="609"/>
+    <textureregion id="4" src="a3_16_5_iphone_sakura.png" x="967" y="3" width="928" height="609" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="928" srcheight="609"/>
+    <textureregion id="5" src="a3_19_iphone_haikei.png" x="3" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+</texture>

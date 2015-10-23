@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="main.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:9fd4162e35700b11e85615ff798f9fbc$ -->
+    <textureregion id="0" src="a22_03_1_iphone_cake.png" x="450" y="411" width="443" height="404" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="443" srcheight="404"/>
+    <textureregion id="1" src="a22_03_2_iphone_cake.png" x="3" y="411" width="443" height="404" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="443" srcheight="404"/>
+    <textureregion id="2" src="a22_03_3_iphone_cake.png" x="1344" y="3" width="443" height="404" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="443" srcheight="404"/>
+    <textureregion id="3" src="a22_03_4_iphone_cake.png" x="897" y="3" width="443" height="404" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="443" srcheight="404"/>
+    <textureregion id="4" src="a22_03_5_iphone_cake.png" x="450" y="3" width="443" height="404" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="443" srcheight="404"/>
+    <textureregion id="5" src="a22_03_6_iphone_cake.png" x="3" y="3" width="443" height="404" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="443" srcheight="404"/>
+    <textureregion id="6" src="a22_04_1_iphone_cracker.png" x="897" y="706" width="272" height="291" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="272" srcheight="291"/>
+    <textureregion id="7" src="a22_04_2_iphone_cracker.png" x="897" y="411" width="272" height="291" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="272" srcheight="291"/>
+    <textureregion id="8" src="a22_04_3_iphone_cracker.png" x="1752" y="298" width="272" height="291" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="272" srcheight="291"/>
+    <textureregion id="9" src="a22_04_4_iphone_cracker.png" x="1752" y="3" width="272" height="291" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="272" srcheight="291"/>
+    <textureregion id="10" src="a22_04_5_iphone_cracker.png" x="1752" y="298" width="272" height="291" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="272" srcheight="291"/>
+    <textureregion id="11" src="a22_04_6_iphone_cracker.png" x="1752" y="3" width="272" height="291" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="272" srcheight="291"/>
+    <textureregion id="12" src="a22_05_1_iphone_cracker.png" x="1744" y="593" width="273" height="290" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="273" srcheight="290"/>
+    <textureregion id="13" src="a22_05_2_iphone_cracker.png" x="1173" y="727" width="273" height="290" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="273" srcheight="290"/>
+    <textureregion id="14" src="a22_05_3_iphone_cracker.png" x="1467" y="450" width="273" height="290" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="273" srcheight="290"/>
+    <textureregion id="15" src="a22_05_4_iphone_cracker.png" x="1173" y="450" width="273" height="290" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="273" srcheight="290"/>
+    <textureregion id="16" src="a22_05_5_iphone_cracker.png" x="1467" y="450" width="273" height="290" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="273" srcheight="290"/>
+    <textureregion id="17" src="a22_05_6_iphone_cracker.png" x="1173" y="450" width="273" height="290" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="273" srcheight="290"/>
+    <textureregion id="18" src="a22_happybirthday_1_iphone.png" x="1450" y="851" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+    <textureregion id="19" src="a22_happybirthday_2_iphone.png" x="1557" y="744" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+    <textureregion id="20" src="a22_happybirthday_3_iphone.png" x="1450" y="744" width="103" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="103"/>
+</texture>

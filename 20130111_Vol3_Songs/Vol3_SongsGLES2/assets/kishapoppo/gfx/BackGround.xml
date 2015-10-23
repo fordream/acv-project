@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="BackGround.pvr.ccz" type="pvrccz" width="1916" height="646" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:08fd86fde054027b5b7616d99945ab32$ -->
+    <textureregion id="0" src="a5_21_iphone_haikei.png" x="3" y="3" width="1910" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1910" srcheight="640"/>
+</texture>

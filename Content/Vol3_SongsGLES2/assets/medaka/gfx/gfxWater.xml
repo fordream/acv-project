@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="gfxWater.pvr.ccz" type="pvrccz" width="967" height="975" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:d12947e2fe6aafad72fc03429c16b516$ -->
+    <textureregion id="0" src="a4_11_iphone.png" x="3" y="505" width="960" height="467" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="467"/>
+    <textureregion id="1" src="a4_13_22_iphone.png" x="3" y="3" width="961" height="498" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="961" srcheight="498"/>
+</texture>

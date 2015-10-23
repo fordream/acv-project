@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="mushibaikin.pvr.ccz" type="pvrccz" width="1793" height="912" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:bb73804bc4a4dab75119239a50ef49ef$ -->
+    <textureregion id="0" src="a4_5_5_1_iphone_mushibaikin.png" x="1197" y="458" width="451" height="593" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="451" srcheight="593"/>
+    <textureregion id="1" src="a4_5_5_2_iphone_mushibaikin.png" x="600" y="458" width="451" height="593" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="451" srcheight="593"/>
+    <textureregion id="2" src="a4_5_5_3_iphone_mushibaikin.png" x="3" y="458" width="451" height="593" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="451" srcheight="593"/>
+    <textureregion id="3" src="a4_5_5_4_iphone_mushibaikin.png" x="1197" y="3" width="451" height="593" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="451" srcheight="593"/>
+    <textureregion id="4" src="a4_5_5_5_iphone_mushibaikin.png" x="600" y="3" width="451" height="593" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="451" srcheight="593"/>
+    <textureregion id="5" src="a4_5_5_6_iphone_mushibaikin.png" x="3" y="3" width="451" height="593" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="451" srcheight="593"/>
+</texture>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture
+    file="button_buy_new.pvr.ccz"
+    height="512"
+    magfilter="linear"
+    minfilter="linear"
+    pixelformat="RGBA_8888"
+    premultiplyalpha="false"
+    type="pvrccz"
+    version="1"
+    width="512"
+    wraps="clamp"
+    wrapt="clamp" >
+
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:c00780c768bf5b8f15494df843300441$ -->
+
+    <textureregion
+        id="0"
+        height="292"
+        rotated="false"
+        src="TOP-17-iPhone-buy_0226.png"
+        srcheight="292"
+        srcwidth="292"
+        srcx="0"
+        srcy="0"
+        trimmed="false"
+        width="292"
+        x="1"
+        y="1" />
+
+</texture>

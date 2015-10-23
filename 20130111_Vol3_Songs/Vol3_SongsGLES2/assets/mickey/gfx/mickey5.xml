@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="mickey5.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:78f734f0cc01284ba0b97cc5e41bd132$ -->
+    <textureregion id="0" src="a79_1_1_iphone.png" x="3" y="570" width="962" height="310" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="310"/>
+    <textureregion id="1" src="a79_1_2_iphone.png" x="3" y="3" width="1407" height="563" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="1407" srcheight="563"/>
+</texture>

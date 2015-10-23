@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="namescreen_webView">最新情報</string>
+    <string name="namescreen_splash"></string>
+    <string name="namescreen_top">TOP画面</string>
+    <string name="namescreen_help"></string>
+    <string name="namescreen_credit"></string>
+    <string name="namescreen_buy">曲ついか</string>
+    <string name="namescreen_selectsong_tab1">カラオケ</string>
+    <string name="namescreen_selectsong_tab2">手遊び</string>
+    <string name="namescreen_selectsong_tab3">うた</string>
+
+    <!-- khong dung -->
+    <string name="namescreen_list_buy_singlevol1">list_buy_singlevol1</string>
+    <string name="namescreen_list_buy_singlevol2">list_buy_singlevol2</string>
+    <string name="namescreen_list_buy_singlevol3">list_buy_singlevol3</string>
+    <string name="namescreen_Access_Count">アクセス件数</string>
+    <string name="namescreen_Play_time">アクセス時間（分）</string>
+    <!-- số lần download -->
+    <string name="namescreen_count_downnload">ダウンロード回数</string>
+    <string name="namescreen_count_update">アップグレード回数</string>
+
+</resources>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Language" content="ja" />
+<title>タッチ！うごく うたえほん</title>
+<link media="all" rel="stylesheet" href="common.css" type="text/css" />
+</head>
+<body>
+
+	<div id="header">
+		<p>
+			<img src="./images/logo.png" width="36%" alt="タッチ！うごく うたえほん" />
+		</p>
+	</div>
+
+	<div align="center">
+		<p>
+			<font color="#ffff99">企画</font> 株式会社エクシング <br /> <a href="http://www.xing.co.jp/">http://www.xing.co.jp/</a><br /> <br /> スマホママ部 <br /> <a href="http://app.joysound.com/sumahomama/">http://app.joysound.com/sumahomama/</a><br />
+			酒井恭子、先村良歩、鈴木康恵、<br /> 射手矢鈴音、安達春祥<br /> <br />サポート・お問い合わせ<br /> <a href="http://joysound.com/ex/support/inquiry/">http://joysound.com/ex/support/inquiry/</a> <br /> <br /> <font
+				color="#ffff99">開発</font> アットマークカフェ株式会社 <a href="http://www.atmarkcafe.jp/">http://www.atmarkcafe.jp/</a> <br /> <br /> <font color="#ffff99">動画撮影・編集</font> VISTA Co. Ltd<br /> <font
+				color="#ffff99"><br /> 手遊び演出</font> つのだりょうこ<br /> <a href="http://www.fareastcompany.net/ryoko/">http://www.fareastcompany.net/ryoko/</a><br /> （うた：アブラハムのこ、おおきなくりのきのしたで<br />
+			おにのパンツ、おはなしゆびさん、おべんとうばこのうた<br /> かたつむり、げんこつやまのたぬきさん<br /> こぶたぬきつねこ、ごんべさんのあかちゃん<br /> さかながはねて、しあわせならてをたたこう<br /> だるまさんだるまさん、ドレミのうた<br /> ハッピーバースデー、パンダうさぎコアラ<br /> ふしぎなポケット、ぶんぶんぶん<br />
+			むすんでひらいて、やまごやいっけん<br /> やきいもグーチーパー、いとまきのうた） <br /> <br /> <font color="#ffff99">協力<br />
+			</font> 株式会社ファー・イースト・カンパニー<br /> <a href="http://www.fareastcompany.net/">http://www.fareastcompany.net/</a><br /> アクアプレス株式会社<br />Viet Nhat General JSC. - VINICORP<br /> <a
+				href="http://www.vinicorp.com.vn/">http://www.vinicorp.com.vn/</a><br /> <br /> <font color="#ffff99">スタイリスト</font> しみずちえこ <br /> <font color="#ffff99">ヘアメイク</font> LAULEA 黒澤貴郎 <br /> <font
+				color="#ffff99">グラフィックデザイナー</font> Rinne <br /> <br /> <font color="#ffff99">スペシャルサンクス</font><br /> 美樂ちゃん、丈太郎くん、菜結ちゃん、リアンくん、<br />裕生くん、凪音くん、花音ちゃん、健太郎くん<br />SSD、羽賀祐介、藤澤卓弥、下河辺行敏、<br />久野貴史、水野陽平、石原圭悟、伊藤雄一郎、<br />堀江康明、足立聡、林知浩、小泉一知、<br />島村舞、横山愛莉子、安藤隆、阿部達夫、<br />岡田翔、海老沢里沙、北野友羽里
+		</p>
+		<p>&nbsp;</p>
+	</div>
+	<div>
+		<div align="center">
+			<table summary="イラストレーター一覧" with="100%" align="center">
+				<tr>
+					<td with="30%"><img src="file:///sdcard/images/illust-03.png" width="100%" alt="あめふり" /></td>
+					<th with="20%"><em>あめふり</em>
+						<p>挿絵／Rinne</p></th>
+					<td with="30%"><p>
+							<img src="file:///sdcard/images/illust-09.png" width="100%" alt="おにのパンツ" /></td>
+					<th with="20%"><em>おにのパンツ</em>
+						<p>
+							挿絵／min<br /> <a href="http://spicemachine.net/">http://spicemachine.net/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-13.png" width="100%" alt="かたつむり" /></td>
+					<th><em>かたつむり</em>
+						<p>
+							挿絵／がみ<br /> <a href="http://www.gami-s.com/">http://www.gami-s.com/</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-14.png" width="100%" alt="かもめのすいへいさん" /></td>
+					<th><em>かもめのすいへいさん</em>
+						<p>挿絵／NAO</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-20.png" width="100%" alt="ごんべさんのあかちゃん" /></td>
+					<th><em>ごんべさんのあかちゃん</em>
+						<p>挿絵／Rinne</p></th>
+					<td><p>
+							<img src="./images/illust-23.png" width="100%" alt="しゃぼんだま" /></td>
+					<th><em>しゃぼんだま</em>
+						<p>
+							挿絵／RYOKO<br /> <a href="http://ryokooekaki.ciao.jp/">http://ryokooekaki.ciao.jp/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-26.png" width="100%" alt="だるまさんだるまさん" /></td>
+					<th><em>だるまさんだるまさん</em>
+						<p>挿絵／Rinne</p></th>
+					<td><p>
+							<img src="./images/illust-27.png" width="100%" alt="ちょうちょう" /></td>
+					<th><em>ちょうちょう</em>
+						<p>
+							挿絵／aque<br /> <a href="http://homepage.mac.com/aquemeg/">http://homepage.mac.com/aquemeg/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-29.png" width="100%" alt="どんぐりころころ" /></td>
+					<th><em>どんぐりころころ</em>
+						<p>挿絵／Rinne</p></th>
+					<td><p>
+							<img src="./images/illust-35.png" width="100%" alt="むすんでひらいて" /></td>
+					<th><em>むすんでひらいて</em>
+						<p>挿絵／Rinne</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-04.png" width="100%" alt="いぬのおまわりさん" /></td>
+					<th><em>いぬのおまわりさん</em>
+						<p>
+							作詞／佐藤義美<br />作曲／大中恩<br />JASRACコード／
+							<code>007-0219-6</code>
+							<br />挿絵／わたなべふみ<br /> <a href="http://www.fumira.jp/">http://www.fumira.jp/</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-08.png" width="100%" alt="おおきなくりのきのしたで" /></td>
+					<th><em>おおきなくりのきのしたで</em>
+						<p>
+							作詞／平多正於<br />作曲／不詳<br />JASRACコード／
+							<code>015-7585-6</code>
+							<br />挿絵／RYOKO<br /> <a href="http://ryokooekaki.ciao.jp/">http://ryokooekaki.ciao.jp/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-11.png" width="100%" alt="おべんとうばこのうた" /></td>
+					<th><em>おべんとうばこのうた</em>
+						<p>
+							作詞・作曲／わらべうた<br />JASRACコード／
+							<code>014-8155-0</code>
+							<br />挿絵／Rinne
+						</p></th>
+					<td><p>
+							<img src="./images/illust-12.png" width="100%" alt="おもちゃのちゃちゃちゃ" /></td>
+					<th><em>おもちゃのちゃちゃちゃ</em>
+						<p>
+							作詞／野坂昭如<br />補作詞／吉岡治<br />作曲／越部信義<br />JASRACコード／013-0500-0<br />挿絵／はしあさこ<br /> <a href="http://www15.plala.or.jp/ASAKO/web/top.html">http://www15.plala.or.jp/ASAKO/web/top.html</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-17.png" width="100%" alt="げんこつやまのたぬきさん" /></td>
+					<th><em>げんこつやまのたぬきさん</em>
+						<p>挿絵／Rinne</p></th>
+					<td><p>
+							<img src="./images/illust-25.png" width="100%" alt="ぞうさん" /></td>
+					<th><em>ぞうさん</em>
+						<p>
+							作詞／まどみちお<br />作曲／団伊玖磨<br />JASRACコード／
+							<code>045-0017-2</code>
+							<br />挿絵／Ｍ＠Ｒ<br /> <a href="http://www.mebaeru.com/">http://www.mebaeru.com/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-31.png" width="100%" alt="はと" /></td>
+					<th><em>はと</em>
+						<p>挿絵／Rinne</p></th>
+					<td><p>
+							<img src="./images/illust-32.png" width="100%" alt="パンダうさぎコアラ" /></td>
+					<th><em>パンダうさぎコアラ</em>
+						<p>
+							作詞／高田ひろお<br />作曲／乾裕樹<br />JASRACコード／
+							<code>069-1260-5</code>
+							<br />挿絵／Rinne
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-33.png" width="100%" alt="ふしぎなポケット" /></td>
+					<th><em>ふしぎなポケット</em>
+						<p>
+							作詞／まどみちお<br />作曲／渡辺茂<br />JASRACコード／
+							<code>074-0028-4</code>
+							<br />挿絵／aque<br /> <a href="http://homepage.mac.com/aquemeg/">http://homepage.mac.com/aquemeg/</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-42.png" width="100%" alt="ゆき" /></td>
+					<th><em>ゆき</em>
+						<p>挿絵／Rinne</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-01.png" width="100%" alt="アイアイ" /></td>
+					<th><em>アイアイ</em>
+						<p>
+							作詞／相田裕美<br />作曲／宇野誠一郎<br />JASRACコード／
+							<code>000-2092-3</code>
+							<br />挿絵／古尾谷涼子
+						</p></th>
+					<td><p>
+							<img src="./images/illust-02.png" width="100%" alt="アブラハムのこ" /></td>
+					<th><em>アブラハムのこ</em>
+						<p>
+							訳詞／加藤孝広<br /> <br />挿絵／原ペコリ<br /> <a href="http://mobi.pecori.jp/">http://mobi.pecori.jp/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-05.png" width="100%" alt="うさぎとかめ" /></td>
+					<th><em>うさぎとかめ</em>
+						<p>
+							挿絵／はしあさこ<br /> <a href="http://www15.plala.or.jp/ASAKO/web/top.html">http://www15.plala.or.jp/ASAKO/web/top.html</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-06.png" width="100%" alt="うみ" /></td>
+					<th><em>うみ</em>
+						<p>
+							作詞／林柳波<br />作曲／井上武士<br />JASRACコード／
+							<code>010-0091-8</code>
+							<br />挿絵／わたなべふみ<br /> <a href="http://www.fumira.jp/">http://www.fumira.jp/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-07.png" width="100%" alt="うらしまたろう" /></td>
+					<th><em>うらしまたろう</em>
+						<p>
+							挿絵／しみずとしやす<br /> <a href="http://homepage3.nifty.com/~waterman/">http://homepage3.nifty.com/~waterman/</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-10.png" width="100%" alt="おはなしゆびさん" /></td>
+					<th><em>おはなしゆびさん</em>
+						<p>
+							作詞／香山美子<br />作曲／湯山昭<br />JASRACコード／
+							<code>013-0359-7</code>
+							<br />挿絵／せり★のりか<br /> <a href="http://www.serinori.com/">http://www.serinori.com/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-15.png" width="100%" alt="きしゃポッポ" /></td>
+					<th><em>きしゃポッポ</em>
+						<p>
+							作詞／富原薫<br />作曲／草川信<br />JASRACコード／
+							<code>024-0040-5</code>
+							<br />挿絵／aque<br /> <a href="http://homepage.mac.com/aquemeg/">http://homepage.mac.com/aquemeg/</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-16.png" width="100%" alt="きんたろう" /></td>
+					<th><em>きんたろう</em>
+						<p>
+							挿絵／min<br /> <a href="http://spicemachine.net/">http://spicemachine.net/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-18.png" width="100%" alt="こいのぼり" /></td>
+					<th><em>こいのぼり</em>
+						<p>
+							挿絵／Ｍ＠Ｒ<br /> <a href="http://www.mebaeru.com/">http://www.mebaeru.com/</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-19.png" width="100%" alt="こぶたぬきつねこ" /></td>
+					<th><em>こぶたぬきつねこ</em>
+						<p>
+							作詞／山本直純<br />作曲／山本直純<br />JASRACコード／
+							<code>031-4805-0</code>
+							<br />挿絵／下川幸枝<br /> <a href="http://www.kfstudio.net/">http://www.kfstudio.net/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-21.png" width="100%" alt="さかながはねて" /></td>
+					<th><em>さかながはねて</em>
+						<p>
+							作詞／中川ひろたか<br />作曲／中川ひろたか<br />JASRACコード／
+							<code>037-0943-4</code>
+							<br />挿絵／下川幸枝<br /> <a href="http://www.kfstudio.net/">http://www.kfstudio.net/</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-22.png" width="100%" alt="しあわせならてをたたこう" /></td>
+					<th><em>しあわせならてをたたこう</em>
+						<p>
+							作詞／木村利人<br />作曲／スペイン民謡<br />JASRACコード／
+							<code>0T6-6301-9</code>
+							<br />挿絵／川添むつみ<br /> <a href="http://www.k-mutsumi.com/">http://www.k-mutsumi.com/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-24.png" width="100%" alt="10にんのインディアン" /></td>
+					<th><em>10にんのインディアン</em>
+						<p>
+							作詞／高田三九三<br />作曲／アメリカ民謡<br />JASRACコード／
+							<code>039-0517-9</code>
+							<br />挿絵／aque<br /> <a href="http://homepage.mac.com/aquemeg/">http://homepage.mac.com/aquemeg/</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-28.png" width="100%" alt="ドレミのうた" /></td>
+					<th><em>ドレミのうた</em>
+						<p>
+							訳詞／ペギー葉山<br />作曲／リチャード・ロジャース<br />JASRACコード／
+							<code>0D0-2280-7</code>
+							<br />挿絵／原ペコリ<br /> <a href="http://mobi.pecori.jp/">http://mobi.pecori.jp/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-30.png" width="100%" alt="ハッピーバースデー" /></td>
+					<th><em>ハッピーバースデー</em>
+						<p>
+							挿絵／イシグロフミカ<br /> <a href="http://www.geocities.jp/funyanihouse/">http://www.geocities.jp/funyanihouse/</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-34.png" width="100%" alt="ぶんぶんぶん" /></td>
+					<th><em>ぶんぶんぶん</em>
+						<p>
+							訳詞／村野四郎<br />作曲／ボヘミア民謡<br />JASRACコード／
+							<code>074-0188-4</code>
+							<br />挿絵／がみ<br /> <a href="http://www.gami-s.com/">http://www.gami-s.com/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-36.png" width="100%" alt="ももたろう" /></td>
+					<th><em>ももたろう</em>
+						<p>
+							挿絵／ヒコサカ☆デザイン<br /> <a href="http://homepage.mac.com/hi_com788/">http://homepage.mac.com/hi_com788/</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-37.png" width="100%" alt="もりのくまさん" /></td>
+					<th><em>もりのくまさん</em>
+						<p>
+							訳詞／馬場祥弘<br />作曲／アメリカ民謡<br />JASRACコード／
+							<code>087-1453-3</code>
+							<br />挿絵／はしあさこ<br /> <a href="http://www15.plala.or.jp/ASAKO/web/top.html">http://www15.plala.or.jp/ASAKO/web/top.html</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-38.png" width="100%" alt="やぎさんゆうびん" /></td>
+					<th><em>やぎさんゆうびん</em>
+						<p>
+							訳詞／まどみちお<br />作曲／團伊玖磨<br />JASRACコード／
+							<code>088-0954-2</code>
+							<br />挿絵／がみ<br /> <a href="http://www.gami-s.com/">http://www.gami-s.com/</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-39.png" width="100%" alt="やまごやいっけん" /></td>
+					<th><em>やまごやいっけん</em>
+						<p>
+							訳詞／志摩桂<br />作曲／アメリカ民謡<br />JASRACコード／
+							<code>088-2360-0</code>
+							<br />挿絵／RYOKO<br /> <a href="http://ryokooekaki.ciao.jp/">http://ryokooekaki.ciao.jp/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<td><p>
+							<img src="./images/illust-40.png" width="100%" alt="やまのおんがくか" /></td>
+					<th><em>やまのおんがくか</em>
+						<p>
+							訳詞／水田詩仙<br />作曲／ドイツ民謡<br />JASRACコード／
+							<code>088-0645-4</code>
+							<br />挿絵／しみずとしやす<br /> <a href="http://homepage3.nifty.com/~waterman/">http://homepage3.nifty.com/~waterman/</a>
+						</p></th>
+					<td><p>
+							<img src="./images/illust-41.png" width="100%" alt="ゆかいなまきば" /></td>
+					<th><em>ゆかいなまきば</em>
+						<p>
+							訳詞／小林幹治<br />作曲／アメリカ民謡<br />JASRACコード／
+							<code>090-0083-6</code>
+							<br />挿絵／RYOKO<br /> <a href="http://ryokooekaki.ciao.jp/">http://ryokooekaki.ciao.jp/</a>
+						</p></th>
+				</tr>
+				<tr>
+					<!-- ▼あわてんぼうのサンタクロース▼ -->
+					<td><p>
+							<img src="./images/illust-43.png" width="100%" alt="あわてんぼうのサンタクロース" /></td>
+					<th><em>あわてんぼうのサンタクロース</em>
+						<p>
+							作詞／吉岡治<br />作曲／小林亜星<br />JASRACコード／
+							<code>000-2127-0</code>
+							<br />挿絵／せり★のりか<br /> <a href="http://www.serinori.com/">http://www.serinori.com/</a>
+						</p></th>
+					<!-- ▲あわてんぼうのサンタクロース▲ -->
+					<!-- ▼やきいもグーチーパー▼ -->
+					<td><p>
+							<img src="./images/illust-44.png" width="100%" alt="やきいもグーチーパー" /></td>
+					<th><em>やきいもグーチーパー</em>
+						<p>
+							作詞／阪田寛夫<br />作曲／山本直純<br />JASRACコード／
+							<code>088-1228-4</code>
+							<br />挿絵／ヒコサカ☆デザイン<br /> <a href="http://homepage.mac.com/hi_com788/">http://homepage.mac.com/hi_com788/</a>
+						</p></th>
+					<!-- ▲やきいもグーチーパー▲ -->
+				</tr>
+				<tr>
+					<!-- ▼おしょうがつ▼ -->
+					<td><p>
+							<img src="./images/illust-45.png" width="100%" alt="おしょうがつ" /></td>
+					<th><em>おしょうがつ</em>
+						<p>
+							挿絵／キッカワケイタ<br /> <a href="http://www.keitymouse.com/">http://www.keitymouse.com/</a>
+						</p></th>
+					<!-- ▲おしょうがつ▲ -->
+				</tr>
+				<tr>
+					<!-- ▼いとまきのうた▼ -->
+					<td><p>
+							<img src="./images/illust-49.png" width="100%" alt="いとまきのうた" /></td>
+					<th><em>いとまきのうた</em>
+						<p>
+							作詞／香山美子<br />作曲／小森昭宏<br />JASRACコード／
+							<code>007-8396-0</code>
+							<br />挿絵／わたなべふみ<br /> <a href="http://www.fumira.jp/">http://www.fumira.jp/</a>
+						</p></th>
+					<!-- ▲いとまきのうた▲ -->
+					<!-- ▼チューリップ▼ -->
+					<td><p>
+							<img src="./images/illust-50.png" width="100%" alt="チューリップ" /></td>
+					<th><em>チューリップ</em>
+						<p>
+							作詞／日本教育音楽協会<br />作曲／井上武士<br />JASRACコード／
+							<code>
+								050-6318-3<br />050-0096-3
+							</code>
+							<br />挿絵／わたなべふみ<br /> <a href="http://www.fumira.jp/">http://www.fumira.jp/</a>
+						</p></th>
+					<!-- ▲チューリップ▲ -->
+				</tr>
+				<tr>
+					<!-- ▼うれしいひなまつり▼ -->
+					<td><p>
+							<img src="./images/illust-51.png" width="100%" alt="うれしいひなまつり" /></td>
+					<th><em>うれしいひなまつり</em>
+						<p>
+							作詞／サトウハチロー<br />作曲／河村光陽<br />JASRACコード／
+							<code>010-0193-1</code>
+							<br />挿絵／わたなべふみ<br /> <a href="http://www.fumira.jp/">http://www.fumira.jp/</a>
+						</p></th>
+					<!-- ▲うれしいひなまつり▲ -->
+				</tr>
+			</table>
+		</div>
+	</div>
+
+	<div class="jas">
+		<dl>
+			<dt>JASRAC許諾番号</dt>
+			<dd>
+				6577872348Y30005<br />（追記番号）
+			</dd>
+		</dl>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="gomira.pvr.ccz" type="pvrccz" width="1253" height="914" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:82ac0df9e43c5630a70a6e25c9acbf64$ -->
+    <textureregion id="0" src="a4_5_7_1_iphone_gomira.png" x="837" y="459" width="413" height="452" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="413" srcheight="452"/>
+    <textureregion id="1" src="a4_5_7_2_iphone_gomira.png" x="837" y="3" width="413" height="452" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="413" srcheight="452"/>
+    <textureregion id="2" src="a4_5_7_3_iphone_gomira.png" x="420" y="459" width="413" height="452" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="413" srcheight="452"/>
+    <textureregion id="3" src="a4_5_7_4_iphone_gomira.png" x="420" y="3" width="413" height="452" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="413" srcheight="452"/>
+    <textureregion id="4" src="a4_5_7_5_iphone_gomira.png" x="3" y="459" width="413" height="452" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="413" srcheight="452"/>
+    <textureregion id="5" src="a4_5_7_6_iphone_gomira.png" x="3" y="3" width="413" height="452" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="413" srcheight="452"/>
+</texture>

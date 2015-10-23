@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="guchokipa26.pvr.ccz" type="pvrccz" width="1151" height="598" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:7fab581fe6896ece68b048daccd59e63$ -->
+    <textureregion id="0" src="a1_7_1_iphone_piero.png" x="2" y="2" width="227" height="594" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="594"/>
+    <textureregion id="1" src="a1_7_2_iphone_piero.png" x="232" y="2" width="227" height="594" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="594"/>
+    <textureregion id="2" src="a1_7_3_iphone_piero.png" x="462" y="2" width="227" height="594" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="594"/>
+    <textureregion id="3" src="a1_7_4_iphone_piero.png" x="692" y="2" width="227" height="594" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="594"/>
+    <textureregion id="4" src="a1_7_5_iphone_piero.png" x="922" y="2" width="227" height="594" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="227" srcheight="594"/>
+</texture>

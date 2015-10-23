@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="packer_partc_2.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:916e13729fdc37ae3fa8f6fb05b59407$ -->
+    <textureregion id="0" src="A3-15A_1_6-iPhone-tako2.png" x="1713" y="461" width="310" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="1" src="A3-15A_1_7-iPhone-tako2.png" x="1254" y="315" width="310" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="2" src="A3-15A_1_8-iPhone-tako2.png" x="1713" y="2" width="310" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="3" src="A3-15A_2_6-iPhone-tako2.png" x="1254" y="2" width="310" height="456" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="4" src="A3-15A_2_7-iPhone-tako2.png" x="941" y="461" width="310" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="5" src="A3-15A_2_8-iPhone-tako2.png" x="941" y="2" width="310" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="6" src="A3-15A_3_6-iPhone-tako2.png" x="628" y="461" width="310" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="7" src="A3-15A_3_7-iPhone-tako2.png" x="628" y="2" width="310" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="8" src="A3-15A_3_8-iPhone-tako2.png" x="315" y="461" width="310" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="9" src="A3-15A_4_6-iPhone-tako2.png" x="315" y="2" width="310" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="10" src="A3-15A_4_7-iPhone-tako2.png" x="2" y="461" width="310" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="11" src="A3-15A_4_8-iPhone-tako2.png" x="2" y="2" width="310" height="456" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="310" srcheight="456"/>
+    <textureregion id="12" src="A3-15_4-iPhone-tako2.png" x="1254" y="628" width="255" height="296" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="255" srcheight="296"/>
+</texture>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="arrMonkeyScroll.pvr.ccz" type="pvrccz" width="1909" height="1844" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:0bea6e8006d6c49abf4137df95bbaea3$ -->
+    <textureregion id="0" src="a1_04_1_2_iphone_apple.png" x="573" y="1144" width="633" height="568" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="1" src="a1_04_1_3_iphone_apple.png" x="1209" y="573" width="633" height="568" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="2" src="a1_04_2_2_iphone_orange.png" x="573" y="573" width="633" height="568" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="3" src="a1_04_2_3_iphone_orange.png" x="2" y="1209" width="633" height="568" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="4" src="a1_04_3_2_iphone_banana.png" x="2" y="573" width="633" height="568" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="5" src="a1_04_3_3_iphone_banana.png" x="1274" y="2" width="633" height="568" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="6" src="a1_04_4_2_iphone_nut.png" x="638" y="2" width="633" height="568" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+    <textureregion id="7" src="a1_04_4_3_iphone_nut.png" x="2" y="2" width="633" height="568" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="633" srcheight="568"/>
+</texture>

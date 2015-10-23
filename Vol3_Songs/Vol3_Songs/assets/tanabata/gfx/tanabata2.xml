@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="tanabata2.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:7588b99ed3fb4213f94c23696fb21562$ -->
+    <textureregion id="0" src="a1_18_iphone_haikei_ue.png" x="1103" y="3" width="855" height="283" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="855" srcheight="283"/>
+    <textureregion id="1" src="a1_6_1_iphone_town.png" x="1103" y="491" width="490" height="197" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="490" srcheight="197"/>
+    <textureregion id="2" src="a1_6_2_iphone_town.png" x="1349" y="290" width="490" height="197" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="490" srcheight="197"/>
+    <textureregion id="3" src="a1_6_3_iphone_town.png" x="855" y="290" width="490" height="197" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="490" srcheight="197"/>
+    <textureregion id="4" src="a1_6_4_iphone_town.png" x="1103" y="692" width="490" height="197" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="490" srcheight="197"/>
+    <textureregion id="5" src="a1_8_1_iphone_boy.png" x="837" y="503" width="262" height="443" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="262" srcheight="443"/>
+    <textureregion id="6" src="a1_8_2_iphone_boy.png" x="571" y="503" width="262" height="443" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="262" srcheight="443"/>
+    <textureregion id="7" src="a1_9_1_iphone_girl.png" x="287" y="3" width="280" height="496" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="280" srcheight="496"/>
+    <textureregion id="8" src="a1_9_2_iphone_girl.png" x="3" y="503" width="280" height="496" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="280" srcheight="496"/>
+    <textureregion id="9" src="a1_9_3_iphone_girl.png" x="3" y="3" width="280" height="496" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="280" srcheight="496"/>
+    <textureregion id="10" src="a1_9_4_iphone_girl.png" x="287" y="503" width="280" height="496" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="280" srcheight="496"/>
+    <textureregion id="11" src="a1_9_5_iphone_girl_hand.png" x="571" y="3" width="280" height="496" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="280" srcheight="496"/>
+</texture>

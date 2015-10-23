@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3PrikyuaPacker4.pvr.ccz" type="pvrccz" width="2048" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:e2a09ded4bf62ec6ef975a5fadfa6fed$ -->
+    <textureregion id="0" src="setsumon_hinto_iphone.png" x="665" y="946" width="264" height="49" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="264" srcheight="49"/>
+    <textureregion id="1" src="setsumon_iphone.png" x="3" y="893" width="390" height="99" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="390" srcheight="99"/>
+    <textureregion id="2" src="setsumon_kieru_iphone.png" x="665" y="893" width="264" height="49" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="264" srcheight="49"/>
+    <textureregion id="3" src="setsumon_onaji_iphone.png" x="397" y="946" width="264" height="49" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="264" srcheight="49"/>
+    <textureregion id="4" src="setsumon_tigu_iphone.png" x="397" y="893" width="264" height="49" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="264" srcheight="49"/>
+    <textureregion id="5" src="siruetto_beauty_atari_iphone.png" x="1284" y="637" width="179" height="242" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="179" srcheight="242"/>
+    <textureregion id="6" src="siruetto_beauty_kage_iphone.png" x="1150" y="391" width="179" height="242" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="179" srcheight="242"/>
+    <textureregion id="7" src="siruetto_happy_atari_iphone.png" x="1101" y="637" width="179" height="242" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="179" srcheight="242"/>
+    <textureregion id="8" src="siruetto_happy_kage_iphone.png" x="967" y="391" width="179" height="242" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="179" srcheight="242"/>
+    <textureregion id="9" src="siruetto_march_atari_iphone.png" x="918" y="647" width="179" height="242" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="179" srcheight="242"/>
+    <textureregion id="10" src="siruetto_march_kage_iphone.png" x="735" y="647" width="179" height="242" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="179" srcheight="242"/>
+    <textureregion id="11" src="siruetto_piece_atari_iphone.png" x="552" y="647" width="179" height="242" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="179" srcheight="242"/>
+    <textureregion id="12" src="siruetto_piece_kage_iphone.png" x="369" y="647" width="179" height="242" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="179" srcheight="242"/>
+    <textureregion id="13" src="siruetto_sunny_atari_iphone.png" x="186" y="647" width="179" height="242" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="179" srcheight="242"/>
+    <textureregion id="14" src="siruetto_sunny_kage_iphone.png" x="3" y="647" width="179" height="242" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="179" srcheight="242"/>
+    <textureregion id="15" src="start_iphone.png" x="3" y="3" width="960" height="640" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="640"/>
+    <textureregion id="16" src="start_text_iphone.png" x="1101" y="883" width="460" height="134" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="460" srcheight="134"/>
+    <textureregion id="17" src="tyuukan_iphone.png" x="967" y="3" width="384" height="384" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="384" srcheight="384"/>
+</texture>

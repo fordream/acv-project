@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="tizukokki7.pvr.ccz" type="pvrccz" width="759" height="1156" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:9d4e10b7bcbfb9b34c37f035312c1ba9$ -->
+    <textureregion id="0" src="a83_2_1_11_iphone.png" x="3" y="580" width="753" height="573" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="753" srcheight="573"/>
+    <textureregion id="1" src="a83_2_1_12_iphone.png" x="3" y="3" width="753" height="573" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="753" srcheight="573"/>
+</texture>

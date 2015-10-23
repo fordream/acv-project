@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="bokukoshi.pvr.ccz" type="pvrccz" width="1017" height="1987" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:6cc217b21e6df907d9a55ee4921613aa$ -->
+    <textureregion id="0" src="a5_20_2_iphone.png" x="2" y="2" width="962" height="642" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="962" srcheight="642"/>
+    <textureregion id="1" src="a5_2_1_iphone.png" x="2" y="647" width="897" height="562" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="897" srcheight="562"/>
+    <textureregion id="2" src="a5_2_2_iphone.png" x="2" y="1212" width="897" height="562" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="897" srcheight="562"/>
+    <textureregion id="3" src="a5_34_2_iphone.png" x="902" y="1212" width="113" height="159" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="113" srcheight="159"/>
+    <textureregion id="4" src="a5_34_3_iphone.png" x="2" y="1777" width="113" height="159" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="113" srcheight="159"/>
+    <textureregion id="5" src="a5_35_1_iphone.png" x="118" y="1777" width="111" height="53" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="111" srcheight="53"/>
+    <textureregion id="6" src="a5_35_2_iphone.png" x="232" y="1777" width="111" height="53" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="111" srcheight="53"/>
+    <textureregion id="7" src="a5_38_1_iphone.png" x="346" y="1777" width="202" height="208" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="202" srcheight="208"/>
+    <textureregion id="8" src="a5_38_2_iphone.png" x="551" y="1777" width="202" height="208" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="202" srcheight="208"/>
+    <textureregion id="9" src="a5_38_3_iphone.png" x="756" y="1777" width="202" height="208" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="202" srcheight="208"/>
+</texture>

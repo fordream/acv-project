@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="yukirinrin_inu.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:0acd95b12864b2a3d439025dc436ef28$ -->
+    <textureregion id="0" src="a2_11_3_1_iphone_inu.png" x="276" y="703" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="1" src="a2_11_3_2_iphone_inu.png" x="3" y="703" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="2" src="a2_11_3_3_iphone_inu.png" x="549" y="353" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="3" src="a2_11_3_4_iphone_inu.png" x="276" y="353" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="4" src="a2_11_3_5_iphone_inu.png" x="3" y="353" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="5" src="a2_11_3_6_iphone_inu.png" x="549" y="3" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="6" src="a2_11_3_7_iphone_inu.png" x="276" y="3" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="7" src="a2_11_3_8_iphone_inu.png" x="3" y="3" width="269" height="346" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="269" srcheight="346"/>
+    <textureregion id="8" src="a2_13_1_2_iphone_success.png" x="549" y="703" width="253" height="324" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="253" srcheight="324"/>
+</texture>

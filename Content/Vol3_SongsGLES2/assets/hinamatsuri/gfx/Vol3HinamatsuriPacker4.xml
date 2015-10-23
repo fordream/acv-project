@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="Vol3HinamatsuriPacker4.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:4448593a613a2f48de435af1b34acb65$ -->
+    <textureregion id="0" src="a3_18_10_iphone_zabuton.png" x="821" y="267" width="144" height="53" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="144" srcheight="53"/>
+    <textureregion id="1" src="a3_18_11_iphone_zabuton.png" x="980" y="86" width="83" height="24" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="83" srcheight="24"/>
+    <textureregion id="2" src="a3_18_12_iphone_zabuton.png" x="980" y="3" width="39" height="29" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="39" srcheight="29"/>
+    <textureregion id="3" src="a3_18_13_iphone_zabuton.png" x="980" y="36" width="46" height="36" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="46" srcheight="36"/>
+    <textureregion id="4" src="a3_18_1_iphone_zabuton.png" x="821" y="70" width="155" height="63" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="155" srcheight="63"/>
+    <textureregion id="5" src="a3_18_2_iphone_zabuton.png" x="821" y="3" width="155" height="63" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="155" srcheight="63"/>
+    <textureregion id="6" src="a3_18_3_iphone_zabuton.png" x="821" y="202" width="155" height="61" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="155" srcheight="61"/>
+    <textureregion id="7" src="a3_18_4_iphone_zabuton.png" x="821" y="381" width="135" height="60" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="135" srcheight="60"/>
+    <textureregion id="8" src="a3_18_5_iphone_zabuton.png" x="821" y="137" width="155" height="61" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="155" srcheight="61"/>
+    <textureregion id="9" src="a3_18_6_iphone_zabuton.png" x="821" y="324" width="144" height="53" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="144" srcheight="53"/>
+    <textureregion id="10" src="a3_18_7_iphone_zabuton.png" x="960" y="404" width="133" height="51" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="133" srcheight="51"/>
+    <textureregion id="11" src="a3_18_8_iphone_zabuton.png" x="821" y="445" width="123" height="51" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="123" srcheight="51"/>
+    <textureregion id="12" src="a3_18_9_iphone_zabuton.png" x="969" y="267" width="133" height="51" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="133" srcheight="51"/>
+    <textureregion id="13" src="a3_18_iphone_zabuton.png" x="3" y="3" width="814" height="480" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="814" srcheight="480"/>
+    <textureregion id="14" src="a3_18_iphone_zabuton_fix.png" x="1023" y="3" width="-2" height="-2" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="-1" srcheight="-1"/>
+    <textureregion id="15" src="a3_18_iphone_zabuton_fix2.png" x="1023" y="3" width="-2" height="-2" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="-1" srcheight="-1"/>
+</texture>

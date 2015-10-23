@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Language" content="ja" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+	<meta name="viewport" content="target-densitydpi=device-dpi, width=device-width" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+			<title>タッチ！うごく うたえほん</title>
+			<link media="all" rel="stylesheet" href="./commonTOP.css" type="text/css" />
+			<script type="text/javascript" src="./iscroll-lite.js"></script>
+
+			<script type="text/javascript">
+
+	var myScroll;
+	function loaded() {
+		myScroll = new iScroll('inquiry');
+	}
+
+	document.addEventListener('touchmove', function (e) { e.preventDefault(); }, false);
+
+	/* * * * * * * *
+	 *
+	 * Use this for high compatibility (iDevice + Android)
+	 *
+	 */
+	document.addEventListener('DOMContentLoaded', function () { setTimeout(loaded, 200); }, false);
+	/*
+	 * * * * * * * */
+
+
+	/* * * * * * * *
+	 *
+	 * Use this for iDevice only
+	 *
+	 */
+	//document.addEventListener('DOMContentLoaded', loaded, false);
+	/*
+	 * * * * * * * */
+
+
+	/* * * * * * * *
+	 *
+	 * Use this if nothing else works
+	 *
+	 */
+	//window.addEventListener('load', setTimeout(function () { loaded(); }, 200), false);
+	/*
+	 * * * * * * * */
+
+	</script>
+</head>
+<body id="index">
+
+	<div id="container">
+
+		<div id="contents">
+			<div id="inquiry">
+
+				<div id="container">
+					<div class="section">
+						<div id="inquiry_div">
+							<h2>お問い合わせ</h2>
+						</div>
+						<p>
+							お問い合わせメールは24時間受け付けておりますが、基本は平日10:00～18:00に返信させていただきます。<br />また、返信まで多少日数を頂くことがございます。ご了承ください。
+						</p>
+						<p>アプリの不具合に関するお問い合わせにつきましては、</p>
+						<ul>
+							<li>アプリ名</li>
+							<li>ご利用の端末名（例：iPhone4Sなど）</li>
+							<li>OSのバージョン</li>
+							<li>アプリの不具合詳細</li>
+						</ul>
+						<p>を記載して頂けますとよりスムーズに対応することができます。</p>
+
+						<h3>Android版</h3>
+						<a href="mailto:utaehon-android@joysound.com" class="mail">&nbsp;&nbsp;&nbsp;utaehon-android@joysound.com</a>
+					</div>
+
+					<div class="section">
+						<div id="inquiry_div">
+							<h2>よくある質問</h2>
+						</div>
+						<p>「タッチ！うごく うたえほん」に関するよくあるご質問をまとめたページです。</p>
+						<a href="http://sumahomama.com/utaehon/support" class="blank">よくある質問ページへ</a>
+					</div>
+				</div>
+
+			</div>
+
+		</div>
+
+		<div id="navigation">
+			<h1>
+				<img src="./images/inforamtion_title.png" />
+			</h1>
+			<ul>
+				<li><a href="./index.html" target="_self"><img src="./images/menu_news.png" /></a></li>
+				<li><a href="./facebook.html" target="_self"><img src="./images/menu_facebook.png" /></a></li>
+				<li><a href="./inquiry.html" target="_self"><img src="./images/menu_inquiry.png" /></a></li>
+			</ul>
+		</div>
+
+	</div>
+
+</body>
+</html>
